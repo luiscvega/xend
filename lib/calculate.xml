@@ -1,24 +1,21 @@
-<soapenv:Envelope 
-	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" 
-	xmlns:api="https://www.xend.com.ph/api/">
-   <soapenv:Header>
-      <api:AuthHeader>
-         <!--Optional:-->
-         <api:UserToken>E17DE32C-1F77-40AB-B0EC-DC13CAF06723</api:UserToken>
-      </api:AuthHeader>
-   </soapenv:Header>
-   <soapenv:Body>
-      <api:Calculate>
-         <api:ServiceTypeValue>MetroManilaExpress</api:ServiceTypeValue>
-         <api:ShipmentTypeValue>Parcel</api:ShipmentTypeValue>
-         <!--Optional:-->
-         <api:DestinationValue>Manila</api:DestinationValue>
-         <api:Weight>1</api:Weight>
-         <api:DimensionL>1</api:DimensionL>
-         <api:DimensionW>1</api:DimensionW>
-         <api:DimensionH>1</api:DimensionH>
-         <api:DeclaredValue>1</api:DeclaredValue>
-         <api:AddInsurance>true</api:AddInsurance>
-      </api:Calculate>
-   </soapenv:Body>
-</soapenv:Envelope>
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="https://www.xend.com.ph/api/">
+      <UserToken>E17DE32C-1F77-40AB-B0EC-DC13CAF06723</UserToken>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <Calculate xmlns="https://www.xend.com.ph/api/">
+      <ServiceTypeValue>MetroManilaExpress</ServiceTypeValue>
+      <ShipmentTypeValue>Parcel</ShipmentTypeValue>
+      <DestinationValue>Manila</DestinationValue>
+      <Weight>1</Weight>
+      <DimensionL>1</DimensionL>
+      <DimensionW>1</DimensionW>
+      <DimensionH>1</DimensionH>
+      <DeclaredValue>1000</DeclaredValue>
+      <AddInsurance>false</AddInsurance>
+    </Calculate>
+  </soap:Body>
+</soap:Envelope>
