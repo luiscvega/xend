@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="https://www.xend.com.ph/apitest/">
+      <UserToken>081C1A4C-39DE-4A5C-B9AB-610E8EC5E078</UserToken>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <Get xmlns="https://www.xend.com.ph/apitest/">
+      <WaybillNo>1</WaybillNo>
+    </Get>
+  </soap:Body>
+</soap:Envelope>
