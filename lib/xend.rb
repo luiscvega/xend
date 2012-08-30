@@ -2,30 +2,26 @@ require 'ap'
 require 'open3'
 require 'xmlsimple'
 
-# SANDBOX
-  # RateService
-# stdout, stderr, res = Open3.capture3('curl -H "Content-Type: text/xml" -d @rate-calculate-sandbox.xml https://www.xend.com.ph/api/RateService.asmx')
+class Xend
+  def self.curl(soap)
+    Open3.capture3('curl -H "Content-Type: text/xml" -d @../templates/rate-calculate.xml %s' % soap)
+  end
 
-  # BookingService
-# stdout, stderr, res = Open3.capture3('curl -H "Content-Type: text/xml" -d @booking-schedule-sandbox.xml https://www.xend.com.ph/apitest/BookingService.asmx')
+  def self.xml(raw_xml)
+    XmlSimple.xml_in(raw_xml)
+  end
 
-  # ShipmentService
+  class Rate < Xend
+    SOAP = "https://www.xend.com.ph/api/RateService.asmx"
 
-    # Create
-# stdout, stderr, res = Open3.capture3('curl -H "Content-Type: text/xml" -d @shipment-create-sandbox.xml https://www.xend.com.ph/apitest/ShipmentService.asmx')
+    def self.calculate
+      stdout, stderr, res = curl(SOAP)
 
-  # Get
-# stdout, stderr, res = Open3.capture3('curl -H "Content-Type: text/xml" -d @shipment-get-sandbox.xml https://www.xend.com.ph/apitest/ShipmentService.asmx')
+      response = xml stdout
 
+      rate = response["Body"][0]["CalculateResponse"][0]["CalculateResult"][0]
 
+    end
+  end
 
-# LIVE
-
-  # ShipmentService
-    # Create
-# stdout, stderr, res = Open3.capture3('curl -H "Content-Type: text/xml" -d @shipment-create.xml https://www.xend.com.ph/api/ShipmentService.asmx')
-
-    # Get
-stdout, stderr, res = Open3.capture3('curl -H "Content-Type: text/xml" -d @shipment-get.xml https://www.xend.com.ph/api/ShipmentService.asmx')
-
-ap XmlSimple.xml_in(stdout)
+end
