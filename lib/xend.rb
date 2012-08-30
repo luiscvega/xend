@@ -3,8 +3,10 @@ require 'open3'
 require 'xmlsimple'
 
 class Xend
+  TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
+
   def self.request(file, soap)
-    Open3.capture3('curl -H "Content-Type: text/xml" -d @../templates/%s.xml %s' % [file, soap])
+    Open3.capture3('curl -H "Content-Type: text/xml" -d @%s %s' % [File.join(TEMPLATES, "%s.xml" % file), soap])
   end
 
   class Rate < Xend
