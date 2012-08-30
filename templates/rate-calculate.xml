@@ -10,7 +10,7 @@
       <ServiceTypeValue>MetroManilaExpress</ServiceTypeValue>
       <ShipmentTypeValue>Parcel</ShipmentTypeValue>
       <DestinationValue>Manila</DestinationValue>
-      <Weight>1</Weight>
+      <Weight>{{ "1" }}</Weight>
       <DimensionL>1</DimensionL>
       <DimensionW>1</DimensionW>
       <DimensionH>1</DimensionH>

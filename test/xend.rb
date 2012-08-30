@@ -11,5 +11,5 @@ end
 test "get" do
   response = Xend::Shipment.get
   waybill = response.waybill
-  assert_equal "733603482", waybill
+  assert_equal "733603482", waybill["WayBillNo"][0]
 end
