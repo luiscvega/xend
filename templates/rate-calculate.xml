@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="https://www.xend.com.ph/api/">
+      <UserToken>E17DE32C-1F77-40AB-B0EC-DC13CAF06723</UserToken>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <Calculate xmlns="https://www.xend.com.ph/api/">
+      <ServiceTypeValue>MetroManilaExpress</ServiceTypeValue>
+      <ShipmentTypeValue>Parcel</ShipmentTypeValue>
+      <DestinationValue>Manila</DestinationValue>
+      <Weight>1</Weight>
+      <DimensionL>1</DimensionL>
+      <DimensionW>1</DimensionW>
+      <DimensionH>1</DimensionH>
+      <DeclaredValue>1000</DeclaredValue>
+      <AddInsurance>false</AddInsurance>
+    </Calculate>
+  </soap:Body>
+</soap:Envelope>

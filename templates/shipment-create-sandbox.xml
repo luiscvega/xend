@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="https://www.xend.com.ph/apitest/">
+      <UserToken>081C1A4C-39DE-4A5C-B9AB-610E8EC5E078</UserToken>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <Create xmlns="https://www.xend.com.ph/apitest/">
+      <shipment>
+        <WayBillNo></WayBillNo>
+        <ServiceTypeValue>MetroManilaExpress</ServiceTypeValue>
+        <ShipmentTypeValue>Parcel</ShipmentTypeValue>
+        <PurposeOfExportValue>None</PurposeOfExportValue>
+        <CountryManufactured>Philippines</CountryManufactured>
+        <Weight>0.50</Weight>
+        <DimensionL>0.00</DimensionL>
+        <DimensionW>0.00</DimensionW>
+        <DimensionH>0.00</DimensionH>
+        <DeclaredValue>1000</DeclaredValue>
+        <RecipientName>Luis</RecipientName>
+        <RecipientCompanyName>None</RecipientCompanyName>
+        <RecipientAddress1>79 Scout Fernandez</RecipientAddress1>
+        <RecipientCity>Quezon City</RecipientCity>
+        <RecipientProvince>Metro Manila</RecipientProvince>
+        <RecipientPostalCode>1103</RecipientPostalCode>
+        <RecipientCountry>Philippines</RecipientCountry>
+        <IsInsured>false</IsInsured>
+      </shipment>
+    </Create>
+  </soap:Body>
+</soap:Envelope>
