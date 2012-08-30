@@ -11,11 +11,13 @@
       <ShipmentTypeValue>Parcel</ShipmentTypeValue>
       <DestinationValue>Manila</DestinationValue>
       <Weight>{{ weight }}</Weight>
-      <DimensionL>1</DimensionL>
-      <DimensionW>1</DimensionW>
-      <DimensionH>1</DimensionH>
-      <DeclaredValue>1000</DeclaredValue>
-      <AddInsurance>false</AddInsurance>
+    <!--
+      <DimensionL>Not required</DimensionL>
+      <DimensionW>Not required</DimensionW>
+      <DimensionH>Not required</DimensionH>
+      <DeclaredValue>Not required</DeclaredValue>
+      <AddInsurance>Not required</AddInsurance>
+    -->
     </Calculate>
   </soap:Body>
 </soap:Envelope>
