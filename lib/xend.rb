@@ -8,24 +8,25 @@ class Xend
   Error = Class.new(StandardError)
   TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
 
+private
+
+  def self.payload(soap, file, params)
+    Curl.post(soap, mote(File.join(TEMPLATES, "#{file}.xml"), params), "-H 'Content-Type: text/xml; charset=utf-8'")
+  end
+
   class Rate < Xend
     SOAP = "https://www.xend.com.ph/api/RateService.asmx"
 
-    def self.calculate
-      file = "rate-calculate"
-      result = Curl.post(SOAP, mote(File.join(TEMPLATES, "%s.xml" % file)), "-H 'Content-Type: text/xml; charset=utf-8'")
-
-      Response.new(result)
+    def self.calculate(params)
+      Response.new(payload(SOAP, "rate-calculate", params))
     end
   end
 
   class Shipment < Xend
     SOAP = "https://www.xend.com.ph/api/ShipmentService.asmx"
 
-    def self.get
-      file = "shipment-get"
-      result = Curl.post(SOAP, mote(File.join(TEMPLATES, "%s.xml" % file)), "-H 'Content-Type: text/xml; charset=utf-8'")
-      Response.new(result)
+    def self.get(waybillno)
+      Response.new(payload(SOAP, "shipment-get", waybillno: waybillno))
     end
 
   end

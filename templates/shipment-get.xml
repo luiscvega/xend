@@ -7,7 +7,7 @@
   </soap:Header>
   <soap:Body>
     <Get xmlns="https://www.xend.com.ph/api/">
-      <WaybillNo>733603482</WaybillNo>
+      <WaybillNo>{{ waybillno }}</WaybillNo>
     </Get>
   </soap:Body>
 </soap:Envelope>
