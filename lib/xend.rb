@@ -1,8 +1,10 @@
 require "mote"
 require 'open3'
 require 'xmlsimple'
+require_relative 'settings'
 
 class Xend
+  include Settings
   extend Mote::Helpers
 
   Error = Class.new(StandardError)
@@ -11,22 +13,21 @@ class Xend
 private
 
   def self.payload(soap, file, params)
-    Curl.post(soap, mote(File.join(TEMPLATES, "#{file}.xml"), params), "-H 'Content-Type: text/xml; charset=utf-8'")
+    Curl.post(soap, 
+              mote(File.join(TEMPLATES, "#{file}.xml"), params),
+              "-H 'Content-Type: text/xml; charset=utf-8'")
   end
 
   class Rate < Xend
-    SOAP = "https://www.xend.com.ph/api/RateService.asmx"
-
     def self.calculate(params)
-      Response.new(payload(SOAP, "rate-calculate", params))
+      Response.new(payload(Settings::SOAP::RATE, "rate-calculate", params))
     end
   end
 
   class Shipment < Xend
-    SOAP = "https://www.xend.com.ph/api/ShipmentService.asmx"
 
-    def self.get(waybillno)
-      Response.new(payload(SOAP, "shipment-get", waybillno: waybillno))
+    def self.get(params)
+      Response.new(payload(Settings::SOAP::SHIPMENT, "shipment-get", params))
     end
 
   end
