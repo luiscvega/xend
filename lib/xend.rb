@@ -20,29 +20,37 @@ private
 
   class Rate < Xend
     def self.calculate(params)
-      Response.new(payload(Settings::SOAP::RATE, "rate-calculate", params))
+      response = RateResponse.new(payload(Settings::SOAP::RATE, "rate-calculate", params))
+      response.rate
     end
   end
 
   class Shipment < Xend
-
     def self.get(params)
-      Response.new(payload(Settings::SOAP::SHIPMENT, "shipment-get", params))
+      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-get", params))
+      response.shipment
     end
 
+    def self.create()
+      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-", params))
+    end
   end
 
   class Response
     def initialize(xml)
-      @data = XmlSimple.xml_in(xml)["Body"][0]
+      @data = XmlSimple.xml_in(xml, forcearray: false)["Body"]
     end
+  end
 
+  class RateResponse < Response
     def rate
-      @data["CalculateResponse"][0]["CalculateResult"][0]
+      @data["CalculateResponse"] && @data["CalculateResponse"]["CalculateResult"]
     end
+  end
 
-    def waybill
-      @data["GetResponse"][0]["GetResult"][0]
+  class ShipmentResponse < Response
+    def shipment
+      @data["GetResponse"] && @data["GetResponse"]["GetResult"]
     end
   end
 

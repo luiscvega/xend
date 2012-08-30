@@ -11,10 +11,10 @@
       <ShipmentTypeValue>Parcel</ShipmentTypeValue>
       <DestinationValue>Manila</DestinationValue>
       <Weight>{{ weight }}</Weight>
+      <DimensionL>{{ length }}</DimensionL>
+      <DimensionW>{{ width }}</DimensionW>
+      <DimensionH>{{ height }}</DimensionH>
     <!--
-      <DimensionL>Not required</DimensionL>
-      <DimensionW>Not required</DimensionW>
-      <DimensionH>Not required</DimensionH>
       <DeclaredValue>Not required</DeclaredValue>
       <AddInsurance>Not required</AddInsurance>
     -->
