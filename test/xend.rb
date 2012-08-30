@@ -18,13 +18,10 @@ end
 
 # ShipmentService
 test "create" do
-  waybillno = Xend::Shipment.create(type: Xend::MetroManila,
-                                    weight: 1, length: 10, width: 10, height: 10,
-                                    name: "Miguel Cacnio",
-                                    address1: "123 Testing Street",
-                                    city: "Quezon City",
-                                    province: "Metro Manila",
-                                    zip: "1103")
+  info = { type: Xend::MetroManila, weight: 1, length: 10, width: 10, height: 10,
+           name: "Miguel Cacnio", address1: "123 Testing Street", city: "Quezon City", 
+           province: "Metro Manila", zip: "1103" }
+  waybillno = Xend::Shipment.create(info)
   shipment = Xend::Shipment.get(waybillno: waybillno)
   assert_equal waybillno, shipment["WayBillNo"]
   assert_equal "Miguel Cacnio", shipment["RecipientName"]
