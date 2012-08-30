@@ -8,23 +8,24 @@
   <soap:Body>
     <Create xmlns="https://www.xend.com.ph/api/">
       <shipment>
-        <ServiceTypeValue>MetroManilaExpress</ServiceTypeValue>
+        <ServiceTypeValue>{{ type }}</ServiceTypeValue>
         <ShipmentTypeValue>Parcel</ShipmentTypeValue>
-        <PurposeOfExportValue>None</PurposeOfExportValue>
+        <PurposeOfExportValue>Other</PurposeOfExportValue>
         <CountryManufactured>Philippines</CountryManufactured>
-        <Weight>0.50</Weight>
-        <DimensionL>0.00</DimensionL>
-        <DimensionW>0.00</DimensionW>
-        <DimensionH>0.00</DimensionH>
-        <DeclaredValue>500</DeclaredValue>
-        <RecipientName>Jon Bon Jovi</RecipientName>
-        <RecipientCompanyName>Music Company</RecipientCompanyName>
-        <RecipientAddress1>1821 Mangghan Street</RecipientAddress1>
-        <RecipientCity>Quezon City</RecipientCity>
-        <RecipientProvince>Metro Manila</RecipientProvince>
-        <RecipientPostalCode>1111</RecipientPostalCode>
+        <Weight>{{ weight }}</Weight>
+        <DimensionL>{{ length }}</DimensionL>
+        <DimensionW>{{ width }}</DimensionW>
+        <DimensionH>{{ height }}</DimensionH>
+        <DeclaredValue>{{ params[:value] || 0 }}</DeclaredValue>
+        <RecipientName>{{ name }}</RecipientName>
+        <RecipientCompanyName>None</RecipientCompanyName>
+        <RecipientAddress1>{{ address1 }}</RecipientAddress1>
+        <RecipientAddress2>{{ params[:address2] }}</RecipientAddress2>
+        <RecipientCity>{{ city }}</RecipientCity>
+        <RecipientProvince>{{ province }}</RecipientProvince>
+        <RecipientPostalCode>{{ zip }}</RecipientPostalCode>
         <RecipientCountry>Philippines</RecipientCountry>
-        <IsInsured>false</IsInsured>
+        <IsInsured>{{ params[:value] ? true : false }}</IsInsured>
       </shipment>
     </Create>
   </soap:Body>

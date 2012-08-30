@@ -6,6 +6,7 @@ require_relative 'settings'
 class Xend
   include Settings
   extend Mote::Helpers
+  MetroManila = "MetroManilaExpress"
 
   Error = Class.new(StandardError)
   TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
@@ -31,8 +32,9 @@ private
       response.shipment
     end
 
-    def self.create()
-      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-", params))
+    def self.create(params)
+      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-create", params))
+      response.result
     end
   end
 
@@ -51,6 +53,10 @@ private
   class ShipmentResponse < Response
     def shipment
       @data["GetResponse"] && @data["GetResponse"]["GetResult"]
+    end
+
+    def result
+      @data["CreateResponse"] && @data["CreateResponse"]["CreateResult"]
     end
   end
 

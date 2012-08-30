@@ -1,12 +1,12 @@
 require_relative "helper"
 
 # RateService
-test "calculate" do
+test "calculate small" do
   rate = Xend::Rate.calculate(weight: 1, length: 10, width: 10, height: 10)
   assert_equal "64.960000", rate
 end
 
-test "calculate" do
+test "calculate medium" do
   rate = Xend::Rate.calculate(weight: 1, length: 50, width: 50, height: 50)
   assert_equal "928.480000", rate
 end
@@ -17,8 +17,16 @@ test "calculate big" do
 end
 
 # ShipmentService
-test "get" do
-  shipment = Xend::Shipment.get(waybillno: "733603482")
-  assert_equal "733603482", shipment["WayBillNo"]
-  assert_equal "Jon Bon Jovi", shipment["RecipientName"]
+test "create" do
+  waybillno = Xend::Shipment.create(type: Xend::MetroManila,
+                                    weight: 1, length: 10,
+                                    width: 10, height: 10,
+                                    name: "Miguel Cacnio",
+                                    address1: "123 Testing Street",
+                                    city: "Quezon City",
+                                    province: "Metro Manila",
+                                    zip: "1103")
+  shipment = Xend::Shipment.get(waybillno: waybillno)
+  assert_equal waybillno, shipment["WayBillNo"]
+  assert_equal "Miguel Cacnio", shipment["RecipientName"]
 end
