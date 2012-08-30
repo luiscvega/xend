@@ -7,17 +7,15 @@
   </soap:Header>
   <soap:Body>
     <Calculate xmlns="https://www.xend.com.ph/api/">
-      <ServiceTypeValue>MetroManilaExpress</ServiceTypeValue>
+      <ServiceTypeValue>{{ type }}</ServiceTypeValue>
       <ShipmentTypeValue>Parcel</ShipmentTypeValue>
-      <DestinationValue>Manila</DestinationValue>
+      <!-- <DestinationValue>Manila</DestinationValue> -->
       <Weight>{{ weight }}</Weight>
       <DimensionL>{{ length }}</DimensionL>
       <DimensionW>{{ width }}</DimensionW>
       <DimensionH>{{ height }}</DimensionH>
-    <!--
-      <DeclaredValue>Not required</DeclaredValue>
-      <AddInsurance>Not required</AddInsurance>
-    -->
+      <DeclaredValue>{{ params[:value] || 0 }}</DeclaredValue>
+      <AddInsurance>{{ params[:value] ? true : false }}</AddInsurance>
     </Calculate>
   </soap:Body>
 </soap:Envelope>
