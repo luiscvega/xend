@@ -75,6 +75,59 @@ private
     end
   end
 
+  module Formula
+
+    # Use this if you want to calculate using weight only
+    #
+    # Usage: Xend::Formulat.calculate_complete(Xend::MetroManila_RATES, weight: 10)
+    #
+    def self.calculate(rates, weight)
+      # Check first if it's heavy. If so, don't check Rates anymore.
+      if weight > 3.0
+        base_price = 103.00
+        overweight = (weight - 3.0).round
+        price = base_price + (overweight * 22.00)
+        return add_tax price
+      end
+
+      # Loop through Rates hash
+      rates.each do |range, price|
+        return add_tax price if range.include? weight
+      end
+    end
+
+    # Use this if you want to calculate final price given all details
+    #
+    # Usage: Xend::Formulat.calculate_complete(Xend::MetroManila_RATES, weight: 10, length: 10, width: 10, height: 10)
+    #
+    def self.calculate_complete(rates, params)
+      weight_rate = calculate(rates, params[:weight])
+      volume_rate = calculate(rates, get_volume_weight(params[:length], params[:width], params[:height]))
+
+      return (weight_rate > volume_rate) ? weight_rate : volume_rate
+    end
+
+    # Use this if you want to calculate volumetric weight from dimensions only
+    #
+    # Usage: Xend::Formulat.calculate_complete(10, 10, 10)
+    #
+    def self.get_volume_weight(l,w,h)
+      volume_weight = round_up([l,w,h].inject(&:*)/3500.0)
+    end
+
+  private
+
+    # Round up to the nearest tenths
+    def self.round_up(number)
+      (number * 100).ceil/100.0
+    end
+
+    def self.add_tax(price_before_tax)
+      (price_before_tax * 1.12).round(2)
+    end
+
+  end
+  
   module Curl
     Error = Class.new(Xend::Error)
 
@@ -104,50 +157,4 @@ private
 
   end
 
-  module Formula
-
-    def self.calculate(rates, params)
-      weight = params[:weight]
-
-      # Check first if it's heavy. If so, don't check rates anymore.
-      if weight > 3.0
-        base_price = 103.00
-        overweight = weight - 3.0
-        price = base_price + (overweight * 22.00)
-        return add_tax price
-      end
-
-      # Loop through rates hash
-      rates.each do |range, price|
-        if range.include? weight
-          return add_tax price
-        end
-      end
-    end
-
-    # Currently their API is inconsistent with what they are declaring.
-    # def self.calculate_complete(rates, params)
-    #   rates.each do |range, price|
-    #     if range.include? params[:weight]
-    #       return add_tax price 
-    #     end
-    #   end
-    # end
-
-    def self.calculate_weight(params)
-      dimensions = [params[:length], params[:width], params[:height]]
-      volume_weight = round_up(dimensions.inject(&:*)/3500.0)
-    end
-
-  private
-
-    def self.round_up(number) # To the nearest tenths
-      (number * 100).ceil/100.0
-    end
-
-    def self.add_tax(price_before_tax)
-      (price_before_tax * 1.12).round(2)
-    end
-
-  end
 end
