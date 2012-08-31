@@ -79,7 +79,7 @@ private
 
     # Use this if you want to calculate using weight only
     #
-    # Usage: Xend::Formulat.calculate_complete(Xend::MetroManila_RATES, weight: 10)
+    # Usage: Xend::Formulat.calculate(Xend::MetroManila_RATES, 10)
     #
     def self.calculate(rates, weight)
       # Check first if it's heavy. If so, don't check Rates anymore.
@@ -104,12 +104,12 @@ private
       weight_rate = calculate(rates, params[:weight])
       volume_rate = calculate(rates, get_volume_weight(params[:length], params[:width], params[:height]))
 
-      return (weight_rate > volume_rate) ? weight_rate : volume_rate
+      return [weight_rate, volume_rate].max
     end
 
     # Use this if you want to calculate volumetric weight from dimensions only
     #
-    # Usage: Xend::Formulat.calculate_complete(10, 10, 10)
+    # Usage: Xend::Formulat.get_volume_weight(10, 10, 10)
     #
     def self.get_volume_weight(l,w,h)
       volume_weight = round_up([l,w,h].inject(&:*)/3500.0)
@@ -127,7 +127,7 @@ private
     end
 
   end
-  
+
   module Curl
     Error = Class.new(Xend::Error)
 
