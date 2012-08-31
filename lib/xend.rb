@@ -7,12 +7,21 @@ class Xend
   include Settings
   extend Mote::Helpers
 
-  MetroManila = "MetroManilaExpress"
-  Rizal = "RizalMetroManilaExpress"
-  Provincial = "ProvincialExpress"
-  InternationalPostal = "InternationalPostal"
-  InternationalEMS = "InternationalEMS"
-  InternationalExpress = "InternationalExpress"
+  MetroManila           = "MetroManilaExpress"
+  Rizal                 = "RizalMetroManilaExpress"
+  Provincial            = "ProvincialExpress"
+  InternationalPostal   = "InternationalPostal"
+  InternationalEMS      = "InternationalEMS"
+  InternationalExpress  = "InternationalExpress"
+
+  MetroManila_RATES = {
+    (0.01..0.50) => 44.00,
+    (0.51..1.00) => 58.00,
+    (1.01..1.50) => 75.00,
+    (1.51..2.00) => 81.00,
+    (2.01..2.50) => 99.00,
+    (2.51..3.00) => 103.00,
+  }
 
   Error = Class.new(StandardError)
   TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
@@ -91,6 +100,53 @@ private
 
     def self.errors(stderr)
       stderr.scan(/^curl: .*$/).join("\n")
+    end
+
+  end
+
+  module Formula
+
+    def self.calculate(rates, params)
+      weight = params[:weight]
+
+      # Check first if it's heavy. If so, don't check rates anymore.
+      if weight > 3.0
+        base_price = 103.00
+        overweight = weight - 3.0
+        price = base_price + (overweight * 22.00)
+        return add_tax price
+      end
+
+      # Loop through rates hash
+      rates.each do |range, price|
+        if range.include? weight
+          return add_tax price
+        end
+      end
+    end
+
+    # Currently their API is inconsistent with what they are declaring.
+    # def self.calculate_complete(rates, params)
+    #   rates.each do |range, price|
+    #     if range.include? params[:weight]
+    #       return add_tax price 
+    #     end
+    #   end
+    # end
+
+    def self.calculate_weight(params)
+      dimensions = [params[:length], params[:width], params[:height]]
+      volume_weight = round_up(dimensions.inject(&:*)/3500.0)
+    end
+
+  private
+
+    def self.round_up(number) # To the nearest tenths
+      (number * 100).ceil/100.0
+    end
+
+    def self.add_tax(price_before_tax)
+      (price_before_tax * 1.12).round(2)
     end
 
   end

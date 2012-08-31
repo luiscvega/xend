@@ -9,7 +9,7 @@
     <Calculate xmlns="https://www.xend.com.ph/api/">
       <ServiceTypeValue>{{ type }}</ServiceTypeValue>
       <ShipmentTypeValue>Parcel</ShipmentTypeValue>
-      <!-- <DestinationValue>Manila</DestinationValue> -->
+      <DestinationValue>{{ params[:province] }}</DestinationValue>
       <Weight>{{ weight }}</Weight>
       <DimensionL>{{ length }}</DimensionL>
       <DimensionW>{{ width }}</DimensionW>
