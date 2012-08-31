@@ -6,7 +6,13 @@ require_relative 'settings'
 class Xend
   include Settings
   extend Mote::Helpers
+
   MetroManila = "MetroManilaExpress"
+  Rizal = "RizalMetroManilaExpress"
+  Provincial = "ProvincialExpress"
+  InternationalPostal = "InternationalPostal"
+  InternationalEMS = "InternationalEMS"
+  InternationalExpress = "InternationalExpress"
 
   Error = Class.new(StandardError)
   TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))

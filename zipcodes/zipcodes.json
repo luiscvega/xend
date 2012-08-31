@@ -1,0 +1,13258 @@
+{
+  "Abra": [
+    [
+      "Bangued",
+      "2800",
+      "Luzon"
+    ],
+    [
+      "Boliney",
+      "2815",
+      "Luzon"
+    ],
+    [
+      "Bucay",
+      "2805",
+      "Luzon"
+    ],
+    [
+      "Bucloc",
+      "2817",
+      "Luzon"
+    ],
+    [
+      "Daguioman",
+      "2816",
+      "Luzon"
+    ],
+    [
+      "Danglas",
+      "2825",
+      "Luzon"
+    ],
+    [
+      "Dolores",
+      "2801",
+      "Luzon"
+    ],
+    [
+      "La Paz",
+      "2826",
+      "Luzon"
+    ],
+    [
+      "Lacub",
+      "2821",
+      "Luzon"
+    ],
+    [
+      "Lagayan",
+      "2824",
+      "Luzon"
+    ],
+    [
+      "Langagilang",
+      "2802",
+      "Luzon"
+    ],
+    [
+      "Langiden",
+      "2807",
+      "Luzon"
+    ],
+    [
+      "Licuan (Baay)",
+      "2819",
+      "Luzon"
+    ],
+    [
+      "Luba",
+      "2813",
+      "Luzon"
+    ],
+    [
+      "Malibcong",
+      "2820",
+      "Luzon"
+    ],
+    [
+      "Manabo",
+      "2810",
+      "Luzon"
+    ],
+    [
+      "Penarubia",
+      "2804",
+      "Luzon"
+    ],
+    [
+      "Pidigan",
+      "2806",
+      "Luzon"
+    ],
+    [
+      "Pilar",
+      "2812",
+      "Luzon"
+    ],
+    [
+      "Sal-lapadan",
+      "2818",
+      "Luzon"
+    ],
+    [
+      "San Isidro",
+      "2809",
+      "Luzon"
+    ],
+    [
+      "San Juan",
+      "2823",
+      "Luzon"
+    ],
+    [
+      "San Quintin",
+      "2808",
+      "Luzon"
+    ],
+    [
+      "Tayum",
+      "2803",
+      "Luzon"
+    ],
+    [
+      "Tineg",
+      "2822",
+      "Luzon"
+    ],
+    [
+      "Tubo",
+      "2814",
+      "Luzon"
+    ],
+    [
+      "Villaviciosa",
+      "2811",
+      "Luzon"
+    ]
+  ],
+  "Agusan del Norte": [
+    [
+      "Buenavista",
+      "8601",
+      "Mindanao"
+    ],
+    [
+      "Butuan City",
+      "8600",
+      "Mindanao"
+    ],
+    [
+      "Cabadbaran",
+      "8605",
+      "Mindanao"
+    ],
+    [
+      "Carmen",
+      "8603",
+      "Mindanao"
+    ],
+    [
+      "Jabonga",
+      "8607",
+      "Mindanao"
+    ],
+    [
+      "Kitcharao",
+      "8609",
+      "Mindanao"
+    ],
+    [
+      "La Nieves",
+      "8610",
+      "Mindanao"
+    ],
+    [
+      "Magallanes",
+      "8604",
+      "Mindanao"
+    ],
+    [
+      "Nasipit",
+      "8602",
+      "Mindanao"
+    ],
+    [
+      "Remedios T. Romualdez",
+      "8611",
+      "Mindanao"
+    ],
+    [
+      "Santiago",
+      "8608",
+      "Mindanao"
+    ],
+    [
+      "Tubay",
+      "8606",
+      "Mindanao"
+    ]
+  ],
+  "Agusan del Sur": [
+    [
+      "Bayugan",
+      "8502",
+      "Mindanao"
+    ],
+    [
+      "Bunawan",
+      "8506",
+      "Mindanao"
+    ],
+    [
+      "Esperanza",
+      "8513",
+      "Mindanao"
+    ],
+    [
+      "La Paz",
+      "8508",
+      "Mindanao"
+    ],
+    [
+      "Loreto",
+      "8507",
+      "Mindanao"
+    ],
+    [
+      "Rosario",
+      "8504",
+      "Mindanao"
+    ],
+    [
+      "San Francisco",
+      "8501",
+      "Mindanao"
+    ],
+    [
+      "San Luis",
+      "8511",
+      "Mindanao"
+    ],
+    [
+      "Santa Josefa",
+      "8512",
+      "Mindanao"
+    ],
+    [
+      "Sibagat",
+      "8503",
+      "Mindanao"
+    ],
+    [
+      "Talacogon",
+      "8510",
+      "Mindanao"
+    ],
+    [
+      "Trento",
+      "8505",
+      "Mindanao"
+    ],
+    [
+      "Veruela",
+      "8509",
+      "Mindanao"
+    ]
+  ],
+  "Aklan": [
+    [
+      "Altavas",
+      "5616",
+      "Visayas"
+    ],
+    [
+      "Balite",
+      "5614",
+      "Visayas"
+    ],
+    [
+      "Banga",
+      "5601",
+      "Visayas"
+    ],
+    [
+      "Batan",
+      "5615",
+      "Visayas"
+    ],
+    [
+      "Buruanga",
+      "5609",
+      "Visayas"
+    ],
+    [
+      "Ibajay",
+      "5613",
+      "Visayas"
+    ],
+    [
+      "Kalibo",
+      "5600",
+      "Visayas"
+    ],
+    [
+      "Lezo",
+      "5605",
+      "Visayas"
+    ],
+    [
+      "Libacao",
+      "5602",
+      "Visayas"
+    ],
+    [
+      "Madalag",
+      "5603",
+      "Visayas"
+    ],
+    [
+      "Makato",
+      "5611",
+      "Visayas"
+    ],
+    [
+      "Malay",
+      "5608",
+      "Visayas"
+    ],
+    [
+      "Malinao",
+      "5606",
+      "Visayas"
+    ],
+    [
+      "Nabas",
+      "5607",
+      "Visayas"
+    ],
+    [
+      "New Washington",
+      "5610",
+      "Visayas"
+    ],
+    [
+      "Numancia",
+      "5604",
+      "Visayas"
+    ],
+    [
+      "Tangalan",
+      "5612",
+      "Visayas"
+    ]
+  ],
+  "Albay": [
+    [
+      "Bacacay",
+      "4509",
+      "Luzon"
+    ],
+    [
+      "Camalig",
+      "4502",
+      "Luzon"
+    ],
+    [
+      "Daraga (Locsin)",
+      "4501",
+      "Luzon"
+    ],
+    [
+      "Guinobatan",
+      "4503",
+      "Luzon"
+    ],
+    [
+      "Jovellar",
+      "4515",
+      "Luzon"
+    ],
+    [
+      "Legaspi City",
+      "4500",
+      "Luzon"
+    ],
+    [
+      "Libon",
+      "4507",
+      "Luzon"
+    ],
+    [
+      "Ligao",
+      "4504",
+      "Luzon"
+    ],
+    [
+      "Malilipot",
+      "4510",
+      "Luzon"
+    ],
+    [
+      "Malinao",
+      "4512",
+      "Luzon"
+    ],
+    [
+      "Manito",
+      "4514",
+      "Luzon"
+    ],
+    [
+      "Oas",
+      "4505",
+      "Luzon"
+    ],
+    [
+      "Pio Duran",
+      "4516",
+      "Luzon"
+    ],
+    [
+      "Polangui",
+      "4506",
+      "Luzon"
+    ],
+    [
+      "Rapu-rapu",
+      "4517",
+      "Luzon"
+    ],
+    [
+      "Sto. Domingo",
+      "4508",
+      "Luzon"
+    ],
+    [
+      "Tabaco",
+      "4511",
+      "Luzon"
+    ],
+    [
+      "Tiwi",
+      "4513",
+      "Luzon"
+    ]
+  ],
+  "Antique": [
+    [
+      "Anini-y",
+      "5717",
+      "Visayas"
+    ],
+    [
+      "Barbasa",
+      "5706",
+      "Visayas"
+    ],
+    [
+      "Belison",
+      "5701",
+      "Visayas"
+    ],
+    [
+      "Bugasong",
+      "5704",
+      "Visayas"
+    ],
+    [
+      "Caluya",
+      "5711",
+      "Visayas"
+    ],
+    [
+      "Culasi",
+      "5708",
+      "Visayas"
+    ],
+    [
+      "Hamtic",
+      "5715",
+      "Visayas"
+    ],
+    [
+      "Lawa-an",
+      "5705",
+      "Visayas"
+    ],
+    [
+      "Libertad",
+      "5710",
+      "Visayas"
+    ],
+    [
+      "Pandan",
+      "5712",
+      "Visayas"
+    ],
+    [
+      "Patnongan",
+      "5702",
+      "Visayas"
+    ],
+    [
+      "San Jose",
+      "5700",
+      "Visayas"
+    ],
+    [
+      "San Remegio",
+      "5714",
+      "Visayas"
+    ],
+    [
+      "Sebaste",
+      "5709",
+      "Visayas"
+    ],
+    [
+      "Sibalom",
+      "5713",
+      "Visayas"
+    ],
+    [
+      "Tibiao",
+      "5707",
+      "Visayas"
+    ],
+    [
+      "Tobias Fornier (Dao)",
+      "5716",
+      "Visayas"
+    ],
+    [
+      "Valderama",
+      "5703",
+      "Visayas"
+    ]
+  ],
+  "Aurora": [
+    [
+      "Baler",
+      "3200",
+      "Luzon"
+    ],
+    [
+      "Casiguran",
+      "3204",
+      "Luzon"
+    ],
+    [
+      "Dilasag",
+      "3205",
+      "Luzon"
+    ],
+    [
+      "Dinalungan",
+      "3206",
+      "Luzon"
+    ],
+    [
+      "Dingalan",
+      "3207",
+      "Luzon"
+    ],
+    [
+      "Dipaculao",
+      "3203",
+      "Luzon"
+    ],
+    [
+      "Maria Aurora",
+      "3202",
+      "Luzon"
+    ],
+    [
+      "San Luis",
+      "3201",
+      "Luzon"
+    ]
+  ],
+  "Basilan": [
+    [
+      "Isabela de Basilan",
+      "7300",
+      "Mindanao"
+    ],
+    [
+      "Lamitan",
+      "7302",
+      "Mindanao"
+    ],
+    [
+      "Lantawan",
+      "7301",
+      "Mindanao"
+    ],
+    [
+      "Maluso",
+      "7303",
+      "Mindanao"
+    ],
+    [
+      "Suimisip",
+      "7305",
+      "Mindanao"
+    ],
+    [
+      "Tipo-tipo",
+      "7304",
+      "Mindanao"
+    ],
+    [
+      "Tuburan",
+      "7306",
+      "Mindanao"
+    ]
+  ],
+  "Bataan": [
+    [
+      "Abucay",
+      "2114",
+      "Luzon"
+    ],
+    [
+      "Bagac",
+      "2107",
+      "Luzon"
+    ],
+    [
+      "Balanga",
+      "2100",
+      "Luzon"
+    ],
+    [
+      "Dinalupihan",
+      "2110",
+      "Luzon"
+    ],
+    [
+      "Hermosa",
+      "2111",
+      "Luzon"
+    ],
+    [
+      "Lamao",
+      "2104",
+      "Luzon"
+    ],
+    [
+      "Limay",
+      "2103",
+      "Luzon"
+    ],
+    [
+      "Mariveles",
+      "2105",
+      "Luzon"
+    ],
+    [
+      "Morong",
+      "2108",
+      "Luzon"
+    ],
+    [
+      "Orani",
+      "2112",
+      "Luzon"
+    ],
+    [
+      "Orion",
+      "2102",
+      "Luzon"
+    ],
+    [
+      "Pilar",
+      "2101",
+      "Luzon"
+    ],
+    [
+      "Refugee Processing Center (Morong)",
+      "2109",
+      "Luzon"
+    ],
+    [
+      "Samal",
+      "2113",
+      "Luzon"
+    ],
+    [
+      "â€°Ã›ÃèBataan Export Processing Zone, Marivelesâ€°Ã›Ã_",
+      "2106",
+      "Luzon"
+    ]
+  ],
+  "Batanes": [
+    [
+      "Basco",
+      "3900",
+      "Luzon"
+    ],
+    [
+      "Itbayat",
+      "3905",
+      "Luzon"
+    ],
+    [
+      "Ivana",
+      "3902",
+      "Luzon"
+    ],
+    [
+      "Mahatao",
+      "3901",
+      "Luzon"
+    ],
+    [
+      "Sabtang",
+      "3904",
+      "Luzon"
+    ],
+    [
+      "Uyugan",
+      "3903",
+      "Luzon"
+    ]
+  ],
+  "Batangas": [
+    [
+      "Agoncillo",
+      "4211",
+      "Luzon"
+    ],
+    [
+      "Alitagtag",
+      "4205",
+      "Luzon"
+    ],
+    [
+      "Balayan",
+      "4213",
+      "Luzon"
+    ],
+    [
+      "Balite",
+      "4219",
+      "Luzon"
+    ],
+    [
+      "Batangas City",
+      "4200",
+      "Luzon"
+    ],
+    [
+      "Bauan",
+      "4201",
+      "Luzon"
+    ],
+    [
+      "Calaca",
+      "4212",
+      "Luzon"
+    ],
+    [
+      "Calatagan",
+      "4215",
+      "Luzon"
+    ],
+    [
+      "Cuenca",
+      "4222",
+      "Luzon"
+    ],
+    [
+      "Fernando Air Base",
+      "4218",
+      "Luzon"
+    ],
+    [
+      "Ibaan",
+      "4230",
+      "Luzon"
+    ],
+    [
+      "Laurel",
+      "4221",
+      "Luzon"
+    ],
+    [
+      "Lemery",
+      "4209",
+      "Luzon"
+    ],
+    [
+      "Lian",
+      "4216",
+      "Luzon"
+    ],
+    [
+      "Lipa City",
+      "4217",
+      "Luzon"
+    ],
+    [
+      "Lobo",
+      "4229",
+      "Luzon"
+    ],
+    [
+      "Mabini",
+      "4202",
+      "Luzon"
+    ],
+    [
+      "Malvar",
+      "4233",
+      "Luzon"
+    ],
+    [
+      "Mataas na Kahoy",
+      "4223",
+      "Luzon"
+    ],
+    [
+      "Nasugbu",
+      "4231",
+      "Luzon"
+    ],
+    [
+      "Padre Garcia",
+      "4224",
+      "Luzon"
+    ],
+    [
+      "Rosario",
+      "4225",
+      "Luzon"
+    ],
+    [
+      "San Jose",
+      "4227",
+      "Luzon"
+    ],
+    [
+      "San Juan",
+      "4226",
+      "Luzon"
+    ],
+    [
+      "San Luis",
+      "4210",
+      "Luzon"
+    ],
+    [
+      "San Nicolas",
+      "4207",
+      "Luzon"
+    ],
+    [
+      "San Pascual",
+      "4204",
+      "Luzon"
+    ],
+    [
+      "Santa Teresita",
+      "4206",
+      "Luzon"
+    ],
+    [
+      "Santo Tomas",
+      "4234",
+      "Luzon"
+    ],
+    [
+      "Taal",
+      "4208",
+      "Luzon"
+    ],
+    [
+      "Talisay",
+      "4220",
+      "Luzon"
+    ],
+    [
+      "Tanauan",
+      "4232",
+      "Luzon"
+    ],
+    [
+      "Taysan",
+      "4228",
+      "Luzon"
+    ],
+    [
+      "Tingloy",
+      "4203",
+      "Luzon"
+    ],
+    [
+      "Tuy",
+      "4214",
+      "Luzon"
+    ]
+  ],
+  "Benguet": [
+    [
+      "Atok",
+      "2612",
+      "Luzon"
+    ],
+    [
+      "Baguio City",
+      "2600",
+      "Luzon"
+    ],
+    [
+      "Bakun",
+      "2610",
+      "Luzon"
+    ],
+    [
+      "Bokod",
+      "2605",
+      "Luzon"
+    ],
+    [
+      "Bugias",
+      "2607",
+      "Luzon"
+    ],
+    [
+      "Itogon",
+      "2604",
+      "Luzon"
+    ],
+    [
+      "Kabayan",
+      "2606",
+      "Luzon"
+    ],
+    [
+      "Kapangan",
+      "2613",
+      "Luzon"
+    ],
+    [
+      "Kibungan",
+      "2611",
+      "Luzon"
+    ],
+    [
+      "La Trinidad",
+      "2601",
+      "Luzon"
+    ],
+    [
+      "Lepanto",
+      "2609",
+      "Luzon"
+    ],
+    [
+      "Mankayan",
+      "2608",
+      "Luzon"
+    ],
+    [
+      "Philippine Military Academy (PMA)",
+      "2602",
+      "Luzon"
+    ],
+    [
+      "Sablan",
+      "2614",
+      "Luzon"
+    ],
+    [
+      "Tuba",
+      "2603",
+      "Luzon"
+    ],
+    [
+      "Tublay",
+      "2615",
+      "Luzon"
+    ]
+  ],
+  "Biliran": [
+    [
+      "Almeria",
+      "6544",
+      "Visayas"
+    ],
+    [
+      "Biliran",
+      "6549",
+      "Visayas"
+    ],
+    [
+      "Cabuccayan",
+      "6550",
+      "Visayas"
+    ],
+    [
+      "Caibiran",
+      "6548",
+      "Visayas"
+    ],
+    [
+      "Culaba",
+      "6547",
+      "Visayas"
+    ],
+    [
+      "Kawayan",
+      "6545",
+      "Visayas"
+    ],
+    [
+      "Marippi",
+      "6546",
+      "Visayas"
+    ],
+    [
+      "Naval",
+      "6543",
+      "Visayas"
+    ]
+  ],
+  "Bohol": [
+    [
+      "Albuquerque",
+      "6302",
+      "Visayas"
+    ],
+    [
+      "Alicia",
+      "6314",
+      "Visayas"
+    ],
+    [
+      "Anda",
+      "6311",
+      "Visayas"
+    ],
+    [
+      "Antiquera",
+      "6335",
+      "Visayas"
+    ],
+    [
+      "Baclayon",
+      "6301",
+      "Visayas"
+    ],
+    [
+      "Balilihan",
+      "6342",
+      "Visayas"
+    ],
+    [
+      "Batuan",
+      "6318",
+      "Visayas"
+    ],
+    [
+      "Bien Unido",
+      "6326",
+      "Visayas"
+    ],
+    [
+      "Bilar",
+      "6317",
+      "Visayas"
+    ],
+    [
+      "Buenavista",
+      "6333",
+      "Visayas"
+    ],
+    [
+      "Calape",
+      "6328",
+      "Visayas"
+    ],
+    [
+      "Candijay",
+      "6312",
+      "Visayas"
+    ],
+    [
+      "Carlos P. Garcia (Dao)",
+      "6346",
+      "Visayas"
+    ],
+    [
+      "Carmen",
+      "6319",
+      "Visayas"
+    ],
+    [
+      "Catigbi-an",
+      "6343",
+      "Visayas"
+    ],
+    [
+      "Clarin",
+      "6330",
+      "Visayas"
+    ],
+    [
+      "Corella",
+      "6337",
+      "Visayas"
+    ],
+    [
+      "Cortez",
+      "6341",
+      "Visayas"
+    ],
+    [
+      "Daguhoy",
+      "6322",
+      "Visayas"
+    ],
+    [
+      "Danao",
+      "6344",
+      "Visayas"
+    ],
+    [
+      "Dauis",
+      "6339",
+      "Visayas"
+    ],
+    [
+      "Dimiao",
+      "6305",
+      "Visayas"
+    ],
+    [
+      "Duero",
+      "6309",
+      "Visayas"
+    ],
+    [
+      "Garcia Hernandez",
+      "6307",
+      "Visayas"
+    ],
+    [
+      "Guindulman",
+      "6310",
+      "Visayas"
+    ],
+    [
+      "Inabanga",
+      "6332",
+      "Visayas"
+    ],
+    [
+      "Jagna",
+      "6308",
+      "Visayas"
+    ],
+    [
+      "Jetafe",
+      "6334",
+      "Visayas"
+    ],
+    [
+      "Lila",
+      "6304",
+      "Visayas"
+    ],
+    [
+      "Loay",
+      "6303",
+      "Visayas"
+    ],
+    [
+      "Loboc",
+      "6316",
+      "Visayas"
+    ],
+    [
+      "Loon",
+      "6327",
+      "Visayas"
+    ],
+    [
+      "Mabini",
+      "6313",
+      "Visayas"
+    ],
+    [
+      "Maribujoc",
+      "6336",
+      "Visayas"
+    ],
+    [
+      "Panglao",
+      "6340",
+      "Visayas"
+    ],
+    [
+      "Pilar",
+      "6321",
+      "Visayas"
+    ],
+    [
+      "Sagbayan",
+      "6331",
+      "Visayas"
+    ],
+    [
+      "San Isidro",
+      "6345",
+      "Visayas"
+    ],
+    [
+      "San Miguel",
+      "6323",
+      "Visayas"
+    ],
+    [
+      "Sevilla",
+      "6347",
+      "Visayas"
+    ],
+    [
+      "Sierra Bullones",
+      "6320",
+      "Visayas"
+    ],
+    [
+      "Sikatuna",
+      "6338",
+      "Visayas"
+    ],
+    [
+      "Tagbilaran City",
+      "6300",
+      "Visayas"
+    ],
+    [
+      "Talibon",
+      "6325",
+      "Visayas"
+    ],
+    [
+      "Trinidad",
+      "6324",
+      "Visayas"
+    ],
+    [
+      "Tubigon",
+      "6329",
+      "Visayas"
+    ],
+    [
+      "Ubay",
+      "6315",
+      "Visayas"
+    ],
+    [
+      "Valencia",
+      "6306",
+      "Visayas"
+    ]
+  ],
+  "Bukidnon": [
+    [
+      "Balungon",
+      "8707",
+      "Mindanao"
+    ],
+    [
+      "Damulog",
+      "8721",
+      "Mindanao"
+    ],
+    [
+      "Dangcagan",
+      "8719",
+      "Mindanao"
+    ],
+    [
+      "Don Carlos",
+      "8712",
+      "Mindanao"
+    ],
+    [
+      "Impasugong",
+      "8702",
+      "Mindanao"
+    ],
+    [
+      "Kabanglasan",
+      "8723",
+      "Mindanao"
+    ],
+    [
+      "Kadingilan",
+      "8713",
+      "Mindanao"
+    ],
+    [
+      "Kalilangan",
+      "8718",
+      "Mindanao"
+    ],
+    [
+      "Kibawe",
+      "8720",
+      "Mindanao"
+    ],
+    [
+      "Kitaotao",
+      "8716",
+      "Mindanao"
+    ],
+    [
+      "Lantapan",
+      "8722",
+      "Mindanao"
+    ],
+    [
+      "Libuna",
+      "8706",
+      "Mindanao"
+    ],
+    [
+      "Malaybalay",
+      "8700",
+      "Mindanao"
+    ],
+    [
+      "Malitbog",
+      "8704",
+      "Mindanao"
+    ],
+    [
+      "Manolo Fortich",
+      "8703",
+      "Mindanao"
+    ],
+    [
+      "Maramag",
+      "8714",
+      "Mindanao"
+    ],
+    [
+      "Musuan",
+      "8710",
+      "Mindanao"
+    ],
+    [
+      "Pangantucan",
+      "8717",
+      "Mindanao"
+    ],
+    [
+      "Phillips",
+      "8705",
+      "Mindanao"
+    ],
+    [
+      "Quezon",
+      "8715",
+      "Mindanao"
+    ],
+    [
+      "San Fernando",
+      "8711",
+      "Mindanao"
+    ],
+    [
+      "Sumilao",
+      "8701",
+      "Mindanao"
+    ],
+    [
+      "Talakag",
+      "8708",
+      "Mindanao"
+    ],
+    [
+      "Valencia",
+      "8709",
+      "Mindanao"
+    ]
+  ],
+  "Bulacan": [
+    [
+      "Angat",
+      "3012",
+      "Luzon"
+    ],
+    [
+      "Balagtas",
+      "3016",
+      "Luzon"
+    ],
+    [
+      "Baliuag",
+      "3006",
+      "Luzon"
+    ],
+    [
+      "Bocaue",
+      "3018",
+      "Luzon"
+    ],
+    [
+      "Bulacan",
+      "3017",
+      "Luzon"
+    ],
+    [
+      "Bustos",
+      "3007",
+      "Luzon"
+    ],
+    [
+      "Calumpit",
+      "3003",
+      "Luzon"
+    ],
+    [
+      "Dona Remedios Trinidad",
+      "3009",
+      "Luzon"
+    ],
+    [
+      "Guiguinto",
+      "3015",
+      "Luzon"
+    ],
+    [
+      "Hagonoy",
+      "3002",
+      "Luzon"
+    ],
+    [
+      "Malolos",
+      "3000",
+      "Luzon"
+    ],
+    [
+      "Marilao",
+      "3019",
+      "Luzon"
+    ],
+    [
+      "Meycauayan",
+      "3020",
+      "Luzon"
+    ],
+    [
+      "Norzagaray",
+      "3013",
+      "Luzon"
+    ],
+    [
+      "Obando",
+      "3021",
+      "Luzon"
+    ],
+    [
+      "Pandi",
+      "3014",
+      "Luzon"
+    ],
+    [
+      "Paombong",
+      "3001",
+      "Luzon"
+    ],
+    [
+      "Plaridel",
+      "3004",
+      "Luzon"
+    ],
+    [
+      "Pulilan",
+      "3005",
+      "Luzon"
+    ],
+    [
+      "San Ildefonso",
+      "3010",
+      "Luzon"
+    ],
+    [
+      "San Jose del Monte",
+      "3023",
+      "Luzon"
+    ],
+    [
+      "San Miguel",
+      "3011",
+      "Luzon"
+    ],
+    [
+      "San Rafael",
+      "3008",
+      "Luzon"
+    ],
+    [
+      "Santa Maria",
+      "3022",
+      "Luzon"
+    ],
+    [
+      "Sapang Palay",
+      "3024",
+      "Luzon"
+    ]
+  ],
+  "Cagayan": [
+    [
+      "Abulog",
+      "3517",
+      "Luzon"
+    ],
+    [
+      "Alcala",
+      "3507",
+      "Luzon"
+    ],
+    [
+      "Allacapan",
+      "3523",
+      "Luzon"
+    ],
+    [
+      "Amulung",
+      "3505",
+      "Luzon"
+    ],
+    [
+      "Aparri",
+      "3515",
+      "Luzon"
+    ],
+    [
+      "Baggao",
+      "3506",
+      "Luzon"
+    ],
+    [
+      "Ballesteros",
+      "3516",
+      "Luzon"
+    ],
+    [
+      "Buguey",
+      "3511",
+      "Luzon"
+    ],
+    [
+      "Calayan",
+      "3520",
+      "Luzon"
+    ],
+    [
+      "Camalaniugan",
+      "3510",
+      "Luzon"
+    ],
+    [
+      "Claveria",
+      "3519",
+      "Luzon"
+    ],
+    [
+      "Enrile",
+      "3501",
+      "Luzon"
+    ],
+    [
+      "Gattaran",
+      "3508",
+      "Luzon"
+    ],
+    [
+      "Gonzaga",
+      "3513",
+      "Luzon"
+    ],
+    [
+      "Iguig",
+      "3504",
+      "Luzon"
+    ],
+    [
+      "Lal-lo",
+      "3509",
+      "Luzon"
+    ],
+    [
+      "Lasam",
+      "3524",
+      "Luzon"
+    ],
+    [
+      "Pamplona",
+      "3522",
+      "Luzon"
+    ],
+    [
+      "Penablanca",
+      "3502",
+      "Luzon"
+    ],
+    [
+      "Piat",
+      "3527",
+      "Luzon"
+    ],
+    [
+      "Rizal",
+      "3526",
+      "Luzon"
+    ],
+    [
+      "Sanchez Mira",
+      "3518",
+      "Luzon"
+    ],
+    [
+      "Santa Ana",
+      "3514",
+      "Luzon"
+    ],
+    [
+      "Santa Praxedes",
+      "3521",
+      "Luzon"
+    ],
+    [
+      "Santa Teresita",
+      "3512",
+      "Luzon"
+    ],
+    [
+      "Santo Nino",
+      "3525",
+      "Luzon"
+    ],
+    [
+      "Solana",
+      "3503",
+      "Luzon"
+    ],
+    [
+      "Tuao",
+      "3528",
+      "Luzon"
+    ],
+    [
+      "Tuguegarao",
+      "3500",
+      "Luzon"
+    ]
+  ],
+  "Caloocan City": [
+    [
+      "1st Ave. to 7th Ave-West",
+      "1405",
+      "Metro Manila"
+    ],
+    [
+      "Baesa",
+      "1401",
+      "Metro Manila"
+    ],
+    [
+      "Caloocan City CPO",
+      "1400",
+      "Metro Manila"
+    ],
+    [
+      "Fish Market",
+      "1411",
+      "Metro Manila"
+    ],
+    [
+      "Grace Park East",
+      "1403",
+      "Metro Manila"
+    ],
+    [
+      "Grace Park West",
+      "1406",
+      "Metro Manila"
+    ],
+    [
+      "Isla de Cocomo",
+      "1412",
+      "Metro Manila"
+    ],
+    [
+      "Kapitbahayan East",
+      "1413",
+      "Metro Manila"
+    ],
+    [
+      "Kaunlaran Village",
+      "1409",
+      "Metro Manila"
+    ],
+    [
+      "Maypajo",
+      "1410",
+      "Metro Manila"
+    ],
+    [
+      "San Jose",
+      "1404",
+      "Metro Manila"
+    ],
+    [
+      "Sangandaan",
+      "1408",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Quiteria",
+      "1402",
+      "Metro Manila"
+    ],
+    [
+      "University Hills",
+      "1407",
+      "Metro Manila"
+    ]
+  ],
+  "Camarines Norte": [
+    [
+      "Basud",
+      "4608",
+      "Luzon"
+    ],
+    [
+      "Capalonga",
+      "4607",
+      "Luzon"
+    ],
+    [
+      "Daet",
+      "4600",
+      "Luzon"
+    ],
+    [
+      "Imelda",
+      "4610",
+      "Luzon"
+    ],
+    [
+      "Jose Panganiban",
+      "4606",
+      "Luzon"
+    ],
+    [
+      "Labo",
+      "4604",
+      "Luzon"
+    ],
+    [
+      "Mercedez",
+      "4601",
+      "Luzon"
+    ],
+    [
+      "Paracale",
+      "4605",
+      "Luzon"
+    ],
+    [
+      "San Vicente",
+      "4609",
+      "Luzon"
+    ],
+    [
+      "Santa Elena",
+      "4611",
+      "Luzon"
+    ],
+    [
+      "Talisay",
+      "4602",
+      "Luzon"
+    ],
+    [
+      "Tulay na Lupa",
+      "4612",
+      "Luzon"
+    ],
+    [
+      "Vinzons",
+      "4603",
+      "Luzon"
+    ]
+  ],
+  "Camarines Sur": [
+    [
+      "Baao",
+      "4432",
+      "Luzon"
+    ],
+    [
+      "Balatan",
+      "4436",
+      "Luzon"
+    ],
+    [
+      "Bato",
+      "4435",
+      "Luzon"
+    ],
+    [
+      "Bombon",
+      "4404",
+      "Luzon"
+    ],
+    [
+      "Buhi",
+      "4433",
+      "Luzon"
+    ],
+    [
+      "Bula",
+      "4430",
+      "Luzon"
+    ],
+    [
+      "Cabusao",
+      "4406",
+      "Luzon"
+    ],
+    [
+      "Calabanga",
+      "4405",
+      "Luzon"
+    ],
+    [
+      "Camaligan",
+      "4401",
+      "Luzon"
+    ],
+    [
+      "Canaman",
+      "4402",
+      "Luzon"
+    ],
+    [
+      "Caramoan",
+      "4429",
+      "Luzon"
+    ],
+    [
+      "Del Gallego",
+      "4411",
+      "Luzon"
+    ],
+    [
+      "Gainza",
+      "4412",
+      "Luzon"
+    ],
+    [
+      "Garchitorena",
+      "4428",
+      "Luzon"
+    ],
+    [
+      "Goa",
+      "4422",
+      "Luzon"
+    ],
+    [
+      "Iriga City",
+      "4431",
+      "Luzon"
+    ],
+    [
+      "Lagunoy",
+      "4425",
+      "Luzon"
+    ],
+    [
+      "Libmanan",
+      "4407",
+      "Luzon"
+    ],
+    [
+      "Lupi",
+      "4409",
+      "Luzon"
+    ],
+    [
+      "Magarao",
+      "4403",
+      "Luzon"
+    ],
+    [
+      "Milaor",
+      "4413",
+      "Luzon"
+    ],
+    [
+      "Minalabac",
+      "4414",
+      "Luzon"
+    ],
+    [
+      "Nabua",
+      "4434",
+      "Luzon"
+    ],
+    [
+      "Ocampo",
+      "4419",
+      "Luzon"
+    ],
+    [
+      "Pamplona",
+      "4416",
+      "Luzon"
+    ],
+    [
+      "Pasacao",
+      "4417",
+      "Luzon"
+    ],
+    [
+      "Pili",
+      "4418",
+      "Luzon"
+    ],
+    [
+      "Presentacion",
+      "4424",
+      "Luzon"
+    ],
+    [
+      "Ragay",
+      "4410",
+      "Luzon"
+    ],
+    [
+      "Sagnay",
+      "4421",
+      "Luzon"
+    ],
+    [
+      "San Fernando",
+      "4415",
+      "Luzon"
+    ],
+    [
+      "San Jose",
+      "4423",
+      "Luzon"
+    ],
+    [
+      "Sipocot",
+      "4408",
+      "Luzon"
+    ],
+    [
+      "Siruma",
+      "4427",
+      "Luzon"
+    ],
+    [
+      "Tigaon",
+      "4420",
+      "Luzon"
+    ],
+    [
+      "Tinambac",
+      "4426",
+      "Luzon"
+    ]
+  ],
+  "Camiguin": [
+    [
+      "Catarman",
+      "9104",
+      "Mindanao"
+    ],
+    [
+      "Guinsiliban",
+      "9102",
+      "Mindanao"
+    ],
+    [
+      "Mahinog",
+      "9101",
+      "Mindanao"
+    ],
+    [
+      "Mambajao",
+      "9100",
+      "Mindanao"
+    ],
+    [
+      "Sagay",
+      "9103",
+      "Mindanao"
+    ]
+  ],
+  "Capiz": [
+    [
+      "Cuartero",
+      "5811",
+      "Visayas"
+    ],
+    [
+      "Dao",
+      "5810",
+      "Visayas"
+    ],
+    [
+      "Dumalag",
+      "5813",
+      "Visayas"
+    ],
+    [
+      "Dumarao",
+      "5812",
+      "Visayas"
+    ],
+    [
+      "Ivisan",
+      "5805",
+      "Visayas"
+    ],
+    [
+      "Jamindan",
+      "5808",
+      "Visayas"
+    ],
+    [
+      "Ma-ayon",
+      "5809",
+      "Visayas"
+    ],
+    [
+      "Mambusao",
+      "5807",
+      "Visayas"
+    ],
+    [
+      "Panay",
+      "5801",
+      "Visayas"
+    ],
+    [
+      "Panitan",
+      "5815",
+      "Visayas"
+    ],
+    [
+      "Pilar",
+      "5804",
+      "Visayas"
+    ],
+    [
+      "Pres. Roxas",
+      "5803",
+      "Visayas"
+    ],
+    [
+      "Puntevedra",
+      "5802",
+      "Visayas"
+    ],
+    [
+      "Roxas City",
+      "5800",
+      "Visayas"
+    ],
+    [
+      "Sapian",
+      "5806",
+      "Visayas"
+    ],
+    [
+      "Sigma",
+      "5816",
+      "Visayas"
+    ],
+    [
+      "Tapaz",
+      "5814",
+      "Visayas"
+    ]
+  ],
+  "Catanduanes": [
+    [
+      "Bagamanoc",
+      "4807",
+      "Luzon"
+    ],
+    [
+      "Baras",
+      "4803",
+      "Luzon"
+    ],
+    [
+      "Bato",
+      "4801",
+      "Luzon"
+    ],
+    [
+      "Caramoran",
+      "4808",
+      "Luzon"
+    ],
+    [
+      "Gigmoto",
+      "4804",
+      "Luzon"
+    ],
+    [
+      "Pandan",
+      "4809",
+      "Luzon"
+    ],
+    [
+      "Panganiban",
+      "4806",
+      "Luzon"
+    ],
+    [
+      "San Andres",
+      "4810",
+      "Luzon"
+    ],
+    [
+      "San Miguel",
+      "4802",
+      "Luzon"
+    ],
+    [
+      "Viga",
+      "4805",
+      "Luzon"
+    ],
+    [
+      "Virac",
+      "4800",
+      "Luzon"
+    ]
+  ],
+  "Cavite": [
+    [
+      "1st Cavite Industrial Estate",
+      "4126",
+      "Luzon"
+    ],
+    [
+      "Alfonso",
+      "4123",
+      "Luzon"
+    ],
+    [
+      "Amadeo",
+      "4119",
+      "Luzon"
+    ],
+    [
+      "Bacoor",
+      "4102",
+      "Luzon"
+    ],
+    [
+      "Carmona",
+      "4116",
+      "Luzon"
+    ],
+    [
+      "Cavite City",
+      "4100",
+      "Luzon"
+    ],
+    [
+      "Cavite Naval Base",
+      "4101",
+      "Luzon"
+    ],
+    [
+      "Corregidor",
+      "4125",
+      "Luzon"
+    ],
+    [
+      "Dasmarinas",
+      "4114",
+      "Luzon"
+    ],
+    [
+      "Dasmarinas Resettlement Area",
+      "4115",
+      "Luzon"
+    ],
+    [
+      "Gen. Aguinaldo (Bailen)",
+      "4124",
+      "Luzon"
+    ],
+    [
+      "Gen. Mariano Alvarez",
+      "4117",
+      "Luzon"
+    ],
+    [
+      "Gen. Trias",
+      "4107",
+      "Luzon"
+    ],
+    [
+      "Imus",
+      "4103",
+      "Luzon"
+    ],
+    [
+      "Indang",
+      "4122",
+      "Luzon"
+    ],
+    [
+      "Kawit",
+      "4104",
+      "Luzon"
+    ],
+    [
+      "Magallanes",
+      "4113",
+      "Luzon"
+    ],
+    [
+      "Maragondon",
+      "4112",
+      "Luzon"
+    ],
+    [
+      "Mendez",
+      "4121",
+      "Luzon"
+    ],
+    [
+      "Naic",
+      "4110",
+      "Luzon"
+    ],
+    [
+      "Noveleta",
+      "4105",
+      "Luzon"
+    ],
+    [
+      "Rosario",
+      "4106",
+      "Luzon"
+    ],
+    [
+      "Silang",
+      "4118",
+      "Luzon"
+    ],
+    [
+      "Tagaytay City",
+      "4120",
+      "Luzon"
+    ],
+    [
+      "Tanza",
+      "4108",
+      "Luzon"
+    ],
+    [
+      "Ternate",
+      "4111",
+      "Luzon"
+    ],
+    [
+      "Trece Martirez City",
+      "4109",
+      "Luzon"
+    ]
+  ],
+  "Cebu": [
+    [
+      "Alcantara",
+      "6033",
+      "Visayas"
+    ],
+    [
+      "Alcoy",
+      "6023",
+      "Visayas"
+    ],
+    [
+      "Alegria",
+      "6030",
+      "Visayas"
+    ],
+    [
+      "Aloguinsan",
+      "6040",
+      "Visayas"
+    ],
+    [
+      "Argao",
+      "6021",
+      "Visayas"
+    ],
+    [
+      "Asturias",
+      "6042",
+      "Visayas"
+    ],
+    [
+      "Badian",
+      "6031",
+      "Visayas"
+    ],
+    [
+      "Balamban",
+      "6041",
+      "Visayas"
+    ],
+    [
+      "Bantayan",
+      "6052",
+      "Visayas"
+    ],
+    [
+      "Barile",
+      "6036",
+      "Visayas"
+    ],
+    [
+      "Bogo",
+      "6010",
+      "Visayas"
+    ],
+    [
+      "Boljoon",
+      "6024",
+      "Visayas"
+    ],
+    [
+      "Borbon",
+      "6008",
+      "Visayas"
+    ],
+    [
+      "Carcar",
+      "6019",
+      "Visayas"
+    ],
+    [
+      "Carmen",
+      "6005",
+      "Visayas"
+    ],
+    [
+      "Catmon",
+      "6006",
+      "Visayas"
+    ],
+    [
+      "Cebu City",
+      "6000",
+      "Visayas"
+    ],
+    [
+      "Compostela",
+      "6003",
+      "Visayas"
+    ],
+    [
+      "Consolacion",
+      "6001",
+      "Visayas"
+    ],
+    [
+      "Cordova",
+      "6017",
+      "Visayas"
+    ],
+    [
+      "Daang-Bantayan",
+      "6013",
+      "Visayas"
+    ],
+    [
+      "Dalaguete",
+      "6022",
+      "Visayas"
+    ],
+    [
+      "Danao City",
+      "6004",
+      "Visayas"
+    ],
+    [
+      "Dumanjug",
+      "6035",
+      "Visayas"
+    ],
+    [
+      "Ginatilan",
+      "6028",
+      "Visayas"
+    ],
+    [
+      "Lapu-lapu City",
+      "6015",
+      "Visayas"
+    ],
+    [
+      "Liloan",
+      "6002",
+      "Visayas"
+    ],
+    [
+      "Mactan Airport",
+      "6016",
+      "Visayas"
+    ],
+    [
+      "Madridejos",
+      "6053",
+      "Visayas"
+    ],
+    [
+      "Malabuyoc",
+      "6029",
+      "Visayas"
+    ],
+    [
+      "Mandaue City",
+      "6014",
+      "Visayas"
+    ],
+    [
+      "Medellin",
+      "6012",
+      "Visayas"
+    ],
+    [
+      "Minglanilla",
+      "6046",
+      "Visayas"
+    ],
+    [
+      "Moalboal",
+      "6032",
+      "Visayas"
+    ],
+    [
+      "Naga",
+      "6037",
+      "Visayas"
+    ],
+    [
+      "Oslob",
+      "6025",
+      "Visayas"
+    ],
+    [
+      "Pilar",
+      "6048",
+      "Visayas"
+    ],
+    [
+      "Pinamungahan",
+      "6039",
+      "Visayas"
+    ],
+    [
+      "Poro",
+      "6049",
+      "Visayas"
+    ],
+    [
+      "Ronda",
+      "6034",
+      "Visayas"
+    ],
+    [
+      "Sambaon",
+      "6027",
+      "Visayas"
+    ],
+    [
+      "San Fernando",
+      "6018",
+      "Visayas"
+    ],
+    [
+      "San Francisco",
+      "6050",
+      "Visayas"
+    ],
+    [
+      "San Remegio",
+      "6011",
+      "Visayas"
+    ],
+    [
+      "Santa Fe",
+      "6047",
+      "Visayas"
+    ],
+    [
+      "Santander",
+      "6026",
+      "Visayas"
+    ],
+    [
+      "Sibonga",
+      "6020",
+      "Visayas"
+    ],
+    [
+      "Sogod",
+      "6007",
+      "Visayas"
+    ],
+    [
+      "Tabogon",
+      "6009",
+      "Visayas"
+    ],
+    [
+      "Tabuelan",
+      "6044",
+      "Visayas"
+    ],
+    [
+      "Talisay",
+      "6045",
+      "Visayas"
+    ],
+    [
+      "Toledo City",
+      "6038",
+      "Visayas"
+    ],
+    [
+      "Tuburan",
+      "6043",
+      "Visayas"
+    ],
+    [
+      "Tudela",
+      "6051",
+      "Visayas"
+    ]
+  ],
+  "Compostela Valley": [
+    [
+      "Compostela",
+      "8803",
+      "Mindanao"
+    ],
+    [
+      "Laak",
+      "8810",
+      "Mindanao"
+    ],
+    [
+      "Mabini",
+      "8807",
+      "Mindanao"
+    ],
+    [
+      "Maco",
+      "8806",
+      "Mindanao"
+    ],
+    [
+      "Maragusan",
+      "8808",
+      "Mindanao"
+    ],
+    [
+      "Mawab",
+      "8802",
+      "Mindanao"
+    ],
+    [
+      "Monkayo",
+      "8805",
+      "Mindanao"
+    ],
+    [
+      "Montevista",
+      "8801",
+      "Mindanao"
+    ],
+    [
+      "Nabunturan",
+      "8800",
+      "Mindanao"
+    ],
+    [
+      "New Bataan",
+      "8804",
+      "Mindanao"
+    ],
+    [
+      "Pantukan",
+      "8809",
+      "Mindanao"
+    ]
+  ],
+  "Davao del Norte": [
+    [
+      "Asuncion",
+      "8102",
+      "Mindanao"
+    ],
+    [
+      "Babak",
+      "8118",
+      "Mindanao"
+    ],
+    [
+      "Carmen",
+      "8101",
+      "Mindanao"
+    ],
+    [
+      "Kapalong",
+      "8113",
+      "Mindanao"
+    ],
+    [
+      "Kaputian",
+      "8120",
+      "Mindanao"
+    ],
+    [
+      "New Corella",
+      "8104",
+      "Mindanao"
+    ],
+    [
+      "Panabo",
+      "8105",
+      "Mindanao"
+    ],
+    [
+      "Samal",
+      "8119",
+      "Mindanao"
+    ],
+    [
+      "San Mariano",
+      "8116",
+      "Mindanao"
+    ],
+    [
+      "San Vicente",
+      "8103",
+      "Mindanao"
+    ],
+    [
+      "Santo Tomas",
+      "8112",
+      "Mindanao"
+    ],
+    [
+      "Tagum",
+      "8100",
+      "Mindanao"
+    ]
+  ],
+  "Davao del Sur": [
+    [
+      "Bansalan",
+      "8005",
+      "Mindanao"
+    ],
+    [
+      "Digos",
+      "8002",
+      "Mindanao"
+    ],
+    [
+      "Don Marcelino",
+      "8013",
+      "Mindanao"
+    ],
+    [
+      "Hagunoy",
+      "8006",
+      "Mindanao"
+    ],
+    [
+      "Jose Abad Santos",
+      "8014",
+      "Mindanao"
+    ],
+    [
+      "Kiblawan",
+      "8008",
+      "Mindanao"
+    ],
+    [
+      "Magsaysay",
+      "8004",
+      "Mindanao"
+    ],
+    [
+      "Malalag",
+      "8010",
+      "Mindanao"
+    ],
+    [
+      "Malita",
+      "8012",
+      "Mindanao"
+    ],
+    [
+      "Matanao",
+      "8003",
+      "Mindanao"
+    ],
+    [
+      "Padada",
+      "8007",
+      "Mindanao"
+    ],
+    [
+      "Santa Cruz",
+      "8001",
+      "Mindanao"
+    ],
+    [
+      "Santa Maria",
+      "8011",
+      "Mindanao"
+    ],
+    [
+      "Sarangani",
+      "8015",
+      "Mindanao"
+    ],
+    [
+      "Sulop",
+      "8009",
+      "Mindanao"
+    ]
+  ],
+  "Davao Oriental": [
+    [
+      "Baganga",
+      "8204",
+      "Mindanao"
+    ],
+    [
+      "Banaybanay",
+      "8208",
+      "Mindanao"
+    ],
+    [
+      "Boston",
+      "8206",
+      "Mindanao"
+    ],
+    [
+      "Caraga",
+      "8203",
+      "Mindanao"
+    ],
+    [
+      "Cateel",
+      "8205",
+      "Mindanao"
+    ],
+    [
+      "Gov. Generoso",
+      "8210",
+      "Mindanao"
+    ],
+    [
+      "Lopon",
+      "8207",
+      "Mindanao"
+    ],
+    [
+      "Manay",
+      "8202",
+      "Mindanao"
+    ],
+    [
+      "San Isidro",
+      "8209",
+      "Mindanao"
+    ],
+    [
+      "Tarragona",
+      "8201",
+      "Mindanao"
+    ]
+  ],
+  "Eastern Samar": [
+    [
+      "Arteche",
+      "6822",
+      "Visayas"
+    ],
+    [
+      "Balangiga",
+      "6812",
+      "Visayas"
+    ],
+    [
+      "Balangkayan",
+      "6801",
+      "Visayas"
+    ],
+    [
+      "Borongan",
+      "6800",
+      "Visayas"
+    ],
+    [
+      "Can-avid",
+      "6806",
+      "Visayas"
+    ],
+    [
+      "Dolores",
+      "6817",
+      "Visayas"
+    ],
+    [
+      "Gen. MacArthur",
+      "6805",
+      "Visayas"
+    ],
+    [
+      "Giporlos",
+      "6811",
+      "Visayas"
+    ],
+    [
+      "Guiuan",
+      "6809",
+      "Visayas"
+    ],
+    [
+      "Hernani",
+      "6804",
+      "Visayas"
+    ],
+    [
+      "Jipapad",
+      "6819",
+      "Visayas"
+    ],
+    [
+      "Lawa-an",
+      "6813",
+      "Visayas"
+    ],
+    [
+      "Llorente",
+      "6803",
+      "Visayas"
+    ],
+    [
+      "Maslog",
+      "6820",
+      "Visayas"
+    ],
+    [
+      "Maydulong",
+      "6802",
+      "Visayas"
+    ],
+    [
+      "Mercedes",
+      "6808",
+      "Visayas"
+    ],
+    [
+      "Oras",
+      "6818",
+      "Visayas"
+    ],
+    [
+      "Quinapundan",
+      "6810",
+      "Visayas"
+    ],
+    [
+      "Salcedo",
+      "6807",
+      "Visayas"
+    ],
+    [
+      "San Julian",
+      "6814",
+      "Visayas"
+    ],
+    [
+      "San Policarpio",
+      "6821",
+      "Visayas"
+    ],
+    [
+      "Sulat",
+      "6815",
+      "Visayas"
+    ],
+    [
+      "Taft",
+      "6816",
+      "Visayas"
+    ]
+  ],
+  "Guimaras": [
+    [
+      "Buenavista",
+      "5044",
+      "Visayas"
+    ],
+    [
+      "Jordan",
+      "5045",
+      "Visayas"
+    ],
+    [
+      "Nueva Valencia",
+      "5046",
+      "Visayas"
+    ]
+  ],
+  "Ifugao": [
+    [
+      "Aguinaldo",
+      "3606",
+      "Luzon"
+    ],
+    [
+      "Asipulo",
+      "3610",
+      "Luzon"
+    ],
+    [
+      "Banaue",
+      "3601",
+      "Luzon"
+    ],
+    [
+      "Hingyon",
+      "3607",
+      "Luzon"
+    ],
+    [
+      "Hungduan",
+      "3603",
+      "Luzon"
+    ],
+    [
+      "Kiangan",
+      "3604",
+      "Luzon"
+    ],
+    [
+      "Lagawe",
+      "3600",
+      "Luzon"
+    ],
+    [
+      "Lamut",
+      "3605",
+      "Luzon"
+    ],
+    [
+      "Mayaoyao (Mayoyao)",
+      "3602",
+      "Luzon"
+    ],
+    [
+      "Potia",
+      "3608",
+      "Luzon"
+    ],
+    [
+      "Tinoc",
+      "3609",
+      "Luzon"
+    ]
+  ],
+  "Ilocos Norte": [
+    [
+      "Adams",
+      "2922",
+      "Luzon"
+    ],
+    [
+      "Bacarra",
+      "2916",
+      "Luzon"
+    ],
+    [
+      "Badoc",
+      "2904",
+      "Luzon"
+    ],
+    [
+      "Bangui",
+      "2920",
+      "Luzon"
+    ],
+    [
+      "Batac",
+      "2906",
+      "Luzon"
+    ],
+    [
+      "Burgos",
+      "2918",
+      "Luzon"
+    ],
+    [
+      "Carasi",
+      "2911",
+      "Luzon"
+    ],
+    [
+      "Currimao",
+      "2903",
+      "Luzon"
+    ],
+    [
+      "Dingras",
+      "2913",
+      "Luzon"
+    ],
+    [
+      "Dumalneg",
+      "2921",
+      "Luzon"
+    ],
+    [
+      "Espiritu",
+      "2908",
+      "Luzon"
+    ],
+    [
+      "Laoag City",
+      "2900",
+      "Luzon"
+    ],
+    [
+      "Marcos",
+      "2907",
+      "Luzon"
+    ],
+    [
+      "Nueva Era",
+      "2909",
+      "Luzon"
+    ],
+    [
+      "Pagudpud",
+      "2919",
+      "Luzon"
+    ],
+    [
+      "Paoay",
+      "2902",
+      "Luzon"
+    ],
+    [
+      "Pasuquin",
+      "2917",
+      "Luzon"
+    ],
+    [
+      "Piddig",
+      "2912",
+      "Luzon"
+    ],
+    [
+      "Pinili",
+      "2905",
+      "Luzon"
+    ],
+    [
+      "San Nicolas",
+      "2901",
+      "Luzon"
+    ],
+    [
+      "Sarrat",
+      "2914",
+      "Luzon"
+    ],
+    [
+      "Solsona",
+      "2910",
+      "Luzon"
+    ],
+    [
+      "Vintar",
+      "2915",
+      "Luzon"
+    ]
+  ],
+  "Ilocos Sur": [
+    [
+      "Alilem",
+      "2716",
+      "Luzon"
+    ],
+    [
+      "Banayoyo",
+      "2708",
+      "Luzon"
+    ],
+    [
+      "Bantay",
+      "2727",
+      "Luzon"
+    ],
+    [
+      "Burgos",
+      "2724",
+      "Luzon"
+    ],
+    [
+      "Cabugao",
+      "2732",
+      "Luzon"
+    ],
+    [
+      "Candon",
+      "2710",
+      "Luzon"
+    ],
+    [
+      "Caoayan",
+      "2702",
+      "Luzon"
+    ],
+    [
+      "Cervantes",
+      "2718",
+      "Luzon"
+    ],
+    [
+      "Galimuyod",
+      "2709",
+      "Luzon"
+    ],
+    [
+      "Gregorio del Pilar",
+      "2720",
+      "Luzon"
+    ],
+    [
+      "Lidlida",
+      "2723",
+      "Luzon"
+    ],
+    [
+      "Magsingal",
+      "2730",
+      "Luzon"
+    ],
+    [
+      "Nagbukel",
+      "2725",
+      "Luzon"
+    ],
+    [
+      "Narvacan",
+      "2704",
+      "Luzon"
+    ],
+    [
+      "Quirino",
+      "2721",
+      "Luzon"
+    ],
+    [
+      "Salcedo",
+      "2711",
+      "Luzon"
+    ],
+    [
+      "San Emilio",
+      "2722",
+      "Luzon"
+    ],
+    [
+      "San Esteban",
+      "2706",
+      "Luzon"
+    ],
+    [
+      "San Ildefonso",
+      "2728",
+      "Luzon"
+    ],
+    [
+      "San Juan",
+      "2731",
+      "Luzon"
+    ],
+    [
+      "San Vicente",
+      "2726",
+      "Luzon"
+    ],
+    [
+      "Santa",
+      "2703",
+      "Luzon"
+    ],
+    [
+      "Santa Catalina",
+      "2701",
+      "Luzon"
+    ],
+    [
+      "Santa Cruz",
+      "2713",
+      "Luzon"
+    ],
+    [
+      "Santa Lucia",
+      "2712",
+      "Luzon"
+    ],
+    [
+      "Santa Maria",
+      "2705",
+      "Luzon"
+    ],
+    [
+      "Santiago",
+      "2707",
+      "Luzon"
+    ],
+    [
+      "Santo Domingo",
+      "2729",
+      "Luzon"
+    ],
+    [
+      "Sicay",
+      "2719",
+      "Luzon"
+    ],
+    [
+      "Sinait",
+      "2733",
+      "Luzon"
+    ],
+    [
+      "Sugpon",
+      "2717",
+      "Luzon"
+    ],
+    [
+      "Suyo",
+      "2715",
+      "Luzon"
+    ],
+    [
+      "Tagudin",
+      "2714",
+      "Luzon"
+    ]
+  ],
+  "Iloilo Province": [
+    [
+      "Ajuy",
+      "5012",
+      "Visayas"
+    ],
+    [
+      "Alimodian",
+      "5028",
+      "Visayas"
+    ],
+    [
+      "Anilao",
+      "5009",
+      "Visayas"
+    ],
+    [
+      "Badiangan",
+      "5033",
+      "Visayas"
+    ],
+    [
+      "Balasan",
+      "5018",
+      "Visayas"
+    ],
+    [
+      "Banate",
+      "5010",
+      "Visayas"
+    ],
+    [
+      "Barotac Nuevo",
+      "5007",
+      "Visayas"
+    ],
+    [
+      "Barotac Viejo",
+      "5011",
+      "Visayas"
+    ],
+    [
+      "Batad",
+      "5016",
+      "Visayas"
+    ],
+    [
+      "Bingawan",
+      "5041",
+      "Visayas"
+    ],
+    [
+      "Cabatuan",
+      "5031",
+      "Visayas"
+    ],
+    [
+      "Calinog",
+      "5040",
+      "Visayas"
+    ],
+    [
+      "Carles",
+      "5019",
+      "Visayas"
+    ],
+    [
+      "Concepcion",
+      "5013",
+      "Visayas"
+    ],
+    [
+      "Dingle",
+      "5035",
+      "Visayas"
+    ],
+    [
+      "Duenas",
+      "5038",
+      "Visayas"
+    ],
+    [
+      "Dumangas",
+      "5006",
+      "Visayas"
+    ],
+    [
+      "Estancia",
+      "5017",
+      "Visayas"
+    ],
+    [
+      "Guimbal",
+      "5022",
+      "Visayas"
+    ],
+    [
+      "Igbaras",
+      "5029",
+      "Visayas"
+    ],
+    [
+      "Iloilo City",
+      "5000",
+      "Visayas"
+    ],
+    [
+      "Janiuay",
+      "5034",
+      "Visayas"
+    ],
+    [
+      "Lambunao",
+      "5042",
+      "Visayas"
+    ],
+    [
+      "Leganes",
+      "5003",
+      "Visayas"
+    ],
+    [
+      "Lemery",
+      "5043",
+      "Visayas"
+    ],
+    [
+      "Leon",
+      "5026",
+      "Visayas"
+    ],
+    [
+      "Maasin",
+      "5030",
+      "Visayas"
+    ],
+    [
+      "Miagao",
+      "5023",
+      "Visayas"
+    ],
+    [
+      "Mina",
+      "5032",
+      "Visayas"
+    ],
+    [
+      "New Lucena",
+      "5005",
+      "Visayas"
+    ],
+    [
+      "Oton",
+      "5020",
+      "Visayas"
+    ],
+    [
+      "Passi",
+      "5037",
+      "Visayas"
+    ],
+    [
+      "Pavia",
+      "5001",
+      "Visayas"
+    ],
+    [
+      "Pototan",
+      "5008",
+      "Visayas"
+    ],
+    [
+      "San Dionisio",
+      "5015",
+      "Visayas"
+    ],
+    [
+      "San Enrique",
+      "5036",
+      "Visayas"
+    ],
+    [
+      "San Joaquin",
+      "5024",
+      "Visayas"
+    ],
+    [
+      "San Miguel",
+      "5025",
+      "Visayas"
+    ],
+    [
+      "San Rafael",
+      "5039",
+      "Visayas"
+    ],
+    [
+      "Santa Barbara",
+      "5002",
+      "Visayas"
+    ],
+    [
+      "Sara",
+      "5014",
+      "Visayas"
+    ],
+    [
+      "Tigbauan",
+      "5021",
+      "Visayas"
+    ],
+    [
+      "Tubungan",
+      "5027",
+      "Visayas"
+    ],
+    [
+      "Zarraga",
+      "5004",
+      "Visayas"
+    ]
+  ],
+  "Isabela": [
+    [
+      "Alicia",
+      "3306",
+      "Luzon"
+    ],
+    [
+      "Angadanan",
+      "3307",
+      "Luzon"
+    ],
+    [
+      "Aurora",
+      "3316",
+      "Luzon"
+    ],
+    [
+      "Benito Soliven",
+      "3331",
+      "Luzon"
+    ],
+    [
+      "Burgos",
+      "3322",
+      "Luzon"
+    ],
+    [
+      "Cabagan",
+      "3328",
+      "Luzon"
+    ],
+    [
+      "Cabatuan",
+      "3315",
+      "Luzon"
+    ],
+    [
+      "Cauayan",
+      "3305",
+      "Luzon"
+    ],
+    [
+      "Cordon",
+      "3312",
+      "Luzon"
+    ],
+    [
+      "Delfin Albano",
+      "3326",
+      "Luzon"
+    ],
+    [
+      "Dinapigui",
+      "3336",
+      "Luzon"
+    ],
+    [
+      "Divilacan",
+      "3335",
+      "Luzon"
+    ],
+    [
+      "Echague",
+      "3309",
+      "Luzon"
+    ],
+    [
+      "Gamu",
+      "3301",
+      "Luzon"
+    ],
+    [
+      "Ilagan",
+      "3300",
+      "Luzon"
+    ],
+    [
+      "Jones",
+      "3313",
+      "Luzon"
+    ],
+    [
+      "Luna",
+      "3304",
+      "Luzon"
+    ],
+    [
+      "Maconacon",
+      "3333",
+      "Luzon"
+    ],
+    [
+      "Mallig",
+      "3323",
+      "Luzon"
+    ],
+    [
+      "Naguilian",
+      "3302",
+      "Luzon"
+    ],
+    [
+      "Palanan",
+      "3334",
+      "Luzon"
+    ],
+    [
+      "Quezon",
+      "3324",
+      "Luzon"
+    ],
+    [
+      "Quirino",
+      "3321",
+      "Luzon"
+    ],
+    [
+      "Ramon",
+      "3319",
+      "Luzon"
+    ],
+    [
+      "Reina Mercedes",
+      "3303",
+      "Luzon"
+    ],
+    [
+      "Roxas",
+      "3320",
+      "Luzon"
+    ],
+    [
+      "San Agustin",
+      "3314",
+      "Luzon"
+    ],
+    [
+      "San Guillermo",
+      "3308",
+      "Luzon"
+    ],
+    [
+      "San Isidro",
+      "3310",
+      "Luzon"
+    ],
+    [
+      "San Mariano",
+      "3332",
+      "Luzon"
+    ],
+    [
+      "San Mateo",
+      "3318",
+      "Luzon"
+    ],
+    [
+      "San Miguel (Callang)",
+      "3317",
+      "Luzon"
+    ],
+    [
+      "San Pablo",
+      "3329",
+      "Luzon"
+    ],
+    [
+      "Santa Maria",
+      "3330",
+      "Luzon"
+    ],
+    [
+      "Santiago",
+      "3311",
+      "Luzon"
+    ],
+    [
+      "Santo Tomas",
+      "3327",
+      "Luzon"
+    ],
+    [
+      "Tumauini",
+      "3325",
+      "Luzon"
+    ]
+  ],
+  "Kalinga-Apayao": [
+    [
+      "Balbalan",
+      "3801",
+      "Luzon"
+    ],
+    [
+      "Calanasan",
+      "3814",
+      "Luzon"
+    ],
+    [
+      "Conner",
+      "3807",
+      "Luzon"
+    ],
+    [
+      "Flora",
+      "3810",
+      "Luzon"
+    ],
+    [
+      "Kabugao",
+      "3809",
+      "Luzon"
+    ],
+    [
+      "Liwan (Rizal)",
+      "3808",
+      "Luzon"
+    ],
+    [
+      "Lubuagan",
+      "3802",
+      "Luzon"
+    ],
+    [
+      "Luna",
+      "3813",
+      "Luzon"
+    ],
+    [
+      "Pasil",
+      "3803",
+      "Luzon"
+    ],
+    [
+      "Pinukpuk",
+      "3806",
+      "Luzon"
+    ],
+    [
+      "Pudtol",
+      "3812",
+      "Luzon"
+    ],
+    [
+      "Santa Marcela",
+      "3811",
+      "Luzon"
+    ],
+    [
+      "Tabuk",
+      "3800",
+      "Luzon"
+    ],
+    [
+      "Tanudan",
+      "3805",
+      "Luzon"
+    ],
+    [
+      "Tinglayan",
+      "3804",
+      "Luzon"
+    ]
+  ],
+  "La Union": [
+    [
+      "Agoo",
+      "2504",
+      "Luzon"
+    ],
+    [
+      "Aringay",
+      "2503",
+      "Luzon"
+    ],
+    [
+      "Bacnotan",
+      "2515",
+      "Luzon"
+    ],
+    [
+      "Bagulin",
+      "2512",
+      "Luzon"
+    ],
+    [
+      "Balaoan",
+      "2517",
+      "Luzon"
+    ],
+    [
+      "Bangar",
+      "2519",
+      "Luzon"
+    ],
+    [
+      "Bauang",
+      "2501",
+      "Luzon"
+    ],
+    [
+      "Burgos",
+      "2510",
+      "Luzon"
+    ],
+    [
+      "Caba",
+      "2502",
+      "Luzon"
+    ],
+    [
+      "Damortis",
+      "2507",
+      "Luzon"
+    ],
+    [
+      "Luna",
+      "2518",
+      "Luzon"
+    ],
+    [
+      "Naguilian",
+      "2511",
+      "Luzon"
+    ],
+    [
+      "Pugo",
+      "2508",
+      "Luzon"
+    ],
+    [
+      "Rosario",
+      "2506",
+      "Luzon"
+    ],
+    [
+      "San Fernando",
+      "2500",
+      "Luzon"
+    ],
+    [
+      "San Gabriel",
+      "2513",
+      "Luzon"
+    ],
+    [
+      "San Juan",
+      "2514",
+      "Luzon"
+    ],
+    [
+      "Santo Tomas",
+      "2505",
+      "Luzon"
+    ],
+    [
+      "Santol",
+      "2516",
+      "Luzon"
+    ],
+    [
+      "Sudipen",
+      "2520",
+      "Luzon"
+    ],
+    [
+      "Tubao",
+      "2509",
+      "Luzon"
+    ]
+  ],
+  "Laguna": [
+    [
+      "Alaminos",
+      "4001",
+      "Luzon"
+    ],
+    [
+      "Bay",
+      "4033",
+      "Luzon"
+    ],
+    [
+      "Binan",
+      "4024",
+      "Luzon"
+    ],
+    [
+      "Botocan",
+      "4006",
+      "Luzon"
+    ],
+    [
+      "Cabuyao",
+      "4025",
+      "Luzon"
+    ],
+    [
+      "Calamba",
+      "4027",
+      "Luzon"
+    ],
+    [
+      "Calauan",
+      "4012",
+      "Luzon"
+    ],
+    [
+      "Camp Vicente Lim",
+      "4029",
+      "Luzon"
+    ],
+    [
+      "Canlubang",
+      "4028",
+      "Luzon"
+    ],
+    [
+      "Cavinti",
+      "4013",
+      "Luzon"
+    ],
+    [
+      "College Los Banos",
+      "4031",
+      "Luzon"
+    ],
+    [
+      "Famy",
+      "4021",
+      "Luzon"
+    ],
+    [
+      "Kalayaan",
+      "4015",
+      "Luzon"
+    ],
+    [
+      "Liliw",
+      "4004",
+      "Luzon"
+    ],
+    [
+      "Los Banos",
+      "4030",
+      "Luzon"
+    ],
+    [
+      "Luisiana",
+      "4032",
+      "Luzon"
+    ],
+    [
+      "Lumban",
+      "4014",
+      "Luzon"
+    ],
+    [
+      "Mabitac",
+      "4020",
+      "Luzon"
+    ],
+    [
+      "Magdalena",
+      "4007",
+      "Luzon"
+    ],
+    [
+      "Majayjay",
+      "4005",
+      "Luzon"
+    ],
+    [
+      "Nagcarlan",
+      "4002",
+      "Luzon"
+    ],
+    [
+      "Paete",
+      "4016",
+      "Luzon"
+    ],
+    [
+      "Pagsanjan",
+      "4008",
+      "Luzon"
+    ],
+    [
+      "Pakil",
+      "4017",
+      "Luzon"
+    ],
+    [
+      "Pangil",
+      "4018",
+      "Luzon"
+    ],
+    [
+      "Pila",
+      "4010",
+      "Luzon"
+    ],
+    [
+      "Rizal",
+      "4003",
+      "Luzon"
+    ],
+    [
+      "San Pablo City",
+      "4000",
+      "Luzon"
+    ],
+    [
+      "San Pedro",
+      "4023",
+      "Luzon"
+    ],
+    [
+      "Santa Cruz",
+      "4009",
+      "Luzon"
+    ],
+    [
+      "Santa Maria",
+      "4022",
+      "Luzon"
+    ],
+    [
+      "Santa Rosa",
+      "4026",
+      "Luzon"
+    ],
+    [
+      "Siniloan",
+      "4019",
+      "Luzon"
+    ],
+    [
+      "Victoria",
+      "4011",
+      "Luzon"
+    ]
+  ],
+  "Lanao del Norte": [
+    [
+      "Bacolod",
+      "9205",
+      "Mindanao"
+    ],
+    [
+      "Baloi",
+      "9217",
+      "Mindanao"
+    ],
+    [
+      "Baroy",
+      "9210",
+      "Mindanao"
+    ],
+    [
+      "Iligan City",
+      "9200",
+      "Mindanao"
+    ],
+    [
+      "Kapatagan",
+      "9214",
+      "Mindanao"
+    ],
+    [
+      "Karomatan",
+      "9215",
+      "Mindanao"
+    ],
+    [
+      "Kauswagan",
+      "9202",
+      "Mindanao"
+    ],
+    [
+      "Kolambugan",
+      "9207",
+      "Mindanao"
+    ],
+    [
+      "Lala",
+      "9211",
+      "Mindanao"
+    ],
+    [
+      "Linamon",
+      "9201",
+      "Mindanao"
+    ],
+    [
+      "Magsaysay",
+      "9221",
+      "Mindanao"
+    ],
+    [
+      "Maigo",
+      "9206",
+      "Mindanao"
+    ],
+    [
+      "Matungao",
+      "9203",
+      "Mindanao"
+    ],
+    [
+      "Munai",
+      "9219",
+      "Mindanao"
+    ],
+    [
+      "Nunungan",
+      "9216",
+      "Mindanao"
+    ],
+    [
+      "Pantao Ragat",
+      "9208",
+      "Mindanao"
+    ],
+    [
+      "Pantar",
+      "9218",
+      "Mindanao"
+    ],
+    [
+      "Poona Piagapo",
+      "9204",
+      "Mindanao"
+    ],
+    [
+      "Salvador",
+      "9212",
+      "Mindanao"
+    ],
+    [
+      "Sapad",
+      "9213",
+      "Mindanao"
+    ],
+    [
+      "Sultan Nage Di Maporo",
+      "9223",
+      "Mindanao"
+    ],
+    [
+      "Tagoloan",
+      "9222",
+      "Mindanao"
+    ],
+    [
+      "Tangkal",
+      "9220",
+      "Mindanao"
+    ],
+    [
+      "Tubod",
+      "9209",
+      "Mindanao"
+    ]
+  ],
+  "Lanao del Sur": [
+    [
+      "Bacolod Grande",
+      "9316",
+      "Mindanao"
+    ],
+    [
+      "Balabagan",
+      "9302",
+      "Mindanao"
+    ],
+    [
+      "Balindong",
+      "9318",
+      "Mindanao"
+    ],
+    [
+      "Bayang",
+      "9309",
+      "Mindanao"
+    ],
+    [
+      "Binidayan",
+      "9310",
+      "Mindanao"
+    ],
+    [
+      "Buadiposo Buntong",
+      "9714",
+      "Mindanao"
+    ],
+    [
+      "Bubong",
+      "9708",
+      "Mindanao"
+    ],
+    [
+      "Bumbaran",
+      "9320",
+      "Mindanao"
+    ],
+    [
+      "Butig",
+      "9305",
+      "Mindanao"
+    ],
+    [
+      "Calanogas",
+      "9319",
+      "Mindanao"
+    ],
+    [
+      "Ganassi",
+      "9311",
+      "Mindanao"
+    ],
+    [
+      "Kapai",
+      "9709",
+      "Mindanao"
+    ],
+    [
+      "Lumba Bayabao",
+      "9703",
+      "Mindanao"
+    ],
+    [
+      "Lumbatan",
+      "9307",
+      "Mindanao"
+    ],
+    [
+      "Lumbayanague",
+      "9306",
+      "Mindanao"
+    ],
+    [
+      "Macador Andong",
+      "9308",
+      "Mindanao"
+    ],
+    [
+      "Madalum",
+      "9315",
+      "Mindanao"
+    ],
+    [
+      "Madamba",
+      "9314",
+      "Mindanao"
+    ],
+    [
+      "Maguing",
+      "9715",
+      "Mindanao"
+    ],
+    [
+      "Malabang",
+      "9300",
+      "Mindanao"
+    ],
+    [
+      "Maragong",
+      "9303",
+      "Mindanao"
+    ],
+    [
+      "Marantao",
+      "9711",
+      "Mindanao"
+    ],
+    [
+      "Marawi City",
+      "9700",
+      "Mindanao"
+    ],
+    [
+      "Masiu",
+      "9706",
+      "Mindanao"
+    ],
+    [
+      "Mulondo",
+      "9702",
+      "Mindanao"
+    ],
+    [
+      "Pagayawan",
+      "9312",
+      "Mindanao"
+    ],
+    [
+      "Piagapo",
+      "9710",
+      "Mindanao"
+    ],
+    [
+      "Poona Bayabao",
+      "9705",
+      "Mindanao"
+    ],
+    [
+      "Pualas",
+      "9313",
+      "Mindanao"
+    ],
+    [
+      "Ramain-Ditsaan",
+      "9713",
+      "Mindanao"
+    ],
+    [
+      "Saguiaran",
+      "9701",
+      "Mindanao"
+    ],
+    [
+      "Sultan Gumander",
+      "9301",
+      "Mindanao"
+    ],
+    [
+      "Tagoloan â€°Ã›Ã’ II",
+      "9321",
+      "Mindanao"
+    ],
+    [
+      "Tamparan",
+      "9704",
+      "Mindanao"
+    ],
+    [
+      "Taraka",
+      "9712",
+      "Mindanao"
+    ],
+    [
+      "Tubaran",
+      "9304",
+      "Mindanao"
+    ],
+    [
+      "Tugaya",
+      "9317",
+      "Mindanao"
+    ],
+    [
+      "Wao",
+      "9716",
+      "Mindanao"
+    ]
+  ],
+  "Las Pinas": [
+    [
+      "Almanza",
+      "1750",
+      "Metro Manila"
+    ],
+    [
+      "Amparo Subdivision",
+      "1425",
+      "Metro Manila"
+    ],
+    [
+      "Angela Village",
+      "1749",
+      "Metro Manila"
+    ],
+    [
+      "Bagong Silang",
+      "1428",
+      "Metro Manila"
+    ],
+    [
+      "Bagumbong/Pagasa",
+      "1421",
+      "Metro Manila"
+    ],
+    [
+      "Bankers Village",
+      "1426",
+      "Metro Manila"
+    ],
+    [
+      "Capitol Parkland Subdivision",
+      "1424",
+      "Metro Manila"
+    ],
+    [
+      "Cut-Cut",
+      "1743",
+      "Metro Manila"
+    ],
+    [
+      "Gathchalian Subdivision",
+      "1745",
+      "Metro Manila"
+    ],
+    [
+      "Kaybiga/Deparo",
+      "1420",
+      "Metro Manila"
+    ],
+    [
+      "Las Pinas CPO",
+      "1740",
+      "Metro Manila"
+    ],
+    [
+      "Lilles Ville Subdivision",
+      "1423",
+      "Metro Manila"
+    ],
+    [
+      "Manila Doctors Village",
+      "1748",
+      "Metro Manila"
+    ],
+    [
+      "Manuyo",
+      "1744",
+      "Metro Manila"
+    ],
+    [
+      "Novaliches North",
+      "1422",
+      "Metro Manila"
+    ],
+    [
+      "Pulang Lupa",
+      "1742",
+      "Metro Manila"
+    ],
+    [
+      "Remarville Subdivision",
+      "1741",
+      "Metro Manila"
+    ],
+    [
+      "Soldiers Hills Subdivision",
+      "1752",
+      "Metro Manila"
+    ],
+    [
+      "T.S. Cruz Subdivision",
+      "1751",
+      "Metro Manila"
+    ],
+    [
+      "Tala Leprosarium",
+      "1427",
+      "Metro Manila"
+    ],
+    [
+      "Verdant Acres Subdivision",
+      "1746",
+      "Metro Manila"
+    ],
+    [
+      "Victory Heights",
+      "1427",
+      "Metro Manila"
+    ],
+    [
+      "Zapote",
+      "1742",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèTalon, Moonwalkâ€°Ã›Ã_",
+      "1747",
+      "Metro Manila"
+    ]
+  ],
+  "Leyte Province": [
+    [
+      "Abuyog",
+      "6510",
+      "Visayas"
+    ],
+    [
+      "Alangalang",
+      "6517",
+      "Visayas"
+    ],
+    [
+      "Albuera",
+      "6542",
+      "Visayas"
+    ],
+    [
+      "Babatngon",
+      "6520",
+      "Visayas"
+    ],
+    [
+      "Barugo",
+      "6519",
+      "Visayas"
+    ],
+    [
+      "Bato",
+      "6525",
+      "Visayas"
+    ],
+    [
+      "Baybay",
+      "6521",
+      "Visayas"
+    ],
+    [
+      "Burauen",
+      "6516",
+      "Visayas"
+    ],
+    [
+      "Calubian",
+      "6534",
+      "Visayas"
+    ],
+    [
+      "Capoocan",
+      "6530",
+      "Visayas"
+    ],
+    [
+      "Carigara",
+      "6529",
+      "Visayas"
+    ],
+    [
+      "Dagami",
+      "6515",
+      "Visayas"
+    ],
+    [
+      "Dulag",
+      "6505",
+      "Visayas"
+    ],
+    [
+      "Hilongos",
+      "6524",
+      "Visayas"
+    ],
+    [
+      "Hindang",
+      "6523",
+      "Visayas"
+    ],
+    [
+      "Inopacan",
+      "6522",
+      "Visayas"
+    ],
+    [
+      "Isabel",
+      "6539",
+      "Visayas"
+    ],
+    [
+      "Jaro",
+      "6527",
+      "Visayas"
+    ],
+    [
+      "Javier",
+      "6511",
+      "Visayas"
+    ],
+    [
+      "Julita",
+      "6506",
+      "Visayas"
+    ],
+    [
+      "Kananga",
+      "6531",
+      "Visayas"
+    ],
+    [
+      "La Paz",
+      "6508",
+      "Visayas"
+    ],
+    [
+      "Leyte",
+      "6533",
+      "Visayas"
+    ],
+    [
+      "MacArthur",
+      "6509",
+      "Visayas"
+    ],
+    [
+      "Mahaplag",
+      "6512",
+      "Visayas"
+    ],
+    [
+      "Matag-ob",
+      "6532",
+      "Visayas"
+    ],
+    [
+      "Matalom",
+      "6526",
+      "Visayas"
+    ],
+    [
+      "Mayorga",
+      "6507",
+      "Visayas"
+    ],
+    [
+      "Merida",
+      "6540",
+      "Visayas"
+    ],
+    [
+      "Ormoc City",
+      "6541",
+      "Visayas"
+    ],
+    [
+      "Palo",
+      "6501",
+      "Visayas"
+    ],
+    [
+      "Palompon",
+      "6538",
+      "Visayas"
+    ],
+    [
+      "Pastrana",
+      "6514",
+      "Visayas"
+    ],
+    [
+      "San Isidro",
+      "6535",
+      "Visayas"
+    ],
+    [
+      "San Miguel",
+      "6518",
+      "Visayas"
+    ],
+    [
+      "Santa Fe",
+      "6513",
+      "Visayas"
+    ],
+    [
+      "Tabango",
+      "6536",
+      "Visayas"
+    ],
+    [
+      "Tabontabon",
+      "6504",
+      "Visayas"
+    ],
+    [
+      "Tacloban City",
+      "6500",
+      "Visayas"
+    ],
+    [
+      "Tanauan",
+      "6502",
+      "Visayas"
+    ],
+    [
+      "Tolosa",
+      "6503",
+      "Visayas"
+    ],
+    [
+      "Tunga",
+      "6528",
+      "Visayas"
+    ],
+    [
+      "Villaba",
+      "6537",
+      "Visayas"
+    ]
+  ],
+  "Maguindanao": [
+    [
+      "Ampatuan",
+      "9609",
+      "Mindanao"
+    ],
+    [
+      "Barira",
+      "9614",
+      "Mindanao"
+    ],
+    [
+      "Buldon",
+      "9615",
+      "Mindanao"
+    ],
+    [
+      "Buluan",
+      "9616",
+      "Mindanao"
+    ],
+    [
+      "Cotabato City",
+      "9600",
+      "Mindanao"
+    ],
+    [
+      "Datu Odin Sinsuat (Dinaig)",
+      "9601",
+      "Mindanao"
+    ],
+    [
+      "Datu Paglas",
+      "9617",
+      "Mindanao"
+    ],
+    [
+      "Datu Piang",
+      "9607",
+      "Mindanao"
+    ],
+    [
+      "Gen. S.K. Datun",
+      "9618",
+      "Mindanao"
+    ],
+    [
+      "Kabuntulan",
+      "9606",
+      "Mindanao"
+    ],
+    [
+      "Maganoy",
+      "9608",
+      "Mindanao"
+    ],
+    [
+      "Matanog",
+      "9613",
+      "Mindanao"
+    ],
+    [
+      "Pagalungan",
+      "9610",
+      "Mindanao"
+    ],
+    [
+      "Parang",
+      "9604",
+      "Mindanao"
+    ],
+    [
+      "Sharif Aguak",
+      "9619",
+      "Mindanao"
+    ],
+    [
+      "South Upi",
+      "9603",
+      "Mindanao"
+    ],
+    [
+      "Sultan Kudarat",
+      "9605",
+      "Mindanao"
+    ],
+    [
+      "Sultan sa Barongis",
+      "9611",
+      "Mindanao"
+    ],
+    [
+      "Talayan",
+      "9612",
+      "Mindanao"
+    ],
+    [
+      "Upi",
+      "9602",
+      "Mindanao"
+    ]
+  ],
+  "Makati City": [
+    [
+      "Allied Bank",
+      "716",
+      "Metro Manila"
+    ],
+    [
+      "American Express Intâ€°Ã›Âªl.",
+      "710",
+      "Metro Manila"
+    ],
+    [
+      "Angara ACCRA Bldg.",
+      "770",
+      "Metro Manila"
+    ],
+    [
+      "Ayala-Paseo de Roxas",
+      "1226",
+      "Metro Manila"
+    ],
+    [
+      "BPI Family Bank",
+      "713",
+      "Metro Manila"
+    ],
+    [
+      "Bangkal",
+      "1233",
+      "Metro Manila"
+    ],
+    [
+      "Bank of the Phil. Islands",
+      "720",
+      "Metro Manila"
+    ],
+    [
+      "Bel-air",
+      "1209",
+      "Metro Manila"
+    ],
+    [
+      "Canadian Embassy",
+      "707",
+      "Metro Manila"
+    ],
+    [
+      "Cembo",
+      "1214",
+      "Metro Manila"
+    ],
+    [
+      "Colgate Palmolive Phils.",
+      "701",
+      "Metro Manila"
+    ],
+    [
+      "Comembo",
+      "1217",
+      "Metro Manila"
+    ],
+    [
+      "Dasmarinas Village North",
+      "1221",
+      "Metro Manila"
+    ],
+    [
+      "Dasmarinas Village South",
+      "1222",
+      "Metro Manila"
+    ],
+    [
+      "Embassy of Japan",
+      "723",
+      "Metro Manila"
+    ],
+    [
+      "Faith Embassy",
+      "706",
+      "Metro Manila"
+    ],
+    [
+      "Filipinas Shell",
+      "760",
+      "Metro Manila"
+    ],
+    [
+      "Forbes Park North",
+      "1219",
+      "Metro Manila"
+    ],
+    [
+      "Forbes Park South",
+      "1220",
+      "Metro Manila"
+    ],
+    [
+      "Fort Bonifacio (Camp)",
+      "1201",
+      "Metro Manila"
+    ],
+    [
+      "Fort Bonifacio Naval Station",
+      "1202",
+      "Metro Manila"
+    ],
+    [
+      "Greenbelt",
+      "1228",
+      "Metro Manila"
+    ],
+    [
+      "Guadalupe Nuevo",
+      "1212",
+      "Metro Manila"
+    ],
+    [
+      "Guadalupe Viejo",
+      "1211",
+      "Metro Manila"
+    ],
+    [
+      "Insular Life",
+      "725",
+      "Metro Manila"
+    ],
+    [
+      "Intâ€°Ã›Âªl. Ctr. For Aquatic Resource",
+      "718",
+      "Metro Manila"
+    ],
+    [
+      "Kasilawan",
+      "1206",
+      "Metro Manila"
+    ],
+    [
+      "La Paz-Singkamas- Tejeros",
+      "1204",
+      "Metro Manila"
+    ],
+    [
+      "Land Bank of the Phils.",
+      "711",
+      "Metro Manila"
+    ],
+    [
+      "Legaspi Village",
+      "1229",
+      "Metro Manila"
+    ],
+    [
+      "Magallanes Village",
+      "1232",
+      "Metro Manila"
+    ],
+    [
+      "Makati CPO",
+      "1200",
+      "Metro Manila"
+    ],
+    [
+      "Makati Commercial Center",
+      "1224",
+      "Metro Manila"
+    ],
+    [
+      "Marcopper Mining",
+      "715",
+      "Metro Manila"
+    ],
+    [
+      "Mead Johnson Phils.",
+      "780",
+      "Metro Manila"
+    ],
+    [
+      "Olympia and Carmona",
+      "1207",
+      "Metro Manila"
+    ],
+    [
+      "PCI Bank",
+      "726",
+      "Metro Manila"
+    ],
+    [
+      "Palanan",
+      "1235",
+      "Metro Manila"
+    ],
+    [
+      "Palin-Truth",
+      "700",
+      "Metro Manila"
+    ],
+    [
+      "Pembo",
+      "1218",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Airlines",
+      "750",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Long Distance Telecom Company",
+      "721",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Manila Mansion",
+      "714",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Natl. Oil Company",
+      "708",
+      "Metro Manila"
+    ],
+    [
+      "Pinagkaisahan-Pitogo",
+      "1213",
+      "Metro Manila"
+    ],
+    [
+      "Pio del Pilar",
+      "1230",
+      "Metro Manila"
+    ],
+    [
+      "Poblacion",
+      "1210",
+      "Metro Manila"
+    ],
+    [
+      "Procter & Gamble Philippine",
+      "729",
+      "Metro Manila"
+    ],
+    [
+      "Producerâ€°Ã›Âªs Bank",
+      "704",
+      "Metro Manila"
+    ],
+    [
+      "Prudential Bank",
+      "712",
+      "Metro Manila"
+    ],
+    [
+      "Rembo (East) & Malapad na Bato",
+      "1216",
+      "Metro Manila"
+    ],
+    [
+      "Rembo (West)",
+      "1215",
+      "Metro Manila"
+    ],
+    [
+      "Rizal Commâ€°Ã›Âªl. Banking Corp.",
+      "727",
+      "Metro Manila"
+    ],
+    [
+      "Salcedo Village",
+      "1227",
+      "Metro Manila"
+    ],
+    [
+      "San Antonio Village (Inc. Malugay â€°Ã›Ã’ Yakal)",
+      "1203",
+      "Metro Manila"
+    ],
+    [
+      "San Isidro",
+      "1234",
+      "Metro Manila"
+    ],
+    [
+      "San Lorenzo Village",
+      "1223",
+      "Metro Manila"
+    ],
+    [
+      "Sarmiento Enterprises",
+      "703",
+      "Metro Manila"
+    ],
+    [
+      "Security Bank",
+      "719",
+      "Metro Manila"
+    ],
+    [
+      "Security Diners Intâ€°Ã›Âªl Corp.",
+      "717",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Cruz",
+      "1205",
+      "Metro Manila"
+    ],
+    [
+      "Sunlife Assurance Co. of Canada",
+      "724",
+      "Metro Manila"
+    ],
+    [
+      "Union Ajinomoto",
+      "705",
+      "Metro Manila"
+    ],
+    [
+      "United Coconut Planters Bank",
+      "728",
+      "Metro Manila"
+    ],
+    [
+      "Urban Bank Plaza",
+      "732",
+      "Metro Manila"
+    ],
+    [
+      "Urdaneta Village",
+      "1225",
+      "Metro Manila"
+    ],
+    [
+      "World Executive Digest",
+      "722",
+      "Metro Manila"
+    ],
+    [
+      "Zuellig",
+      "730",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèA-Z Direct Mktg., Inc.â€°Ã›Ã_",
+      "709",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèAtlantic, Gulf, & Pacificâ€°Ã›Ã_",
+      "790",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèBCD Direct Marketing, Inc.â€°Ã›Ã_",
+      "731",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèCitibank, NAâ€°Ã›Ã_",
+      "702",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèPasong Tamo 2000 UP, Ecology Villageâ€°Ã›Ã_",
+      "1231",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèSycip, Gorres and Velayoâ€°Ã›Ã_",
+      "740",
+      "Metro Manila"
+    ],
+    [
+      "â€°Ã›ÃèValenzuela (Inc. Santiago, San Miguel & Rizal Villageâ€°Ã›Ã_",
+      "1208",
+      "Metro Manila"
+    ]
+  ],
+  "Malabon": [
+    [
+      "Acacia",
+      "1474",
+      "Metro Manila"
+    ],
+    [
+      "Araneta Subdivision",
+      "1476",
+      "Metro Manila"
+    ],
+    [
+      "Dampalit",
+      "1480",
+      "Metro Manila"
+    ],
+    [
+      "Flores",
+      "1471",
+      "Metro Manila"
+    ],
+    [
+      "Kaunlaran Village",
+      "1409",
+      "Metro Manila"
+    ],
+    [
+      "Longos",
+      "1472",
+      "Metro Manila"
+    ],
+    [
+      "Malabon",
+      "1470",
+      "Metro Manila"
+    ],
+    [
+      "Maysilo",
+      "1477",
+      "Metro Manila"
+    ],
+    [
+      "Muzon",
+      "1479",
+      "Metro Manila"
+    ],
+    [
+      "Potrero",
+      "1475",
+      "Metro Manila"
+    ],
+    [
+      "Santolan",
+      "1478",
+      "Metro Manila"
+    ],
+    [
+      "Tonsuya",
+      "1473",
+      "Metro Manila"
+    ]
+  ],
+  "Mandaluyong City": [
+    [
+      "East EDSA",
+      "1554",
+      "Metro Manila"
+    ],
+    [
+      "Greenhills South",
+      "1556",
+      "Metro Manila"
+    ],
+    [
+      "Mandaluyong CPO",
+      "1550",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Natâ€°Ã›Âªl. Mental Hospital",
+      "1553",
+      "Metro Manila"
+    ],
+    [
+      "Shaw Boulevard",
+      "1552",
+      "Metro Manila"
+    ],
+    [
+      "Vergara",
+      "1551",
+      "Metro Manila"
+    ],
+    [
+      "Wack Wack Golf",
+      "1555",
+      "Metro Manila"
+    ]
+  ],
+  "Manila": [
+    [
+      "19 de Juinio",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "1st",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "2nd",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "3 Marias",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "3rd",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "4th",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "A. B. Tan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "A. Mabini",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "A.R. Cruz",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "ALY-1",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "ALY-2",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "ALY-3",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Abucay",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Adriano",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Aeta",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Aguila",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Aguilar",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Aida",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Alabat",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Alaya",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Alcalde",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Alcantara",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Alegre",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Alegria",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Alex",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Algeciras",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Almar",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Almeda",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Almeda",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Alonzo",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Altura Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Alvarado Ext.",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Alvarez",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Alvarez Ext.",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Amarlanhague",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Ambrocio",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Ampioco",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Anacleto",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Anacleto",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Andrade",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Angat",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Ansures",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Antipolo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Antipolo",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Apitong",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Aragon",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Arenas",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Arevalo",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Arnold",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Arthur",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Arueross",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Asian Devâ€°Ã›Âªt. Bank",
+      "980",
+      "Metro Manila"
+    ],
+    [
+      "Ateneo de Manila Univ.",
+      "917",
+      "Metro Manila"
+    ],
+    [
+      "Atis",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Aurora Blvd.",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Avellana",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "B. Santos",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "B. Tuazon",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Bahama",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Balaguer",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Balanga",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Balasan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Baldwin",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Balimbing",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Baltazar",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Bambang",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Banaag",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Banaba",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Banahaw",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Banal",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Basilio",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Bataan",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Batanes",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Batanes Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Batangas",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Batangas",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Bato",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Becerna",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Benavidez",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Benit",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Benita",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Benito",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Benny",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Bermuda",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Beting",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Betran",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Biak na Bato",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Binondo",
+      "1006",
+      "Metro Manila"
+    ],
+    [
+      "Blumentritt",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Blumentritt",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Bo. Roxas",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Bohol",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Bolinao",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Bonifacio",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Bontoc",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Bonuga",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Bucaneg",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Buendia",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Buenos Aires",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Bugallon",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Bugallon",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Bukid",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Buko",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Bulacan",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Bulacan",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Bulacan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Bulaklak",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Bureau of Plant Industry",
+      "912",
+      "Metro Manila"
+    ],
+    [
+      "Bustos",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "C. Dayao",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "C. Enduque",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "C. Plaza",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "CJN Erning",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "CJN Vicente",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "CJN Villanueva",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Cabesas",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Cabo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Calabash A",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Calabash B",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Calabash Road",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Caloocan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Caltex (Philippines)",
+      "926",
+      "Metro Manila"
+    ],
+    [
+      "Camarines",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Cambas",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Carmen",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Carola",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Castanos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Cavite",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Cavite",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Cebu",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Centro",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Chesa",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Chicky",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "China Banking Corp.",
+      "925",
+      "Metro Manila"
+    ],
+    [
+      "Chinese Cemetery",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Clemente",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Concepcion",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Concha",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Constancia",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Consuelo",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Cora",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Corcuera",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Corregidor",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Craig",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Cristobal",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Cunanan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "D. Santiago",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Dagupan Ext.",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Dalga",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Dama de Noche",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Dandan",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Dapdap",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "De Guia",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "De La Salle University",
+      "922",
+      "Metro Manila"
+    ],
+    [
+      "Del Fierro",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Deodato",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Dept. of Justice",
+      "970",
+      "Metro Manila"
+    ],
+    [
+      "Dept. of Labor and Employment",
+      "910",
+      "Metro Manila"
+    ],
+    [
+      "Dinalupihan",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Diwata",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Dizon",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Don B. Legarda",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Don Stewart Evangelic Association",
+      "923",
+      "Metro Manila"
+    ],
+    [
+      "Dona Maria",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Doroteo Jose",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Dr. Santos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Duhat",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "E. Quintos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "E. Remegio",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "E. Vallejo",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Elias",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Endaya",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Escoda",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Esguerra",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Espeleta",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Evelyn",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Extemadura",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "F. Aguilar",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "F. Cayco",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "F. Jhocson",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "F. Torres",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "F. Varona",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "F. de Leon",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "F.E.U.",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Fajardo",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Far East Broadcasting Corporation",
+      "902",
+      "Metro Manila"
+    ],
+    [
+      "Felina",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Felina",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Felipa",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Felix Huertas",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Felix Huertas",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Fernandez",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Fernando",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Fidel",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Fiesta",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Fil-Japan Shipping Co.",
+      "918",
+      "Metro Manila"
+    ],
+    [
+      "Filipino Star",
+      "905",
+      "Metro Manila"
+    ],
+    [
+      "Francisco",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Francisco",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Franco",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Frilles",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Fronda",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Fuente",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Fullon",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "G. Araneta",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "G. Santos",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "G. Tuazon",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Gabriel",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Gabriela",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Gagalangin",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Galian",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Galicia",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Gamban",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Gandara",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Gapan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Garcia",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Gastambide",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Gatmaitan",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Gelina",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Gelinos",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Gen. Diokno",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Gen. Lim",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Gen. Lukban",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Gerardo",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Geron",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Gil Puyat",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Gomez",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Gov. Forbes",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Guidor",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Guillermo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Guyabano",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Herbosa Ext.",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Hermosa",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Hernandez",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Herrera",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Honradez",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Humabon",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "I. Delos Reyes",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Ibarra",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Ibarra",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Ilaw",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Ilaw ng Nayon",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Ilustre",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Imelda",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Infanta",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Inferor",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Inocencio",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Instruccion",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Instruccion",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Intramuros",
+      "1002",
+      "Metro Manila"
+    ],
+    [
+      "Intâ€°Ã›Âªl Correspondence Inst.",
+      "915",
+      "Metro Manila"
+    ],
+    [
+      "Intâ€°Ã›Âªl. Rice Research Institute",
+      "960",
+      "Metro Manila"
+    ],
+    [
+      "Ipil",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Ipil",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "J. Barlin",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "J. Bassa",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "J. Fajardo",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "J. Fajardo Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "J. Figueroa",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "J. L. Escoda",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "J. Luna",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "J. Nicols",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "J.C. Cruz",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "J.P. Rizal",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "J.Reyes Memâ€°Ã›Âªl Hospital",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Jacinto",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Jaime",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Javier",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Jonathan",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Jose Abad Santos Ave.",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Josefina",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Josefina",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Josefina I",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Josefina II",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Josefina III",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Juaning",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Kabangis",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Kalabasita",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Kalakal",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Kalayaan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Kalimbas",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Kalimbas",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Kanluran",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Kapanding",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Karapatan",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Karilagan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Kasama",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Katubusan",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Kawit",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Kundiman",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Kundiman",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Kusang Loob",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Kusang Loob",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "L. Roces",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "La Loma Cemetery",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "La Paz",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "La Torre",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Lacson",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Lacson",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Laguna Ext.",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Lallana",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Langit",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Laong Nasa",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Laong-laan",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Lapidario",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Lardizabal",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Lardizabal Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Laurel",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Lavanderos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Laxamana",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Legarda",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Leo",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Leyte",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Leyte de Sur",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Lico",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Lico Ext.",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Ligaya",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Lilibeth",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Limay",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Linampas",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Liwayway",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Lope de Vega",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Loreto Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Luisita",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Lukbati",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Lundayan",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Luzon",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Luzon Ave.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "M. Delos Santos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "M. Hizon",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "M. Natividad",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "M. Natividad",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "M. Quison",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "M. dela Fuente",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "M. dela Fuente",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "M.T. Halili",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mabini",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Macamisa",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Macaraig",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Maceda",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Maceda",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Madrid Ext.",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Magalang",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Maganda",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Magdaragat",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Maginoo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Magsaysay",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Maharlika",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Main",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Makata",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Makata",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Makiling",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Malabon",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Malamig",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Malate",
+      "1004",
+      "Metro Manila"
+    ],
+    [
+      "Malaya",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Maliklik",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Malong",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Malvar",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Mango Ave.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Manila Bulletin",
+      "900",
+      "Metro Manila"
+    ],
+    [
+      "Manila CPO-Ermita",
+      "1000",
+      "Metro Manila"
+    ],
+    [
+      "Manila Hilton",
+      "903",
+      "Metro Manila"
+    ],
+    [
+      "Manila Hotel",
+      "913",
+      "Metro Manila"
+    ],
+    [
+      "Manila Medical Center",
+      "906",
+      "Metro Manila"
+    ],
+    [
+      "Manila Midtown Hotel",
+      "950",
+      "Metro Manila"
+    ],
+    [
+      "Manrique",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mansanas",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Marasigan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Maria Clara",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Maria Cristina",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Maria Cristina",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Maria Luisa",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Marquitos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mary Ann",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Masangkay",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Masbate",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mata",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Matiisin",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Matimyas",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mauro",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mayhaligue",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Mejorada",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Mel Alcalde",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Mendoza",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Mercedes",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Metrica",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Metrica",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Midland Hotel",
+      "904",
+      "Metro Manila"
+    ],
+    [
+      "Miguel",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Miguelin",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Miguelin",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Milagros",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Mindanao",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mindanao Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mindoro",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Mirasol",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Mith",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Moderna",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Molave",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Montana",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Moret",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Moret Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Morong",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Mount Samat",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Musa",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "N. Zamora",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "N.C.B.A.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Namabar",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Nao",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Narcisa Rizal",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Narra",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Natâ€°Ã›Âªl Census & Stat. Ofc.",
+      "911",
+      "Metro Manila"
+    ],
+    [
+      "Nav",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Navarro",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Negros",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Nelsa",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Nenette",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Nepomuceno",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "New Antipolo",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "New Antipolo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Nicodemus",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Nijaga",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Norma",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "North Cemetery",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "North Port",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "November",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Obrero",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Okipinja",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Old Anipolo",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Old Anitpolo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Old Torres",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Omena",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Ongpin",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Orani",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Orion",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Oroquieta",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Oroquieta",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Osorio",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "P. Campa",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "P. Daganan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "P. Guevarra",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "P. Guevarra",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "P. Guevarra",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "P. Naval",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "P. Noval",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "P. Paredes",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "P. Paredes",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "P. Salita",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "P.S.B.A.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "P.U.P.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "PHILAMLIFE",
+      "990",
+      "Metro Manila"
+    ],
+    [
+      "Pacheco",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Paco",
+      "1007",
+      "Metro Manila"
+    ],
+    [
+      "Pag-asa Ext.",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Pag-ibig",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Pagsilang",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Palawan",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Palmera",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Paltoc Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Pampanga",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Pampanga",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Pan-Fil Shipping",
+      "908",
+      "Metro Manila"
+    ],
+    [
+      "Panay",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Pandacan",
+      "1011",
+      "Metro Manila"
+    ],
+    [
+      "Panday Pira",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Paquita",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Paraiso",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Pascual",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Paste",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Paterno",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Patria",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Pavia",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Pelaez",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Penalosa",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Pepin",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Pepin",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Peralta",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Perfecto",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Perla A",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Perla B",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Perla C",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Campus Crusade",
+      "928",
+      "Metro Manila"
+    ],
+    [
+      "Phil. National Bank",
+      "940",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Plaza Hotel",
+      "921",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Union College",
+      "901",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Veterans Affair Off.",
+      "927",
+      "Metro Manila"
+    ],
+    [
+      "Piedad",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Pilapil",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Pilar",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Pina Ave.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Pitong Gatang",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Piy Margal",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Plansa",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Plaza Noli",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Port Area (South)",
+      "1018",
+      "Metro Manila"
+    ],
+    [
+      "Prudencio",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Prudencio",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Pureza Ext.",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Quezon",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Quiapo",
+      "1001",
+      "Metro Manila"
+    ],
+    [
+      "Quidote",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Quiricada",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Quirino",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Quiroga",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "R. Almario",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "R. Fernandez",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "R. Nicasio",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "R. Papa",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "R. Vargas",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Radio Veritas",
+      "916",
+      "Metro Manila"
+    ],
+    [
+      "Ramirez",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Relen",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Remedos",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Reyes",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Rianzares",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Ricafort",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Ricardo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Rivera",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Rizal Eve.",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Road 10",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Roasario",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Rodriguez",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Romana",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Romblon",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Rosalina",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Rosario",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Rosario",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Roxas",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Rum Tri Rum",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "S. H. Loyola",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "S. Reyes",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "S. Trinidad",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "S. de Jesus",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "S. del Rosario",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Sagani",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Salazar",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Salonga",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Samar",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "Sampaguita",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Sampaloc East",
+      "1008",
+      "Metro Manila"
+    ],
+    [
+      "San Andres Bukid",
+      "1017",
+      "Metro Manila"
+    ],
+    [
+      "San Bernardo",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "San Diego",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "San Jose",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "San Lazaro Hipodrome",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "San Lazaro Hospital",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "San Miguel",
+      "1005",
+      "Metro Manila"
+    ],
+    [
+      "San Miguel Corp.",
+      "907",
+      "Metro Manila"
+    ],
+    [
+      "San Nicolas",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "San Nicolas",
+      "1010",
+      "Metro Manila"
+    ],
+    [
+      "San Pedro",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "San Rafael Village",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Sanchez",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Santander",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Santiago",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Santiago",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Sevilla Ext.",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Sikat",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Silangan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Simoun",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Sisa",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Sofia",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Soler",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Solis",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Spkr. R.Romualdez",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Ana",
+      "1009",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Cruz North",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Cruz South",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Fe",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Fe",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Maria",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Maria",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Mesa",
+      "1016",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Teresita",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Sto. Cristo",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Sto. Nino",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Sulu",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Sulu",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Summer Inst. Of Linguistic",
+      "909",
+      "Metro Manila"
+    ],
+    [
+      "Sunburst Publications",
+      "920",
+      "Metro Manila"
+    ],
+    [
+      "T. Earnshaw",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tacio",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Taladtad",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tambunting",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tayabas",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tayabas",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tecson",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tecson",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Teodoro",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tetuan",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Tiago",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tindalo",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Tindalo",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tindalo Ext.",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tioko",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Tirso Cruz",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tomas Mapua",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Tomas Mapua",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Tondo North",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tondo South",
+      "1012",
+      "Metro Manila"
+    ],
+    [
+      "Torres High School",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Trinidad",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tronqued",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Tuambacan",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Tuberia",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "UNILEVER (Phil.Refining Co.)",
+      "914",
+      "Metro Manila"
+    ],
+    [
+      "US Embassy",
+      "930",
+      "Metro Manila"
+    ],
+    [
+      "Ugbo",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "V. Serrano",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "V.G. Cruz",
+      "1015",
+      "Metro Manila"
+    ],
+    [
+      "Velasquez",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Victoria",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Villafojas",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Vision",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Vitas",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Vizcaya",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Western Police District",
+      "919",
+      "Metro Manila"
+    ],
+    [
+      "World Map",
+      "924",
+      "Metro Manila"
+    ],
+    [
+      "Yakal",
+      "1014",
+      "Metro Manila"
+    ],
+    [
+      "Yakal",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Yangco",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Yebana",
+      "1003",
+      "Metro Manila"
+    ],
+    [
+      "Younger",
+      "1013",
+      "Metro Manila"
+    ],
+    [
+      "Zacateros",
+      "1003",
+      "Metro Manila"
+    ]
+  ],
+  "Marikina": [
+    [
+      "Bagong Nayon",
+      "1820",
+      "Metro Manila"
+    ],
+    [
+      "Barangka",
+      "1803",
+      "Metro Manila"
+    ],
+    [
+      "Cogeo",
+      "1820",
+      "Metro Manila"
+    ],
+    [
+      "Concepcion 1",
+      "1807",
+      "Metro Manila"
+    ],
+    [
+      "Concepcion 2",
+      "1811",
+      "Metro Manila"
+    ],
+    [
+      "Cupang",
+      "1820",
+      "Metro Manila"
+    ],
+    [
+      "Industrial Valley",
+      "1802",
+      "Metro Manila"
+    ],
+    [
+      "J. dela Pena",
+      "1804",
+      "Metro Manila"
+    ],
+    [
+      "Langhaya",
+      "1820",
+      "Metro Manila"
+    ],
+    [
+      "Malanday",
+      "1805",
+      "Metro Manila"
+    ],
+    [
+      "Mambagat",
+      "1820",
+      "Metro Manila"
+    ],
+    [
+      "Marikina CPO-Sta. Elena Sto. Nino",
+      "1800",
+      "Metro Manila"
+    ],
+    [
+      "Marikina Heights",
+      "1810",
+      "Metro Manila"
+    ],
+    [
+      "Mayamot",
+      "1820",
+      "Metro Manila"
+    ],
+    [
+      "Nangka",
+      "1808",
+      "Metro Manila"
+    ],
+    [
+      "Northwest of Marikina River",
+      "1806",
+      "Metro Manila"
+    ],
+    [
+      "Parang",
+      "1809",
+      "Metro Manila"
+    ],
+    [
+      "San Roque-Calumpang",
+      "1801",
+      "Metro Manila"
+    ],
+    [
+      "Tanong",
+      "1803",
+      "Metro Manila"
+    ]
+  ],
+  "Marinduque": [
+    [
+      "Boac",
+      "4900",
+      "Luzon"
+    ],
+    [
+      "Buenavista",
+      "4904",
+      "Luzon"
+    ],
+    [
+      "Gasan",
+      "4905",
+      "Luzon"
+    ],
+    [
+      "Mogpog",
+      "4901",
+      "Luzon"
+    ],
+    [
+      "Santa Cruz",
+      "4902",
+      "Luzon"
+    ],
+    [
+      "Torrijos",
+      "4903",
+      "Luzon"
+    ]
+  ],
+  "Masbate Province": [
+    [
+      "Aroroy",
+      "5414",
+      "Luzon"
+    ],
+    [
+      "Baleno",
+      "5413",
+      "Luzon"
+    ],
+    [
+      "Balud",
+      "5412",
+      "Luzon"
+    ],
+    [
+      "Batuan",
+      "5415",
+      "Luzon"
+    ],
+    [
+      "Buenavista",
+      "5421",
+      "Luzon"
+    ],
+    [
+      "Cataingan",
+      "5405",
+      "Luzon"
+    ],
+    [
+      "Cawayan",
+      "5409",
+      "Luzon"
+    ],
+    [
+      "Claveria",
+      "5419",
+      "Luzon"
+    ],
+    [
+      "Dimasalang",
+      "5403",
+      "Luzon"
+    ],
+    [
+      "Esperanza",
+      "5407",
+      "Luzon"
+    ],
+    [
+      "Mandaon",
+      "5411",
+      "Luzon"
+    ],
+    [
+      "Masbate",
+      "5400",
+      "Luzon"
+    ],
+    [
+      "Milagros",
+      "5410",
+      "Luzon"
+    ],
+    [
+      "Mobo",
+      "5401",
+      "Luzon"
+    ],
+    [
+      "Montreal",
+      "5418",
+      "Luzon"
+    ],
+    [
+      "Palanas",
+      "5404",
+      "Luzon"
+    ],
+    [
+      "Pio V. Corpuz",
+      "5406",
+      "Luzon"
+    ],
+    [
+      "Placer",
+      "5408",
+      "Luzon"
+    ],
+    [
+      "San Fernando",
+      "5416",
+      "Luzon"
+    ],
+    [
+      "San Jacinto",
+      "5417",
+      "Luzon"
+    ],
+    [
+      "San Pascual",
+      "5420",
+      "Luzon"
+    ],
+    [
+      "Uson",
+      "5402",
+      "Luzon"
+    ]
+  ],
+  "Mindoro Occidental": [
+    [
+      "Abra de Ilog",
+      "5108",
+      "Luzon"
+    ],
+    [
+      "Calintaan",
+      "5102",
+      "Luzon"
+    ],
+    [
+      "Looc",
+      "5111",
+      "Luzon"
+    ],
+    [
+      "Lubang",
+      "5109",
+      "Luzon"
+    ],
+    [
+      "Magsaysay",
+      "5101",
+      "Luzon"
+    ],
+    [
+      "Mamburao",
+      "5106",
+      "Luzon"
+    ],
+    [
+      "Paluan",
+      "5107",
+      "Luzon"
+    ],
+    [
+      "Rizal",
+      "5103",
+      "Luzon"
+    ],
+    [
+      "Sablayan",
+      "5104",
+      "Luzon"
+    ],
+    [
+      "San Jose",
+      "5100",
+      "Luzon"
+    ],
+    [
+      "Santa Cruz",
+      "5105",
+      "Luzon"
+    ],
+    [
+      "Tilik",
+      "5110",
+      "Luzon"
+    ]
+  ],
+  "Mindoro Oriental": [
+    [
+      "Baco",
+      "5201",
+      "Luzon"
+    ],
+    [
+      "Bansud",
+      "5210",
+      "Luzon"
+    ],
+    [
+      "Bongabon",
+      "5211",
+      "Luzon"
+    ],
+    [
+      "Bulalacao",
+      "5214",
+      "Luzon"
+    ],
+    [
+      "Gloria",
+      "5209",
+      "Luzon"
+    ],
+    [
+      "Mansalay",
+      "5213",
+      "Luzon"
+    ],
+    [
+      "Naujan",
+      "5204",
+      "Luzon"
+    ],
+    [
+      "Pinamalayan",
+      "5208",
+      "Luzon"
+    ],
+    [
+      "Pola",
+      "5206",
+      "Luzon"
+    ],
+    [
+      "Puerto Galera",
+      "5203",
+      "Luzon"
+    ],
+    [
+      "Roxas",
+      "5212",
+      "Luzon"
+    ],
+    [
+      "San Teodoro",
+      "5202",
+      "Luzon"
+    ],
+    [
+      "Socorro",
+      "5207",
+      "Luzon"
+    ],
+    [
+      "Victoria",
+      "5205",
+      "Luzon"
+    ]
+  ],
+  "Misamis Occidental": [
+    [
+      "Aloran",
+      "7206",
+      "Mindanao"
+    ],
+    [
+      "Baliangao",
+      "7211",
+      "Mindanao"
+    ],
+    [
+      "Bonifacio",
+      "7215",
+      "Mindanao"
+    ],
+    [
+      "Calamba",
+      "7210",
+      "Mindanao"
+    ],
+    [
+      "Clarin",
+      "7201",
+      "Mindanao"
+    ],
+    [
+      "Concepcion",
+      "7213",
+      "Mindanao"
+    ],
+    [
+      "Jimenez",
+      "7204",
+      "Mindanao"
+    ],
+    [
+      "Lopez Jaena",
+      "7208",
+      "Mindanao"
+    ],
+    [
+      "Oroquieta City",
+      "7207",
+      "Mindanao"
+    ],
+    [
+      "Ozamis City",
+      "7200",
+      "Mindanao"
+    ],
+    [
+      "Panaon",
+      "7205",
+      "Mindanao"
+    ],
+    [
+      "Plaridel",
+      "7209",
+      "Mindanao"
+    ],
+    [
+      "Sapang Dalaga",
+      "7212",
+      "Mindanao"
+    ],
+    [
+      "Sinabacan",
+      "7203",
+      "Mindanao"
+    ],
+    [
+      "Tangub City",
+      "7214",
+      "Mindanao"
+    ],
+    [
+      "Tudela",
+      "7202",
+      "Mindanao"
+    ]
+  ],
+  "Misamis Oriental": [
+    [
+      "Alubijid",
+      "9018",
+      "Mindanao"
+    ],
+    [
+      "Balingasag",
+      "9005",
+      "Mindanao"
+    ],
+    [
+      "Balinguan",
+      "9011",
+      "Mindanao"
+    ],
+    [
+      "Binuangan",
+      "9008",
+      "Mindanao"
+    ],
+    [
+      "Claveria",
+      "9004",
+      "Mindanao"
+    ],
+    [
+      "El Salvador",
+      "9017",
+      "Mindanao"
+    ],
+    [
+      "Gingoog City",
+      "9014",
+      "Mindanao"
+    ],
+    [
+      "Gitagum",
+      "9020",
+      "Mindanao"
+    ],
+    [
+      "Initao",
+      "9022",
+      "Mindanao"
+    ],
+    [
+      "Jasaan",
+      "9003",
+      "Mindanao"
+    ],
+    [
+      "Kinogitan",
+      "9010",
+      "Mindanao"
+    ],
+    [
+      "Lagonglong",
+      "9006",
+      "Mindanao"
+    ],
+    [
+      "Laguidingan",
+      "9019",
+      "Mindanao"
+    ],
+    [
+      "Libertad",
+      "9021",
+      "Mindanao"
+    ],
+    [
+      "Lugait",
+      "9025",
+      "Mindanao"
+    ],
+    [
+      "Magsaysay",
+      "9015",
+      "Mindanao"
+    ],
+    [
+      "Medina",
+      "9013",
+      "Mindanao"
+    ],
+    [
+      "Naawan",
+      "9023",
+      "Mindanao"
+    ],
+    [
+      "Opol",
+      "9016",
+      "Mindanao"
+    ],
+    [
+      "Salay",
+      "9007",
+      "Mindanao"
+    ],
+    [
+      "Subongcogon",
+      "9009",
+      "Mindanao"
+    ],
+    [
+      "Tagoloan",
+      "9001",
+      "Mindanao"
+    ],
+    [
+      "Talisayan",
+      "9012",
+      "Mindanao"
+    ],
+    [
+      "Villanueva",
+      "9002",
+      "Mindanao"
+    ],
+    [
+      "manticao",
+      "9024",
+      "Mindanao"
+    ]
+  ],
+  "Mountain Province": [
+    [
+      "Barlig",
+      "2623",
+      "Luzon"
+    ],
+    [
+      "Bauko",
+      "2621",
+      "Luzon"
+    ],
+    [
+      "Besao",
+      "2618",
+      "Luzon"
+    ],
+    [
+      "Bontoc",
+      "2616",
+      "Luzon"
+    ],
+    [
+      "Natonin",
+      "2624",
+      "Luzon"
+    ],
+    [
+      "Paracelis",
+      "2625",
+      "Luzon"
+    ],
+    [
+      "Sabangan",
+      "2622",
+      "Luzon"
+    ],
+    [
+      "Sadanga",
+      "2617",
+      "Luzon"
+    ],
+    [
+      "Sagada",
+      "2619",
+      "Luzon"
+    ],
+    [
+      "Tadian",
+      "2620",
+      "Luzon"
+    ]
+  ],
+  "Muntinlupa": [
+    [
+      "Ayala Alabang Subdivision",
+      "1780",
+      "Metro Manila"
+    ],
+    [
+      "Ayala Albang P.O. Boxes",
+      "1799",
+      "Metro Manila"
+    ],
+    [
+      "Bayanan/Putatan",
+      "1772",
+      "Metro Manila"
+    ],
+    [
+      "Bule/Cupang",
+      "1771",
+      "Metro Manila"
+    ],
+    [
+      "Filinvest Corp. City",
+      "1781",
+      "Metro Manila"
+    ],
+    [
+      "Muntinlupa CPO",
+      "1770",
+      "Metro Manila"
+    ],
+    [
+      "Pearl Heights",
+      "1775",
+      "Metro Manila"
+    ],
+    [
+      "Pleasant Village",
+      "1777",
+      "Metro Manila"
+    ],
+    [
+      "Poblacion",
+      "1776",
+      "Metro Manila"
+    ],
+    [
+      "Suasana Heights",
+      "1774",
+      "Metro Manila"
+    ],
+    [
+      "Tunasan",
+      "1773",
+      "Metro Manila"
+    ]
+  ],
+  "Navotas": [
+    [
+      "Fish Market",
+      "1411",
+      "Metro Manila"
+    ],
+    [
+      "Isla de Cocomo",
+      "1412",
+      "Metro Manila"
+    ],
+    [
+      "Kapitbahayan East",
+      "1413",
+      "Metro Manila"
+    ],
+    [
+      "Kaunlaran Village",
+      "1409",
+      "Metro Manila"
+    ],
+    [
+      "Navotas",
+      "1485",
+      "Metro Manila"
+    ],
+    [
+      "Tangos",
+      "1489",
+      "Metro Manila"
+    ],
+    [
+      "Tanza",
+      "1490",
+      "Metro Manila"
+    ]
+  ],
+  "Negros Occidental": [
+    [
+      "Bacolod City",
+      "6100",
+      "Visayas"
+    ],
+    [
+      "Bago City",
+      "6101",
+      "Visayas"
+    ],
+    [
+      "Binalbagan",
+      "6107",
+      "Visayas"
+    ],
+    [
+      "Cadiz City",
+      "6121",
+      "Visayas"
+    ],
+    [
+      "Calatrava",
+      "6126",
+      "Visayas"
+    ],
+    [
+      "Candoni",
+      "6110",
+      "Visayas"
+    ],
+    [
+      "Enrique Magalona",
+      "6118",
+      "Visayas"
+    ],
+    [
+      "Escalante",
+      "6124",
+      "Visayas"
+    ],
+    [
+      "Himamaylan",
+      "6108",
+      "Visayas"
+    ],
+    [
+      "Hinigaran",
+      "6106",
+      "Visayas"
+    ],
+    [
+      "Hinoba-an",
+      "6114",
+      "Visayas"
+    ],
+    [
+      "Ilog",
+      "6109",
+      "Visayas"
+    ],
+    [
+      "Isabela",
+      "6128",
+      "Visayas"
+    ],
+    [
+      "Kabangkalan",
+      "6111",
+      "Visayas"
+    ],
+    [
+      "Kauayan",
+      "6112",
+      "Visayas"
+    ],
+    [
+      "La Carlota City",
+      "6130",
+      "Visayas"
+    ],
+    [
+      "La Castillana",
+      "6131",
+      "Visayas"
+    ],
+    [
+      "Manapla",
+      "6120",
+      "Visayas"
+    ],
+    [
+      "Moises Padilla",
+      "6132",
+      "Visayas"
+    ],
+    [
+      "Murcia",
+      "6129",
+      "Visayas"
+    ],
+    [
+      "Paraiso (Fabrica)",
+      "6123",
+      "Visayas"
+    ],
+    [
+      "Pontevedra",
+      "6105",
+      "Visayas"
+    ],
+    [
+      "Pulupandan",
+      "6102",
+      "Visayas"
+    ],
+    [
+      "Sagay",
+      "6122",
+      "Visayas"
+    ],
+    [
+      "San Carlos City",
+      "6127",
+      "Visayas"
+    ],
+    [
+      "San Enrique",
+      "6104",
+      "Visayas"
+    ],
+    [
+      "Silay City",
+      "6116",
+      "Visayas"
+    ],
+    [
+      "Silay Hawaiian Central",
+      "6117",
+      "Visayas"
+    ],
+    [
+      "Sipalay",
+      "6113",
+      "Visayas"
+    ],
+    [
+      "Talisay",
+      "6115",
+      "Visayas"
+    ],
+    [
+      "Toboso",
+      "6125",
+      "Visayas"
+    ],
+    [
+      "Valladolid",
+      "6103",
+      "Visayas"
+    ],
+    [
+      "Victorias",
+      "6119",
+      "Visayas"
+    ]
+  ],
+  "Negros Oriental": [
+    [
+      "Amlan",
+      "6203",
+      "Visayas"
+    ],
+    [
+      "Ayungon",
+      "6210",
+      "Visayas"
+    ],
+    [
+      "Bacung",
+      "6216",
+      "Visayas"
+    ],
+    [
+      "Bais City",
+      "6206",
+      "Visayas"
+    ],
+    [
+      "Basay",
+      "6222",
+      "Visayas"
+    ],
+    [
+      "Bayawan",
+      "6221",
+      "Visayas"
+    ],
+    [
+      "Bindoy",
+      "6209",
+      "Visayas"
+    ],
+    [
+      "Canlaon City",
+      "6223",
+      "Visayas"
+    ],
+    [
+      "Dauin",
+      "6217",
+      "Visayas"
+    ],
+    [
+      "Dumaguete City",
+      "6200",
+      "Visayas"
+    ],
+    [
+      "Guihulngan",
+      "6214",
+      "Visayas"
+    ],
+    [
+      "Jimalalud",
+      "6212",
+      "Visayas"
+    ],
+    [
+      "La Libertad",
+      "6213",
+      "Visayas"
+    ],
+    [
+      "Mabinay",
+      "6207",
+      "Visayas"
+    ],
+    [
+      "Manjuyod",
+      "6208",
+      "Visayas"
+    ],
+    [
+      "Pamplona",
+      "6205",
+      "Visayas"
+    ],
+    [
+      "San Jose",
+      "6202",
+      "Visayas"
+    ],
+    [
+      "Siaton",
+      "6219",
+      "Visayas"
+    ],
+    [
+      "Sibulan",
+      "6201",
+      "Visayas"
+    ],
+    [
+      "Sta. Catalina",
+      "6220",
+      "Visayas"
+    ],
+    [
+      "Tanjay",
+      "6204",
+      "Visayas"
+    ],
+    [
+      "Tayasan",
+      "6211",
+      "Visayas"
+    ],
+    [
+      "Valencia",
+      "6215",
+      "Visayas"
+    ],
+    [
+      "Valle Hermoso",
+      "6224",
+      "Visayas"
+    ],
+    [
+      "Zamboanguita",
+      "6218",
+      "Visayas"
+    ]
+  ],
+  "North Cotabato": [
+    [
+      "Alamada",
+      "9413",
+      "Mindanao"
+    ],
+    [
+      "Aleosan",
+      "9415",
+      "Mindanao"
+    ],
+    [
+      "Antipas",
+      "9414",
+      "Mindanao"
+    ],
+    [
+      "Arakan",
+      "9417",
+      "Mindanao"
+    ],
+    [
+      "Banisilan",
+      "9416",
+      "Mindanao"
+    ],
+    [
+      "Carmen",
+      "9408",
+      "Mindanao"
+    ],
+    [
+      "Kabacan",
+      "9407",
+      "Mindanao"
+    ],
+    [
+      "Kidapawan",
+      "9400",
+      "Mindanao"
+    ],
+    [
+      "Libungan",
+      "9411",
+      "Mindanao"
+    ],
+    [
+      "Magpet",
+      "9404",
+      "Mindanao"
+    ],
+    [
+      "Makilala",
+      "9401",
+      "Mindanao"
+    ],
+    [
+      "Matalam",
+      "9406",
+      "Mindanao"
+    ],
+    [
+      "Midsayap",
+      "9410",
+      "Mindanao"
+    ],
+    [
+      "Mâ€°Ã›Âªlang",
+      "9402",
+      "Mindanao"
+    ],
+    [
+      "Pigkawayan",
+      "9412",
+      "Mindanao"
+    ],
+    [
+      "Pikit",
+      "9409",
+      "Mindanao"
+    ],
+    [
+      "Pres. Roxas",
+      "9405",
+      "Mindanao"
+    ],
+    [
+      "Tulunan",
+      "9403",
+      "Mindanao"
+    ]
+  ],
+  "Northern Samar": [
+    [
+      "Allen",
+      "6405",
+      "Visayas"
+    ],
+    [
+      "Biri",
+      "6410",
+      "Visayas"
+    ],
+    [
+      "Bobon",
+      "6401",
+      "Visayas"
+    ],
+    [
+      "Capul",
+      "6408",
+      "Visayas"
+    ],
+    [
+      "Catarman",
+      "6400",
+      "Visayas"
+    ],
+    [
+      "Catubig",
+      "6418",
+      "Visayas"
+    ],
+    [
+      "Gamay",
+      "6422",
+      "Visayas"
+    ],
+    [
+      "La Navas",
+      "6420",
+      "Visayas"
+    ],
+    [
+      "Laoang",
+      "6411",
+      "Visayas"
+    ],
+    [
+      "Lapineg",
+      "6423",
+      "Visayas"
+    ],
+    [
+      "Lavezares",
+      "6404",
+      "Visayas"
+    ],
+    [
+      "Lope de Vega",
+      "6403",
+      "Visayas"
+    ],
+    [
+      "Maranas",
+      "6412",
+      "Visayas"
+    ],
+    [
+      "Mondragon",
+      "6417",
+      "Visayas"
+    ],
+    [
+      "Palapag",
+      "6421",
+      "Visayas"
+    ],
+    [
+      "Pambujan",
+      "6413",
+      "Visayas"
+    ],
+    [
+      "Rosario",
+      "6416",
+      "Visayas"
+    ],
+    [
+      "San Antonio",
+      "6407",
+      "Visayas"
+    ],
+    [
+      "San Isidro",
+      "6409",
+      "Visayas"
+    ],
+    [
+      "San Jose",
+      "6402",
+      "Visayas"
+    ],
+    [
+      "San Roque",
+      "6415",
+      "Visayas"
+    ],
+    [
+      "San Vicente",
+      "6419",
+      "Visayas"
+    ],
+    [
+      "Silvino Lubos",
+      "6414",
+      "Visayas"
+    ],
+    [
+      "Victoria",
+      "6406",
+      "Visayas"
+    ]
+  ],
+  "Nueva Ecija": [
+    [
+      "Aliaga",
+      "3111",
+      "Luzon"
+    ],
+    [
+      "Bongabon",
+      "3128",
+      "Luzon"
+    ],
+    [
+      "Cabanatuan City",
+      "3100",
+      "Luzon"
+    ],
+    [
+      "Cabiao",
+      "3107",
+      "Luzon"
+    ],
+    [
+      "Carrangalan",
+      "3123",
+      "Luzon"
+    ],
+    [
+      "Central Luzon State University (CLSU)",
+      "3120",
+      "Luzon"
+    ],
+    [
+      "Cuyapo",
+      "3117",
+      "Luzon"
+    ],
+    [
+      "Fort Magsaysay",
+      "3130",
+      "Luzon"
+    ],
+    [
+      "Gabaldon",
+      "3131",
+      "Luzon"
+    ],
+    [
+      "Gapan",
+      "3105",
+      "Luzon"
+    ],
+    [
+      "Gen. M. Natividad",
+      "3125",
+      "Luzon"
+    ],
+    [
+      "Gen. Tinio",
+      "3104",
+      "Luzon"
+    ],
+    [
+      "Guimba",
+      "3115",
+      "Luzon"
+    ],
+    [
+      "Jaen",
+      "3109",
+      "Luzon"
+    ],
+    [
+      "Laur",
+      "3129",
+      "Luzon"
+    ],
+    [
+      "Licab",
+      "3112",
+      "Luzon"
+    ],
+    [
+      "Llanera",
+      "3126",
+      "Luzon"
+    ],
+    [
+      "Lupao",
+      "3122",
+      "Luzon"
+    ],
+    [
+      "Munoz",
+      "3119",
+      "Luzon"
+    ],
+    [
+      "Nampicuan",
+      "3116",
+      "Luzon"
+    ],
+    [
+      "Palayan City",
+      "3132",
+      "Luzon"
+    ],
+    [
+      "Pantabangan",
+      "3124",
+      "Luzon"
+    ],
+    [
+      "Penaranda",
+      "3103",
+      "Luzon"
+    ],
+    [
+      "Quezon",
+      "3113",
+      "Luzon"
+    ],
+    [
+      "Rizal",
+      "3127",
+      "Luzon"
+    ],
+    [
+      "San Antonio",
+      "3108",
+      "Luzon"
+    ],
+    [
+      "San Isidro",
+      "3106",
+      "Luzon"
+    ],
+    [
+      "San Jose City",
+      "3121",
+      "Luzon"
+    ],
+    [
+      "San Leonardo",
+      "3102",
+      "Luzon"
+    ],
+    [
+      "Santa Rosa",
+      "3101",
+      "Luzon"
+    ],
+    [
+      "Santo Domingo",
+      "3133",
+      "Luzon"
+    ],
+    [
+      "Talavera",
+      "3114",
+      "Luzon"
+    ],
+    [
+      "Talugtog",
+      "3118",
+      "Luzon"
+    ],
+    [
+      "Zaragosa",
+      "3110",
+      "Luzon"
+    ]
+  ],
+  "Nueva Vizcaya": [
+    [
+      "Alfonso Castaneda",
+      "3714",
+      "Luzon"
+    ],
+    [
+      "Ambaguio",
+      "3701",
+      "Luzon"
+    ],
+    [
+      "Aritao",
+      "3704",
+      "Luzon"
+    ],
+    [
+      "Bagabag",
+      "3711",
+      "Luzon"
+    ],
+    [
+      "Bambang",
+      "3702",
+      "Luzon"
+    ],
+    [
+      "Bayombong",
+      "3700",
+      "Luzon"
+    ],
+    [
+      "Diadi",
+      "3712",
+      "Luzon"
+    ],
+    [
+      "Dupax del Norte",
+      "3706",
+      "Luzon"
+    ],
+    [
+      "Dupax del Sur",
+      "3707",
+      "Luzon"
+    ],
+    [
+      "Kasibu",
+      "3703",
+      "Luzon"
+    ],
+    [
+      "Kayapa",
+      "3708",
+      "Luzon"
+    ],
+    [
+      "Quezon",
+      "3713",
+      "Luzon"
+    ],
+    [
+      "Solano",
+      "3709",
+      "Luzon"
+    ],
+    [
+      "Sta. Fe (Imugan)",
+      "3705",
+      "Luzon"
+    ],
+    [
+      "Villa Verde (Ibung)",
+      "3710",
+      "Luzon"
+    ]
+  ],
+  "Palawan": [
+    [
+      "Aborlan",
+      "5302",
+      "Luzon"
+    ],
+    [
+      "Agutaya",
+      "5320",
+      "Luzon"
+    ],
+    [
+      "Araceli",
+      "5311",
+      "Luzon"
+    ],
+    [
+      "Balabac",
+      "5307",
+      "Luzon"
+    ],
+    [
+      "Bataraza",
+      "5306",
+      "Luzon"
+    ],
+    [
+      "Brookeâ€°Ã›Âªs Point",
+      "5305",
+      "Luzon"
+    ],
+    [
+      "Busuanga",
+      "5317",
+      "Luzon"
+    ],
+    [
+      "Cagayancillo",
+      "5321",
+      "Luzon"
+    ],
+    [
+      "Coron",
+      "5316",
+      "Luzon"
+    ],
+    [
+      "Culion",
+      "5315",
+      "Luzon"
+    ],
+    [
+      "Cuyo",
+      "5318",
+      "Luzon"
+    ],
+    [
+      "Dumaran",
+      "5310",
+      "Luzon"
+    ],
+    [
+      "El Nido (Baquit)",
+      "5313",
+      "Luzon"
+    ],
+    [
+      "Iwahig Penal Colony",
+      "5301",
+      "Luzon"
+    ],
+    [
+      "Kalayaan",
+      "5322",
+      "Luzon"
+    ],
+    [
+      "Linapacan",
+      "5314",
+      "Luzon"
+    ],
+    [
+      "Magsaysay",
+      "5319",
+      "Luzon"
+    ],
+    [
+      "Narra (Panacan)",
+      "5303",
+      "Luzon"
+    ],
+    [
+      "Puerto Princesa City",
+      "5300",
+      "Luzon"
+    ],
+    [
+      "Quezon",
+      "5304",
+      "Luzon"
+    ],
+    [
+      "Roxas",
+      "5308",
+      "Luzon"
+    ],
+    [
+      "San Vicente",
+      "5309",
+      "Luzon"
+    ],
+    [
+      "Taytay",
+      "5312",
+      "Luzon"
+    ]
+  ],
+  "Pampanga": [
+    [
+      "Angeles City",
+      "2009",
+      "Luzon"
+    ],
+    [
+      "Apalit",
+      "2016",
+      "Luzon"
+    ],
+    [
+      "Arayat",
+      "2012",
+      "Luzon"
+    ],
+    [
+      "Bacolor",
+      "2001",
+      "Luzon"
+    ],
+    [
+      "Basa Airbase",
+      "2007",
+      "Luzon"
+    ],
+    [
+      "Candaba",
+      "2013",
+      "Luzon"
+    ],
+    [
+      "Floridablanca",
+      "2006",
+      "Luzon"
+    ],
+    [
+      "Guagua",
+      "2003",
+      "Luzon"
+    ],
+    [
+      "Lubao",
+      "2005",
+      "Luzon"
+    ],
+    [
+      "Mabalacat",
+      "2010",
+      "Luzon"
+    ],
+    [
+      "Macabebe",
+      "2018",
+      "Luzon"
+    ],
+    [
+      "Magalang",
+      "2011",
+      "Luzon"
+    ],
+    [
+      "Masantol",
+      "2017",
+      "Luzon"
+    ],
+    [
+      "Mexico",
+      "2021",
+      "Luzon"
+    ],
+    [
+      "Minalin",
+      "2019",
+      "Luzon"
+    ],
+    [
+      "Porac",
+      "2008",
+      "Luzon"
+    ],
+    [
+      "San Fernando",
+      "2000",
+      "Luzon"
+    ],
+    [
+      "San Luis",
+      "2014",
+      "Luzon"
+    ],
+    [
+      "San Simon",
+      "2015",
+      "Luzon"
+    ],
+    [
+      "Santa Ana",
+      "2022",
+      "Luzon"
+    ],
+    [
+      "Santa Rita",
+      "2002",
+      "Luzon"
+    ],
+    [
+      "Santo Tomas",
+      "2020",
+      "Luzon"
+    ],
+    [
+      "Sexmoan",
+      "2004",
+      "Luzon"
+    ]
+  ],
+  "Pangasinan": [
+    [
+      "Agno",
+      "2408",
+      "Luzon"
+    ],
+    [
+      "Aguilar",
+      "2415",
+      "Luzon"
+    ],
+    [
+      "Alaminos",
+      "2404",
+      "Luzon"
+    ],
+    [
+      "Alcala",
+      "2425",
+      "Luzon"
+    ],
+    [
+      "Anda",
+      "2405",
+      "Luzon"
+    ],
+    [
+      "Asingan",
+      "2439",
+      "Luzon"
+    ],
+    [
+      "Balungao",
+      "2442",
+      "Luzon"
+    ],
+    [
+      "Bani",
+      "2407",
+      "Luzon"
+    ],
+    [
+      "Basista",
+      "2422",
+      "Luzon"
+    ],
+    [
+      "Bautista",
+      "2424",
+      "Luzon"
+    ],
+    [
+      "Bayambang",
+      "2423",
+      "Luzon"
+    ],
+    [
+      "Binalonan",
+      "2436",
+      "Luzon"
+    ],
+    [
+      "Binmaley",
+      "2417",
+      "Luzon"
+    ],
+    [
+      "Bolinao",
+      "2406",
+      "Luzon"
+    ],
+    [
+      "Bugallon",
+      "2416",
+      "Luzon"
+    ],
+    [
+      "Burgos",
+      "2410",
+      "Luzon"
+    ],
+    [
+      "Calasiao",
+      "2418",
+      "Luzon"
+    ],
+    [
+      "Dagupan City",
+      "2400",
+      "Luzon"
+    ],
+    [
+      "Dasol",
+      "2411",
+      "Luzon"
+    ],
+    [
+      "Infanta",
+      "2412",
+      "Luzon"
+    ],
+    [
+      "Labrador",
+      "2402",
+      "Luzon"
+    ],
+    [
+      "Laoac",
+      "2437",
+      "Luzon"
+    ],
+    [
+      "Lingayen",
+      "2401",
+      "Luzon"
+    ],
+    [
+      "Mabini",
+      "2409",
+      "Luzon"
+    ],
+    [
+      "Malasiqui",
+      "2421",
+      "Luzon"
+    ],
+    [
+      "Manaoag",
+      "2430",
+      "Luzon"
+    ],
+    [
+      "Mangaldan",
+      "2432",
+      "Luzon"
+    ],
+    [
+      "Mangatarem",
+      "2413",
+      "Luzon"
+    ],
+    [
+      "Mapandan",
+      "2429",
+      "Luzon"
+    ],
+    [
+      "Natividad",
+      "2446",
+      "Luzon"
+    ],
+    [
+      "Pozorrubio",
+      "2435",
+      "Luzon"
+    ],
+    [
+      "Rosales",
+      "2441",
+      "Luzon"
+    ],
+    [
+      "San Carlos City",
+      "2420",
+      "Luzon"
+    ],
+    [
+      "San Fabian",
+      "2433",
+      "Luzon"
+    ],
+    [
+      "San Jacinto",
+      "2431",
+      "Luzon"
+    ],
+    [
+      "San Manuel",
+      "2438",
+      "Luzon"
+    ],
+    [
+      "San Nicolas",
+      "2447",
+      "Luzon"
+    ],
+    [
+      "San Quintin",
+      "2444",
+      "Luzon"
+    ],
+    [
+      "Santa Barbara",
+      "2419",
+      "Luzon"
+    ],
+    [
+      "Santa Maria",
+      "2440",
+      "Luzon"
+    ],
+    [
+      "Sison",
+      "2434",
+      "Luzon"
+    ],
+    [
+      "Sto. Tomas",
+      "2426",
+      "Luzon"
+    ],
+    [
+      "Sual",
+      "2403",
+      "Luzon"
+    ],
+    [
+      "Tayug",
+      "2445",
+      "Luzon"
+    ],
+    [
+      "Umingan",
+      "2443",
+      "Luzon"
+    ],
+    [
+      "Urbiztondo",
+      "2414",
+      "Luzon"
+    ],
+    [
+      "Urdaneta",
+      "2428",
+      "Luzon"
+    ],
+    [
+      "Villasis",
+      "2427",
+      "Luzon"
+    ]
+  ],
+  "Paranaque": [
+    [
+      "Aeropark Subdivision",
+      "1714",
+      "Metro Manila"
+    ],
+    [
+      "BF Homes 1",
+      "1720",
+      "Metro Manila"
+    ],
+    [
+      "Baclaran",
+      "1702",
+      "Metro Manila"
+    ],
+    [
+      "Better Living Subdivision",
+      "1711",
+      "Metro Manila"
+    ],
+    [
+      "Bf Homes 2",
+      "1718",
+      "Metro Manila"
+    ],
+    [
+      "Executive Heights Subd.",
+      "1710",
+      "Metro Manila"
+    ],
+    [
+      "Ireneville II",
+      "1714",
+      "Metro Manila"
+    ],
+    [
+      "Ireneville Subdivision I & III",
+      "1719",
+      "Metro Manila"
+    ],
+    [
+      "Manila Memorial Park",
+      "1717",
+      "Metro Manila"
+    ],
+    [
+      "Marina Subd. (Reclamation)",
+      "1703",
+      "Metro Manila"
+    ],
+    [
+      "Maywood I",
+      "1719",
+      "Metro Manila"
+    ],
+    [
+      "Maywood Village II",
+      "1716",
+      "Metro Manila"
+    ],
+    [
+      "Merville Park",
+      "1709",
+      "Metro Manila"
+    ],
+    [
+      "Miramar Subdivision",
+      "1712",
+      "Metro Manila"
+    ],
+    [
+      "Moonwalk",
+      "1709",
+      "Metro Manila"
+    ],
+    [
+      "Multinational Village",
+      "1708",
+      "Metro Manila"
+    ],
+    [
+      "Ninoy Aquino Intâ€°Ã›Âªl Airport",
+      "1705",
+      "Metro Manila"
+    ],
+    [
+      "Paranaque CPO",
+      "1700",
+      "Metro Manila"
+    ],
+    [
+      "Pulo",
+      "1706",
+      "Metro Manila"
+    ],
+    [
+      "San Antonio Valley 1",
+      "1715",
+      "Metro Manila"
+    ],
+    [
+      "San Antonio Valley 11& 12",
+      "1707",
+      "Metro Manila"
+    ],
+    [
+      "South Admiral Village",
+      "1709",
+      "Metro Manila"
+    ],
+    [
+      "Sto.Nino",
+      "1704",
+      "Metro Manila"
+    ],
+    [
+      "Tambo",
+      "1701",
+      "Metro Manila"
+    ],
+    [
+      "United Paranque Subd.",
+      "1713",
+      "Metro Manila"
+    ]
+  ],
+  "Pasay City": [
+    [
+      "Domestic Airport PO",
+      "1301",
+      "Metro Manila"
+    ],
+    [
+      "Manila Bay (Reclamation)",
+      "1308",
+      "Metro Manila"
+    ],
+    [
+      "PICC (Reclamation Area)",
+      "1307",
+      "Metro Manila"
+    ],
+    [
+      "Pasay City CPO-Malibay",
+      "1300",
+      "Metro Manila"
+    ],
+    [
+      "San Isidro",
+      "1306",
+      "Metro Manila"
+    ],
+    [
+      "San Jose",
+      "1305",
+      "Metro Manila"
+    ],
+    [
+      "San Rafael",
+      "1302",
+      "Metro Manila"
+    ],
+    [
+      "San Roque",
+      "1303",
+      "Metro Manila"
+    ],
+    [
+      "Santa Clara",
+      "1304",
+      "Metro Manila"
+    ],
+    [
+      "Villamor Airbase",
+      "1309",
+      "Metro Manila"
+    ]
+  ],
+  "Pasig City": [
+    [
+      "Caniogan",
+      "1606",
+      "Metro Manila"
+    ],
+    [
+      "Green park",
+      "1612",
+      "Metro Manila"
+    ],
+    [
+      "Kapitolyo",
+      "1603",
+      "Metro Manila"
+    ],
+    [
+      "Manggahan",
+      "1611",
+      "Metro Manila"
+    ],
+    [
+      "Maybunga",
+      "1607",
+      "Metro Manila"
+    ],
+    [
+      "Ortigas PO",
+      "1605",
+      "Metro Manila"
+    ],
+    [
+      "Pasig PO",
+      "1600",
+      "Metro Manila"
+    ],
+    [
+      "Pingabuhatan",
+      "1602",
+      "Metro Manila"
+    ],
+    [
+      "Rosario",
+      "1609",
+      "Metro Manila"
+    ],
+    [
+      "San Joaquin",
+      "1601",
+      "Metro Manila"
+    ],
+    [
+      "Santolan",
+      "1610",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Lucia",
+      "1608",
+      "Metro Manila"
+    ],
+    [
+      "Ugong",
+      "1604",
+      "Metro Manila"
+    ]
+  ],
+  "Pateros": [
+    [
+      "Aguho",
+      "1620",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Ana",
+      "1621",
+      "Metro Manila"
+    ]
+  ],
+  "Quezon City": [
+    [
+      "Alicia",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Amihan",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "Apolonio Samson",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "Araneta Center",
+      "810",
+      "Metro Manila"
+    ],
+    [
+      "BF Homes",
+      "1120",
+      "Metro Manila"
+    ],
+    [
+      "Baesa",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "Bagbag",
+      "1116",
+      "Metro Manila"
+    ],
+    [
+      "Bagong Bayan",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "Bagong Buhay",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Bagong Lipunan",
+      "1111",
+      "Metro Manila"
+    ],
+    [
+      "Bagong Pagasa",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Bagong Silangan",
+      "1119",
+      "Metro Manila"
+    ],
+    [
+      "Bahay Toro",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "Balingasa",
+      "1115",
+      "Metro Manila"
+    ],
+    [
+      "Balintawak",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "Balumbato",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "Batasan Hills",
+      "1126",
+      "Metro Manila"
+    ],
+    [
+      "Bayanihan",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Blue Ridge",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Botocan",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Bungad",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Bureau of Internal Revenue",
+      "820",
+      "Metro Manila"
+    ],
+    [
+      "Camp Aguinaldo",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "Camp Aguinaldo",
+      "802",
+      "Metro Manila"
+    ],
+    [
+      "Camp Crame",
+      "801",
+      "Metro Manila"
+    ],
+    [
+      "Capitol Hills/Park",
+      "1126",
+      "Metro Manila"
+    ],
+    [
+      "Capri",
+      "1117",
+      "Metro Manila"
+    ],
+    [
+      "Central",
+      "1100",
+      "Metro Manila"
+    ],
+    [
+      "Claro",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "Cogong Norte",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "Commission on Audit",
+      "880",
+      "Metro Manila"
+    ],
+    [
+      "Commonwealth",
+      "1121",
+      "Metro Manila"
+    ],
+    [
+      "Crame",
+      "1111",
+      "Metro Manila"
+    ],
+    [
+      "Cubao",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Culiat",
+      "1128",
+      "Metro Manila"
+    ],
+    [
+      "Damar",
+      "1115",
+      "Metro Manila"
+    ],
+    [
+      "Damayan",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "Damayan Lagi",
+      "1112",
+      "Metro Manila"
+    ],
+    [
+      "Damong Maliit",
+      "1123",
+      "Metro Manila"
+    ],
+    [
+      "Del Monte",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Diliman",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Dioquino Zobel",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Don Manuel",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Dona Aurora",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Dona Faustina Subd.",
+      "1125",
+      "Metro Manila"
+    ],
+    [
+      "Dona Imelda",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Dona Josefa",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Duyan-duyan",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "E. Rodriguez",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "Escopa",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Fairview",
+      "1118",
+      "Metro Manila"
+    ],
+    [
+      "Fairview North",
+      "1121",
+      "Metro Manila"
+    ],
+    [
+      "Fairview South",
+      "1122",
+      "Metro Manila"
+    ],
+    [
+      "Gintong Silahis",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Gulod",
+      "1117",
+      "Metro Manila"
+    ],
+    [
+      "Holy Spirit",
+      "1127",
+      "Metro Manila"
+    ],
+    [
+      "Horseshoe",
+      "1112",
+      "Metro Manila"
+    ],
+    [
+      "Immaculate Concepcion",
+      "1111",
+      "Metro Manila"
+    ],
+    [
+      "Kaligayahan",
+      "1124",
+      "Metro Manila"
+    ],
+    [
+      "Kalusugan",
+      "1112",
+      "Metro Manila"
+    ],
+    [
+      "Kamias",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "Kamuning",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "Katipunan",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Kaunlaran",
+      "1111",
+      "Metro Manila"
+    ],
+    [
+      "Kristong Hari",
+      "1112",
+      "Metro Manila"
+    ],
+    [
+      "Krus na Ligas",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "La Loma",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Laging Handa",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "Libis",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "Lourdes",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Loyola Heights",
+      "1108",
+      "Metro Manila"
+    ],
+    [
+      "Maharlika",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Malaya",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Mangga",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Manresa",
+      "1115",
+      "Metro Manila"
+    ],
+    [
+      "Mariana",
+      "1112",
+      "Metro Manila"
+    ],
+    [
+      "Mariblo",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "Masagana",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Masambong",
+      "1115",
+      "Metro Manila"
+    ],
+    [
+      "Matalahib",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Matandang Balara",
+      "1119",
+      "Metro Manila"
+    ],
+    [
+      "Milagrosa",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Nagkakaisang Nayon",
+      "1125",
+      "Metro Manila"
+    ],
+    [
+      "Natâ€°Ã›Âªl Irrigation Adm.",
+      "830",
+      "Metro Manila"
+    ],
+    [
+      "Nayon Kaunlaran",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "New Era",
+      "1107",
+      "Metro Manila"
+    ],
+    [
+      "Novaliches Proper",
+      "1123",
+      "Metro Manila"
+    ],
+    [
+      "Obrero",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "Old Capitol Site",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Paang Bundok",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Pag0ibig sa Nayon",
+      "1115",
+      "Metro Manila"
+    ],
+    [
+      "Paligsahan",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "Paltok",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Pansol",
+      "1108",
+      "Metro Manila"
+    ],
+    [
+      "Paraiso",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "Pasong Putik",
+      "1118",
+      "Metro Manila"
+    ],
+    [
+      "Pasong Tamo",
+      "1107",
+      "Metro Manila"
+    ],
+    [
+      "Payatas",
+      "1119",
+      "Metro Manila"
+    ],
+    [
+      "Phil. Heart Center",
+      "850",
+      "Metro Manila"
+    ],
+    [
+      "PhilAm",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "Pinagkaisahan",
+      "1111",
+      "Metro Manila"
+    ],
+    [
+      "Pinahan",
+      "1100",
+      "Metro Manila"
+    ],
+    [
+      "Project 4",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Project 6",
+      "1100",
+      "Metro Manila"
+    ],
+    [
+      "Project 7",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Project 8",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "Quezon City CPO",
+      "1100",
+      "Metro Manila"
+    ],
+    [
+      "Quezon City Hall",
+      "860",
+      "Metro Manila"
+    ],
+    [
+      "Quirino Dist.(Project 2 & 3)",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "R.Magsaysay",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Roxas District",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "Sacred Heart",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "Salvacion",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "San Agustin",
+      "1117",
+      "Metro Manila"
+    ],
+    [
+      "San Antonio",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "San Bartolome",
+      "1116",
+      "Metro Manila"
+    ],
+    [
+      "San Isidro",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "San Isidro Labrador",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "San Jose",
+      "1115",
+      "Metro Manila"
+    ],
+    [
+      "San Roque",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "San Vicente",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Sangandaan",
+      "1116",
+      "Metro Manila"
+    ],
+    [
+      "Santol",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Sauyo",
+      "1116",
+      "Metro Manila"
+    ],
+    [
+      "Sienna",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Sikatuna Village",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Silangan",
+      "1102",
+      "Metro Manila"
+    ],
+    [
+      "Social Security System",
+      "800",
+      "Metro Manila"
+    ],
+    [
+      "Socorro",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "South Triangle",
+      "1103",
+      "Metro Manila"
+    ],
+    [
+      "St. Ignatius",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "St. Martin de Porres",
+      "1111",
+      "Metro Manila"
+    ],
+    [
+      "St. Peter",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Cruz",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Lucia",
+      "1117",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Monica",
+      "1117",
+      "Metro Manila"
+    ],
+    [
+      "Sta. Teresita",
+      "1114",
+      "Metro Manila"
+    ],
+    [
+      "Sto. Cristo",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Sto. Nino",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Tagumpay",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Talampas",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "Talayan",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "Talipapa",
+      "1116",
+      "Metro Manila"
+    ],
+    [
+      "Tandang Sora",
+      "1116",
+      "Metro Manila"
+    ],
+    [
+      "Tatalon",
+      "1113",
+      "Metro Manila"
+    ],
+    [
+      "Teacherâ€°Ã›Âªs Village",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "UP Village",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "Unang Sigaw",
+      "1106",
+      "Metro Manila"
+    ],
+    [
+      "University of the Phils. PO",
+      "1101",
+      "Metro Manila"
+    ],
+    [
+      "V. Luna Hospital",
+      "840",
+      "Metro Manila"
+    ],
+    [
+      "Valencia",
+      "1112",
+      "Metro Manila"
+    ],
+    [
+      "Vasra",
+      "1128",
+      "Metro Manila"
+    ],
+    [
+      "Veterans Hospital",
+      "870",
+      "Metro Manila"
+    ],
+    [
+      "Veterans Village",
+      "1105",
+      "Metro Manila"
+    ],
+    [
+      "Villa Maria Clara",
+      "1109",
+      "Metro Manila"
+    ],
+    [
+      "Violago Homes",
+      "1120",
+      "Metro Manila"
+    ],
+    [
+      "West Triangle",
+      "1104",
+      "Metro Manila"
+    ],
+    [
+      "White Plains",
+      "1110",
+      "Metro Manila"
+    ],
+    [
+      "marilag",
+      "1109",
+      "Metro Manila"
+    ]
+  ],
+  "Quezon Province": [
+    [
+      "Agbangan",
+      "4304",
+      "Luzon"
+    ],
+    [
+      "Alabat",
+      "4333",
+      "Luzon"
+    ],
+    [
+      "Atimonan",
+      "4331",
+      "Luzon"
+    ],
+    [
+      "Buenavista",
+      "4320",
+      "Luzon"
+    ],
+    [
+      "Burdeos",
+      "4340",
+      "Luzon"
+    ],
+    [
+      "Calauag",
+      "4318",
+      "Luzon"
+    ],
+    [
+      "Candelaria",
+      "4323",
+      "Luzon"
+    ],
+    [
+      "Catanauan",
+      "4311",
+      "Luzon"
+    ],
+    [
+      "Dolores",
+      "4326",
+      "Luzon"
+    ],
+    [
+      "General Luna",
+      "4310",
+      "Luzon"
+    ],
+    [
+      "General Nakar",
+      "4338",
+      "Luzon"
+    ],
+    [
+      "Guinayangan",
+      "4319",
+      "Luzon"
+    ],
+    [
+      "Gumaca",
+      "4307",
+      "Luzon"
+    ],
+    [
+      "Hondagua",
+      "4317",
+      "Luzon"
+    ],
+    [
+      "Infanta",
+      "4336",
+      "Luzon"
+    ],
+    [
+      "Jomalig",
+      "4342",
+      "Luzon"
+    ],
+    [
+      "Lopez",
+      "4316",
+      "Luzon"
+    ],
+    [
+      "Lucban",
+      "4328",
+      "Luzon"
+    ],
+    [
+      "Lucena City",
+      "4301",
+      "Luzon"
+    ],
+    [
+      "Macalelon",
+      "4309",
+      "Luzon"
+    ],
+    [
+      "Mauban",
+      "4330",
+      "Luzon"
+    ],
+    [
+      "Mulanay",
+      "4312",
+      "Luzon"
+    ],
+    [
+      "Padre Burgos",
+      "4303",
+      "Luzon"
+    ],
+    [
+      "Pagbilao",
+      "4302",
+      "Luzon"
+    ],
+    [
+      "Panukulan",
+      "4337",
+      "Luzon"
+    ],
+    [
+      "Patnanongan",
+      "4341",
+      "Luzon"
+    ],
+    [
+      "Perez",
+      "4334",
+      "Luzon"
+    ],
+    [
+      "Pitogo",
+      "4308",
+      "Luzon"
+    ],
+    [
+      "Plaridel",
+      "4306",
+      "Luzon"
+    ],
+    [
+      "Polilio",
+      "4339",
+      "Luzon"
+    ],
+    [
+      "Quezon",
+      "4332",
+      "Luzon"
+    ],
+    [
+      "Quezon Capitol",
+      "4300",
+      "Luzon"
+    ],
+    [
+      "Real",
+      "4335",
+      "Luzon"
+    ],
+    [
+      "Sampaloc",
+      "4329",
+      "Luzon"
+    ],
+    [
+      "San Andres",
+      "4314",
+      "Luzon"
+    ],
+    [
+      "San Antonio",
+      "4324",
+      "Luzon"
+    ],
+    [
+      "San Francisco",
+      "4315",
+      "Luzon"
+    ],
+    [
+      "San Narciso",
+      "4313",
+      "Luzon"
+    ],
+    [
+      "Sariaya",
+      "4322",
+      "Luzon"
+    ],
+    [
+      "Tagkawayan",
+      "4321",
+      "Luzon"
+    ],
+    [
+      "Tayabas",
+      "4327",
+      "Luzon"
+    ],
+    [
+      "Tiaong",
+      "4325",
+      "Luzon"
+    ],
+    [
+      "Unisan",
+      "4305",
+      "Luzon"
+    ]
+  ],
+  "Quirino Province": [
+    [
+      "Aglipay",
+      "3403",
+      "Luzon"
+    ],
+    [
+      "Cabarruguis",
+      "3400",
+      "Luzon"
+    ],
+    [
+      "Diffun",
+      "3401",
+      "Luzon"
+    ],
+    [
+      "Maddela",
+      "3404",
+      "Luzon"
+    ],
+    [
+      "Nagtipunan (Abbag)",
+      "3405",
+      "Luzon"
+    ],
+    [
+      "Saguday",
+      "3402",
+      "Luzon"
+    ]
+  ],
+  "Rizal Province": [
+    [
+      "Angono",
+      "1930",
+      "Rizal"
+    ],
+    [
+      "Antipolo",
+      "1870",
+      "Rizal"
+    ],
+    [
+      "Baras",
+      "1970",
+      "Rizal"
+    ],
+    [
+      "Binangonan",
+      "1940",
+      "Rizal"
+    ],
+    [
+      "Cainta",
+      "1900",
+      "Rizal"
+    ],
+    [
+      "Cardona",
+      "1950",
+      "Rizal"
+    ],
+    [
+      "Jala-jala",
+      "1990",
+      "Rizal"
+    ],
+    [
+      "Montalban (Rodriguez)",
+      "1860",
+      "Rizal"
+    ],
+    [
+      "Morong",
+      "1960",
+      "Rizal"
+    ],
+    [
+      "Pililia",
+      "1910",
+      "Rizal"
+    ],
+    [
+      "San Mateo",
+      "1850",
+      "Rizal"
+    ],
+    [
+      "Tanay",
+      "1980",
+      "Rizal"
+    ],
+    [
+      "Taytay",
+      "1920",
+      "Rizal"
+    ],
+    [
+      "Teresa",
+      "1880",
+      "Rizal"
+    ]
+  ],
+  "Romblon Province": [
+    [
+      "Alcantara",
+      "5509",
+      "Luzon"
+    ],
+    [
+      "Banton (Jones)",
+      "5515",
+      "Luzon"
+    ],
+    [
+      "Cajidiocan",
+      "5512",
+      "Luzon"
+    ],
+    [
+      "Calatrava",
+      "5503",
+      "Luzon"
+    ],
+    [
+      "Concepcion",
+      "5516",
+      "Luzon"
+    ],
+    [
+      "Corcuera",
+      "5514",
+      "Luzon"
+    ],
+    [
+      "Ferrol",
+      "5506",
+      "Luzon"
+    ],
+    [
+      "Imelda",
+      "5502",
+      "Luzon"
+    ],
+    [
+      "Looc",
+      "5507",
+      "Luzon"
+    ],
+    [
+      "Magdiwang",
+      "5511",
+      "Luzon"
+    ],
+    [
+      "Odiongan",
+      "5505",
+      "Luzon"
+    ],
+    [
+      "Romblon",
+      "5500",
+      "Luzon"
+    ],
+    [
+      "San Agustin",
+      "5501",
+      "Luzon"
+    ],
+    [
+      "San Andres",
+      "5504",
+      "Luzon"
+    ],
+    [
+      "San Fernando",
+      "5513",
+      "Luzon"
+    ],
+    [
+      "San Jose",
+      "5510",
+      "Luzon"
+    ],
+    [
+      "Sta. Fe",
+      "5508",
+      "Luzon"
+    ]
+  ],
+  "San Juan": [
+    [
+      "Eisenhower-Crame",
+      "1504",
+      "Metro Manila"
+    ],
+    [
+      "Greenhills North",
+      "1503",
+      "Metro Manila"
+    ],
+    [
+      "Greenhills PO",
+      "1502",
+      "Metro Manila"
+    ],
+    [
+      "San Juan CPO",
+      "1500",
+      "Metro Manila"
+    ]
+  ],
+  "Saranggani": [
+    [
+      "Alabel",
+      "9501",
+      "Mindanao"
+    ],
+    [
+      "Glan",
+      "9517",
+      "Mindanao"
+    ],
+    [
+      "Kiamba",
+      "9514",
+      "Mindanao"
+    ],
+    [
+      "Maasim",
+      "9502",
+      "Mindanao"
+    ],
+    [
+      "Maitum",
+      "9515",
+      "Mindanao"
+    ],
+    [
+      "Malapatan",
+      "9516",
+      "Mindanao"
+    ],
+    [
+      "Malungon",
+      "9503",
+      "Mindanao"
+    ]
+  ],
+  "Siquijor": [
+    [
+      "Enrique Villanueva",
+      "6230",
+      "Visayas"
+    ],
+    [
+      "Larena",
+      "6226",
+      "Visayas"
+    ],
+    [
+      "Lazi",
+      "6228",
+      "Visayas"
+    ],
+    [
+      "Maria",
+      "6229",
+      "Visayas"
+    ],
+    [
+      "San Juan",
+      "6227",
+      "Visayas"
+    ],
+    [
+      "Siquijor",
+      "6225",
+      "Visayas"
+    ]
+  ],
+  "Sorsogon Province": [
+    [
+      "Bacon",
+      "4701",
+      "Luzon"
+    ],
+    [
+      "Barcelona",
+      "4712",
+      "Luzon"
+    ],
+    [
+      "Bulan",
+      "4706",
+      "Luzon"
+    ],
+    [
+      "Bulusan",
+      "4704",
+      "Luzon"
+    ],
+    [
+      "Casiguran",
+      "4702",
+      "Luzon"
+    ],
+    [
+      "Castilla",
+      "4713",
+      "Luzon"
+    ],
+    [
+      "Donsol",
+      "4715",
+      "Luzon"
+    ],
+    [
+      "Gubat",
+      "4710",
+      "Luzon"
+    ],
+    [
+      "Irosin",
+      "4707",
+      "Luzon"
+    ],
+    [
+      "Juban",
+      "4703",
+      "Luzon"
+    ],
+    [
+      "Magallanes",
+      "4705",
+      "Luzon"
+    ],
+    [
+      "Matnog",
+      "4708",
+      "Luzon"
+    ],
+    [
+      "Pilar",
+      "4714",
+      "Luzon"
+    ],
+    [
+      "Prieto Diaz",
+      "4711",
+      "Luzon"
+    ],
+    [
+      "Sorsogon",
+      "4700",
+      "Luzon"
+    ],
+    [
+      "Sta. Magdalena",
+      "4709",
+      "Luzon"
+    ]
+  ],
+  "South Cotabato": [
+    [
+      "Banga",
+      "9511",
+      "Mindanao"
+    ],
+    [
+      "Gen. Santos City",
+      "9500",
+      "Mindanao"
+    ],
+    [
+      "Koronadal",
+      "9506",
+      "Mindanao"
+    ],
+    [
+      "Nurallah",
+      "9508",
+      "Mindanao"
+    ],
+    [
+      "Polomolok",
+      "9504",
+      "Mindanao"
+    ],
+    [
+      "Sto. Nino",
+      "9509",
+      "Mindanao"
+    ],
+    [
+      "Surallah",
+      "9512",
+      "Mindanao"
+    ],
+    [
+      "Tampacan",
+      "9507",
+      "Mindanao"
+    ],
+    [
+      "Tantangan",
+      "9510",
+      "Mindanao"
+    ],
+    [
+      "Tupi",
+      "9505",
+      "Mindanao"
+    ],
+    [
+      "Tâ€°Ã›Âªboli",
+      "9513",
+      "Mindanao"
+    ]
+  ],
+  "Sultan Kudarat": [
+    [
+      "Bagumbayan",
+      "9810",
+      "Mindanao"
+    ],
+    [
+      "Columbio",
+      "9801",
+      "Mindanao"
+    ],
+    [
+      "Esperanza (Ampatuan)",
+      "9806",
+      "Mindanao"
+    ],
+    [
+      "Isulan",
+      "9805",
+      "Mindanao"
+    ],
+    [
+      "Kalamansig",
+      "9808",
+      "Mindanao"
+    ],
+    [
+      "Lebak (Salaman)",
+      "9807",
+      "Mindanao"
+    ],
+    [
+      "Lutayan",
+      "9803",
+      "Mindanao"
+    ],
+    [
+      "Mariano Marcos",
+      "9802",
+      "Mindanao"
+    ],
+    [
+      "Palimbang",
+      "9809",
+      "Mindanao"
+    ],
+    [
+      "Pres. Quirino",
+      "9804",
+      "Mindanao"
+    ],
+    [
+      "Sen. Ninoy Aquino",
+      "9811",
+      "Mindanao"
+    ],
+    [
+      "Takurong",
+      "9800",
+      "Mindanao"
+    ]
+  ],
+  "Sulu Province": [
+    [
+      "Indanan",
+      "7407",
+      "Mindanao"
+    ],
+    [
+      "Jolo",
+      "7400",
+      "Mindanao"
+    ],
+    [
+      "Kalingalan Kalauang",
+      "7416",
+      "Mindanao"
+    ],
+    [
+      "Lugus",
+      "7411",
+      "Mindanao"
+    ],
+    [
+      "Luuk",
+      "7404",
+      "Mindanao"
+    ],
+    [
+      "Maimbung",
+      "7409",
+      "Mindanao"
+    ],
+    [
+      "Marungas",
+      "7413",
+      "Mindanao"
+    ],
+    [
+      "Panamao",
+      "7402",
+      "Mindanao"
+    ],
+    [
+      "Panglima Estino",
+      "7415",
+      "Mindanao"
+    ],
+    [
+      "Panguntaran",
+      "7414",
+      "Mindanao"
+    ],
+    [
+      "Parang",
+      "7408",
+      "Mindanao"
+    ],
+    [
+      "Pata",
+      "7405",
+      "Mindanao"
+    ],
+    [
+      "Patikul",
+      "7401",
+      "Mindanao"
+    ],
+    [
+      "Siasi",
+      "7412",
+      "Mindanao"
+    ],
+    [
+      "Talipao",
+      "7403",
+      "Mindanao"
+    ],
+    [
+      "Tapul",
+      "7410",
+      "Mindanao"
+    ],
+    [
+      "Tongkil",
+      "7406",
+      "Mindanao"
+    ]
+  ],
+  "Surigao del Norte": [
+    [
+      "Alegria",
+      "8425",
+      "Mindanao"
+    ],
+    [
+      "Bacuag",
+      "8408",
+      "Mindanao"
+    ],
+    [
+      "Basilisa (Rizal)",
+      "8413",
+      "Mindanao"
+    ],
+    [
+      "Burgos",
+      "8424",
+      "Mindanao"
+    ],
+    [
+      "Cagdianao",
+      "8411",
+      "Mindanao"
+    ],
+    [
+      "Claver",
+      "8410",
+      "Mindanao"
+    ],
+    [
+      "Dapa",
+      "8417",
+      "Mindanao"
+    ],
+    [
+      "Del Carmen",
+      "8418",
+      "Mindanao"
+    ],
+    [
+      "Dinagat",
+      "8412",
+      "Mindanao"
+    ],
+    [
+      "Gen. Luna",
+      "8419",
+      "Mindanao"
+    ],
+    [
+      "Gigaquit",
+      "8409",
+      "Mindanao"
+    ],
+    [
+      "Libjo (Albor)",
+      "8414",
+      "Mindanao"
+    ],
+    [
+      "Loreto",
+      "8415",
+      "Mindanao"
+    ],
+    [
+      "Mainit",
+      "8407",
+      "Mindanao"
+    ],
+    [
+      "Malimano",
+      "8402",
+      "Mindanao"
+    ],
+    [
+      "Pilar",
+      "8420",
+      "Mindanao"
+    ],
+    [
+      "Placer",
+      "8405",
+      "Mindanao"
+    ],
+    [
+      "San Benito",
+      "8423",
+      "Mindanao"
+    ],
+    [
+      "San Francisco",
+      "8401",
+      "Mindanao"
+    ],
+    [
+      "San Isidro",
+      "8421",
+      "Mindanao"
+    ],
+    [
+      "San Jose",
+      "8427",
+      "Mindanao"
+    ],
+    [
+      "Santa Monica",
+      "8422",
+      "Mindanao"
+    ],
+    [
+      "Sison",
+      "8404",
+      "Mindanao"
+    ],
+    [
+      "Socorro",
+      "8416",
+      "Mindanao"
+    ],
+    [
+      "Surigao City",
+      "8400",
+      "Mindanao"
+    ],
+    [
+      "Tagana-an",
+      "8403",
+      "Mindanao"
+    ],
+    [
+      "Tubajon",
+      "8426",
+      "Mindanao"
+    ],
+    [
+      "Tubod",
+      "8406",
+      "Mindanao"
+    ]
+  ],
+  "Surigao del Sur": [
+    [
+      "Barobo",
+      "8309",
+      "Mindanao"
+    ],
+    [
+      "Bayabas",
+      "8303",
+      "Mindanao"
+    ],
+    [
+      "Bislig",
+      "8311",
+      "Mindanao"
+    ],
+    [
+      "Cagwait",
+      "8304",
+      "Mindanao"
+    ],
+    [
+      "Cantillan",
+      "8317",
+      "Mindanao"
+    ],
+    [
+      "Carmen",
+      "8315",
+      "Mindanao"
+    ],
+    [
+      "Carrascal",
+      "8318",
+      "Mindanao"
+    ],
+    [
+      "Cortez",
+      "8313",
+      "Mindanao"
+    ],
+    [
+      "Hinatuan",
+      "8310",
+      "Mindanao"
+    ],
+    [
+      "Lanuza",
+      "8314",
+      "Mindanao"
+    ],
+    [
+      "Lianga",
+      "8307",
+      "Mindanao"
+    ],
+    [
+      "Lingig",
+      "8312",
+      "Mindanao"
+    ],
+    [
+      "Madrid",
+      "8316",
+      "Mindanao"
+    ],
+    [
+      "Malixi",
+      "8319",
+      "Mindanao"
+    ],
+    [
+      "Marihatag",
+      "8306",
+      "Mindanao"
+    ],
+    [
+      "San Agustin",
+      "8305",
+      "Mindanao"
+    ],
+    [
+      "San Miguel",
+      "8301",
+      "Mindanao"
+    ],
+    [
+      "Tagbina",
+      "8308",
+      "Mindanao"
+    ],
+    [
+      "Tago",
+      "8302",
+      "Mindanao"
+    ]
+  ],
+  "Taguig": [
+    [
+      "Bay Breeze Exec. Village",
+      "1636",
+      "Metro Manila"
+    ],
+    [
+      "Bicutan",
+      "1631",
+      "Metro Manila"
+    ],
+    [
+      "Bicutan Lower",
+      "1632",
+      "Metro Manila"
+    ],
+    [
+      "Bicutan Upper",
+      "1633",
+      "Metro Manila"
+    ],
+    [
+      "Bicutan Western",
+      "1630",
+      "Metro Manila"
+    ],
+    [
+      "Ligid",
+      "1638",
+      "Metro Manila"
+    ],
+    [
+      "Nichols-McKinley",
+      "1634",
+      "Metro Manila"
+    ],
+    [
+      "Tuktukan",
+      "1637",
+      "Metro Manila"
+    ]
+  ],
+  "Tarlac": [
+    [
+      "Anao",
+      "2310",
+      "Luzon"
+    ],
+    [
+      "Bamban",
+      "2317",
+      "Luzon"
+    ],
+    [
+      "Camiling",
+      "2306",
+      "Luzon"
+    ],
+    [
+      "Capas",
+      "2315",
+      "Luzon"
+    ],
+    [
+      "Concepcion",
+      "2316",
+      "Luzon"
+    ],
+    [
+      "Gerona",
+      "2302",
+      "Luzon"
+    ],
+    [
+      "La Paz",
+      "2314",
+      "Luzon"
+    ],
+    [
+      "Mayantoc",
+      "2304",
+      "Luzon"
+    ],
+    [
+      "Moncada",
+      "2308",
+      "Luzon"
+    ],
+    [
+      "Paniqui",
+      "2307",
+      "Luzon"
+    ],
+    [
+      "Pura",
+      "2312",
+      "Luzon"
+    ],
+    [
+      "Ramos",
+      "2311",
+      "Luzon"
+    ],
+    [
+      "San Clemente",
+      "2305",
+      "Luzon"
+    ],
+    [
+      "San Jose",
+      "2318",
+      "Luzon"
+    ],
+    [
+      "San Mauel",
+      "2309",
+      "Luzon"
+    ],
+    [
+      "San Miguel",
+      "2301",
+      "Luzon"
+    ],
+    [
+      "Sta. Ignacia",
+      "2303",
+      "Luzon"
+    ],
+    [
+      "Tarlac",
+      "2300",
+      "Luzon"
+    ],
+    [
+      "Victoria",
+      "2313",
+      "Luzon"
+    ]
+  ],
+  "Tawi-tawi": [
+    [
+      "Balimbing",
+      "7501",
+      "Mindanao"
+    ],
+    [
+      "Bongao",
+      "7500",
+      "Mindanao"
+    ],
+    [
+      "Cagayan de Sulu",
+      "7508",
+      "Mindanao"
+    ],
+    [
+      "Languyan",
+      "7509",
+      "Mindanao"
+    ],
+    [
+      "Sapa-sapa",
+      "7503",
+      "Mindanao"
+    ],
+    [
+      "Simunol",
+      "7505",
+      "Mindanao"
+    ],
+    [
+      "Sitangkai",
+      "7506",
+      "Mindanao"
+    ],
+    [
+      "South Ubian",
+      "7504",
+      "Mindanao"
+    ],
+    [
+      "Taganak (Turtle Island)",
+      "7507",
+      "Mindanao"
+    ],
+    [
+      "Tandu Bas",
+      "7502",
+      "Mindanao"
+    ]
+  ],
+  "Valenzuela": [
+    [
+      "Arkong Bato-Rincon-Pasolo-Malanday-Mabolo-Polo",
+      "1444",
+      "Metro Manila"
+    ],
+    [
+      "Balangakas-Caloong",
+      "1445",
+      "Metro Manila"
+    ],
+    [
+      "Dalandanan-West Canumay",
+      "1443",
+      "Metro Manila"
+    ],
+    [
+      "East Canumay-Lawang Bato Puntrin",
+      "1447",
+      "Metro Manila"
+    ],
+    [
+      "Far East Bcasting. Corp.",
+      "560",
+      "Metro Manila"
+    ],
+    [
+      "Febias Col. Of Bible",
+      "550",
+      "Metro Manila"
+    ],
+    [
+      "Fortune Vill. Paso de Blas-Ge T. De Leon",
+      "1442",
+      "Metro Manila"
+    ],
+    [
+      "Karuhatan",
+      "1441",
+      "Metro Manila"
+    ],
+    [
+      "Lingunan",
+      "1446",
+      "Metro Manila"
+    ],
+    [
+      "Mapulang Lupa",
+      "1448",
+      "Metro Manila"
+    ],
+    [
+      "Valenzuela CPO-Malinta",
+      "1440",
+      "Metro Manila"
+    ],
+    [
+      "Valenzuela P.O. Boxes",
+      "1469",
+      "Metro Manila"
+    ]
+  ],
+  "Western Samar": [
+    [
+      "Almagro",
+      "6724",
+      "Visayas"
+    ],
+    [
+      "Basey",
+      "6720",
+      "Visayas"
+    ],
+    [
+      "Calbayog City",
+      "6710",
+      "Visayas"
+    ],
+    [
+      "Calbiga",
+      "6715",
+      "Visayas"
+    ],
+    [
+      "Catbalogan",
+      "6700",
+      "Visayas"
+    ],
+    [
+      "Daram",
+      "6722",
+      "Visayas"
+    ],
+    [
+      "Gandara",
+      "6706",
+      "Visayas"
+    ],
+    [
+      "Hinbangan",
+      "6713",
+      "Visayas"
+    ],
+    [
+      "Jiabong",
+      "6701",
+      "Visayas"
+    ],
+    [
+      "Marabut",
+      "6721",
+      "Visayas"
+    ],
+    [
+      "Matuguinao",
+      "6708",
+      "Visayas"
+    ],
+    [
+      "Motiong",
+      "6702",
+      "Visayas"
+    ],
+    [
+      "Pagsanjan",
+      "6705",
+      "Visayas"
+    ],
+    [
+      "Pinabacdao",
+      "6716",
+      "Visayas"
+    ],
+    [
+      "San Jorge",
+      "6707",
+      "Visayas"
+    ],
+    [
+      "San Jose de Bauan",
+      "6723",
+      "Visayas"
+    ],
+    [
+      "San Sebastian",
+      "6714",
+      "Visayas"
+    ],
+    [
+      "Sta. Margarita",
+      "6709",
+      "Visayas"
+    ],
+    [
+      "Sta. Rita",
+      "6718",
+      "Visayas"
+    ],
+    [
+      "Sto. Nino",
+      "6711",
+      "Visayas"
+    ],
+    [
+      "Tagapulan",
+      "6712",
+      "Visayas"
+    ],
+    [
+      "Talarora",
+      "6719",
+      "Visayas"
+    ],
+    [
+      "Tarangnan",
+      "6704",
+      "Visayas"
+    ],
+    [
+      "Villareal",
+      "6717",
+      "Visayas"
+    ],
+    [
+      "Wright",
+      "6703",
+      "Visayas"
+    ],
+    [
+      "Zumarraga",
+      "6725",
+      "Visayas"
+    ]
+  ],
+  "Zambales": [
+    [
+      "Botolan",
+      "2202",
+      "Luzon"
+    ],
+    [
+      "Cabangan",
+      "2203",
+      "Luzon"
+    ],
+    [
+      "Candelaria",
+      "2212",
+      "Luzon"
+    ],
+    [
+      "Castillejos",
+      "2208",
+      "Luzon"
+    ],
+    [
+      "Iba",
+      "2201",
+      "Luzon"
+    ],
+    [
+      "Masinloc",
+      "2211",
+      "Luzon"
+    ],
+    [
+      "Olongapo City",
+      "2200",
+      "Luzon"
+    ],
+    [
+      "Palauig",
+      "2210",
+      "Luzon"
+    ],
+    [
+      "San Antonio",
+      "2206",
+      "Luzon"
+    ],
+    [
+      "San Felipe",
+      "2204",
+      "Luzon"
+    ],
+    [
+      "San Marcelino",
+      "2207",
+      "Luzon"
+    ],
+    [
+      "San Narciso",
+      "2205",
+      "Luzon"
+    ],
+    [
+      "Sta. Cruz",
+      "2213",
+      "Luzon"
+    ],
+    [
+      "Subic",
+      "2209",
+      "Luzon"
+    ]
+  ],
+  "Zamboanga del Norte": [
+    [
+      "Baliguian",
+      "7123",
+      "Mindanao"
+    ],
+    [
+      "Dapitan City",
+      "7101",
+      "Mindanao"
+    ],
+    [
+      "Dipolog City",
+      "7100",
+      "Mindanao"
+    ],
+    [
+      "Gutalac",
+      "7118",
+      "Mindanao"
+    ],
+    [
+      "Jose Dalman (Ponot)",
+      "7111",
+      "Mindanao"
+    ],
+    [
+      "Kalawit",
+      "7124",
+      "Mindanao"
+    ],
+    [
+      "Katipunan",
+      "7109",
+      "Mindanao"
+    ],
+    [
+      "La Libertad",
+      "7119",
+      "Mindanao"
+    ],
+    [
+      "Labason",
+      "7117",
+      "Mindanao"
+    ],
+    [
+      "Liloy",
+      "7115",
+      "Mindanao"
+    ],
+    [
+      "Manukan",
+      "7110",
+      "Mindanao"
+    ],
+    [
+      "Mutia",
+      "7107",
+      "Mindanao"
+    ],
+    [
+      "Pinan",
+      "7105",
+      "Mindanao"
+    ],
+    [
+      "Polanco",
+      "7106",
+      "Mindanao"
+    ],
+    [
+      "Rizal",
+      "7104",
+      "Mindanao"
+    ],
+    [
+      "Roxas",
+      "7102",
+      "Mindanao"
+    ],
+    [
+      "Salug",
+      "7114",
+      "Mindanao"
+    ],
+    [
+      "Sergio Osmena",
+      "7108",
+      "Mindanao"
+    ],
+    [
+      "Siayan",
+      "7113",
+      "Mindanao"
+    ],
+    [
+      "Sibuco",
+      "7122",
+      "Mindanao"
+    ],
+    [
+      "Sibutad",
+      "7103",
+      "Mindanao"
+    ],
+    [
+      "Sindangan (Leon B. Postigo)",
+      "7112",
+      "Mindanao"
+    ],
+    [
+      "Siocon",
+      "7120",
+      "Mindanao"
+    ],
+    [
+      "Siraway",
+      "7121",
+      "Mindanao"
+    ],
+    [
+      "Tampilisan",
+      "7116",
+      "Mindanao"
+    ]
+  ],
+  "Zamboanga del Sur": [
+    [
+      "Alicia",
+      "7040",
+      "Mindanao"
+    ],
+    [
+      "Aurora",
+      "7020",
+      "Mindanao"
+    ],
+    [
+      "Bayog",
+      "7011",
+      "Mindanao"
+    ],
+    [
+      "Buug",
+      "7009",
+      "Mindanao"
+    ],
+    [
+      "Dimataling",
+      "7032",
+      "Mindanao"
+    ],
+    [
+      "Dinas",
+      "7030",
+      "Mindanao"
+    ],
+    [
+      "Diplahan",
+      "7039",
+      "Mindanao"
+    ],
+    [
+      "Don Mariano Marcos",
+      "7022",
+      "Mindanao"
+    ],
+    [
+      "Dumalinao",
+      "7015",
+      "Mindanao"
+    ],
+    [
+      "Dumingag",
+      "7028",
+      "Mindanao"
+    ],
+    [
+      "Guipos",
+      "7042",
+      "Mindanao"
+    ],
+    [
+      "Imelda",
+      "7007",
+      "Mindanao"
+    ],
+    [
+      "Ipil",
+      "7001",
+      "Mindanao"
+    ],
+    [
+      "Josefina",
+      "7027",
+      "Mindanao"
+    ],
+    [
+      "Kabalasan",
+      "7005",
+      "Mindanao"
+    ],
+    [
+      "Kumalarang",
+      "7013",
+      "Mindanao"
+    ],
+    [
+      "Labangan",
+      "7017",
+      "Mindanao"
+    ],
+    [
+      "Lakewood",
+      "7014",
+      "Mindanao"
+    ],
+    [
+      "Lapuyan",
+      "7037",
+      "Mindanao"
+    ],
+    [
+      "Mabuhay",
+      "7010",
+      "Mindanao"
+    ],
+    [
+      "Mahayag",
+      "7026",
+      "Mindanao"
+    ],
+    [
+      "Malangas",
+      "7038",
+      "Mindanao"
+    ],
+    [
+      "Margo sa Tubig",
+      "7035",
+      "Mindanao"
+    ],
+    [
+      "Midsalip",
+      "7021",
+      "Mindanao"
+    ],
+    [
+      "Molave",
+      "7023",
+      "Mindanao"
+    ],
+    [
+      "Naga",
+      "7004",
+      "Mindanao"
+    ],
+    [
+      "Olutanga",
+      "7041",
+      "Mindanao"
+    ],
+    [
+      "Pagadian City",
+      "7016",
+      "Mindanao"
+    ],
+    [
+      "Payao",
+      "7008",
+      "Mindanao"
+    ],
+    [
+      "Pitogo",
+      "7033",
+      "Mindanao"
+    ],
+    [
+      "Ramon Magsaysay",
+      "7024",
+      "Mindanao"
+    ],
+    [
+      "Roseller Lim",
+      "7002",
+      "Mindanao"
+    ],
+    [
+      "San Miguel",
+      "7029",
+      "Mindanao"
+    ],
+    [
+      "San Pablo",
+      "7031",
+      "Mindanao"
+    ],
+    [
+      "Siay",
+      "7006",
+      "Mindanao"
+    ],
+    [
+      "Tabina",
+      "7034",
+      "Mindanao"
+    ],
+    [
+      "Talusan",
+      "7012",
+      "Mindanao"
+    ],
+    [
+      "Tambulig",
+      "7025",
+      "Mindanao"
+    ],
+    [
+      "Tigbad",
+      "7043",
+      "Mindanao"
+    ],
+    [
+      "Titay",
+      "7003",
+      "Mindanao"
+    ],
+    [
+      "Tukuran",
+      "7019",
+      "Mindanao"
+    ],
+    [
+      "Tungawan",
+      "7018",
+      "Mindanao"
+    ],
+    [
+      "Vicencio Sagun",
+      "7036",
+      "Mindanao"
+    ]
+  ]
+}

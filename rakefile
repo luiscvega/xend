@@ -5,3 +5,30 @@ task :test do
 
   Cutest.run(Dir["test/*.rb"])
 end
+
+task :zip do
+  require 'json'
+  require 'csv'
+  Z = CSV.parse(File.read('zipcodes/zipcodes-v2.csv'))
+  c = {}
+  Z.each do |row|
+    if c[row[0]] == nil
+      c[row[0]] = []
+        c[row[0]] << [ row[1], row[3], row[2] ]
+    elsif c[row[0]] && !c[row[0]].empty?
+      if !c[row[0]].include? row[1]
+        c[row[0]] << [ row[1], row[3], row[2] ]
+      end
+    end
+    c[row[0]].sort_by! do |v|
+      v[0]
+    end
+  end
+
+  File.open('zipcodes/zipcodes.json', 'w') do |f|
+    f.write JSON.pretty_generate(c)
+  end
+
+  puts "Sample: Abra => " + c["Abra"].first.inspect
+
+end
