@@ -13,14 +13,14 @@ module Xend
 
   TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
 
-  MetroManila           = "MetroManilaExpress"
-  Rizal                 = "RizalMetroManilaExpress"
-  Provincial            = "ProvincialExpress"
-  InternationalPostal   = "InternationalPostal"
-  InternationalEMS      = "InternationalEMS"
-  InternationalExpress  = "InternationalExpress"
+  METRO_MANILA          = "MetroManilaExpress"
+  RIZAL                 = "RizalMetroManilaExpress"
+  PROVINCIAL            = "ProvincialExpress"
+  INTERNATIONAL_POSTAL  = "InternationalPostal"
+  INTERNATIONAL_EMS     = "InternationalEMS"
+  INTERNATIONAL_EXPRESS = "InternationalExpress"
 
-  MetroManila_RATES = {
+  METRO_MANILA_RATES = {
     (0.01..0.50) => 44.00,
     (0.51..1.00) => 58.00,
     (1.01..1.50) => 75.00,
@@ -104,7 +104,7 @@ module Xend
   module Formula
     # Use this if you want to calculate using weight only
     #
-    # Usage: Xend::Formulat.calculate(Xend::MetroManila_RATES, 10)
+    # Usage: Xend::Formulat.calculate(Xend::METRO_MANILA_RATES, 10)
     #
     def self.calculate(rates, weight)
       # Check first if it's heavy. If so, don't check Rates anymore.
@@ -123,27 +123,29 @@ module Xend
 
     # Use this if you want to calculate final price given all details
     #
-    # Usage: Xend::Formulat.calculate_complete(Xend::MetroManila_RATES, weight: 10, length: 10, width: 10, height: 10)
+    # Usage: Xend::Formulat.calculate_complete(Xend::METRO_MANILA_RATES,
+    # weight: 10, length: 10, width: 10, height: 10)
     #
     def self.calculate_complete(rates, params)
       weight_rate = calculate(rates, params[:weight])
-      volume_rate = calculate(rates, get_volume_weight(params[:length], params[:width], params[:height]))
+      volume_rate = calculate(rates, volume_weight(params[:length], params[:width], params[:height]))
 
       return [weight_rate, volume_rate].max
     end
 
-    # Use this if you want to calculate volumetric weight from dimensions only
+    # Use this if you want to calculate volumetric weight from
+    # dimensions only
     #
-    # Usage: Xend::Formulat.get_volume_weight(10, 10, 10)
+    # Usage: Xend::Formulat.volume_weight(10, 10, 10)
     #
-    def self.get_volume_weight(l,w,h)
-      volume_weight = round_up([l,w,h].inject(&:*)/3500.0)
+    def self.volume_weight(l,w,h)
+      volume_weight = roundup([l,w,h].inject(&:*)/3500.0)
     end
 
   private
 
     # Round up to the nearest tenths
-    def self.round_up(number)
+    def self.roundup(number)
       (number * 100).ceil/100.0
     end
 
