@@ -1,11 +1,17 @@
 require "mote"
-require 'open3'
-require 'xmlsimple'
-require_relative 'settings'
+require "open3"
+require "xmlsimple"
 
-class Xend
-  include Settings
-  extend Mote::Helpers
+module Xend
+  USER_TOKEN   = ENV["XEND_USER_TOKEN"]
+  DEVELOPER_ID = ENV["XEND_DEVELOPER_ID"]
+
+  RATE_URL     = "https://www.xend.com.ph/api/RateService.asmx"
+  SHIPMENT_URL = "https://www.xend.com.ph/api/ShipmentService.asmx"
+  BOOKING_URL  = "https://www.xend.com.ph/api/BookingService.asmx"
+  TRACKING_URL = "https://www.xend.com.ph/api/TrackingService.asmx"
+
+  TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
 
   MetroManila           = "MetroManilaExpress"
   Rizal                 = "RizalMetroManilaExpress"
@@ -24,31 +30,50 @@ class Xend
   }
 
   Error = Class.new(StandardError)
-  TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
 
-private
+  module Client
+    extend Mote::Helpers
 
-  def self.payload(soap, file, params)
-    Curl.post(soap, 
-              mote(File.join(TEMPLATES, "#{file}.xml"), params),
-              "-H 'Content-Type: text/xml; charset=utf-8'")
+    def self.post(url, payload)
+      Curl.post(url, payload, "-H 'Content-Type: text/xml; charset=utf-8'")
+    end
+
+    def self.payload(file, params)
+      mote(path(file), params)
+    end
+
+    def self.path(file)
+      File.join(TEMPLATES, "%s.xml" % file)
+    end
+
+    def self.rate_calculate(params)
+      post(RATE_URL, payload("rate-calculate", params))
+    end
+
+    def self.shipment_get(params)
+      post(SHIPMENT_URL, payload("shipment-get", params))
+    end
+
+    def self.shipment_create(params)
+      post(SHIPMENT_URL, payload("shipment-create", params))
+    end
   end
 
-  class Rate < Xend
+  class Rate
     def self.calculate(params)
-      response = RateResponse.new(payload(Settings::SOAP::RATE, "rate-calculate", params))
+      response = RateResponse.new(Client.rate_calculate(params))
       response.rate
     end
   end
 
-  class Shipment < Xend
+  class Shipment
     def self.get(params)
-      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-get", params))
+      response = ShipmentResponse.new(Client.shipment_get(params))
       response.shipment
     end
 
     def self.create(params)
-      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-create", params))
+      response = ShipmentResponse.new(Client.shipment_create(params))
       response.result
     end
   end
@@ -61,7 +86,8 @@ private
 
   class RateResponse < Response
     def rate
-      @data["CalculateResponse"] && @data["CalculateResponse"]["CalculateResult"]
+      @data["CalculateResponse"] &&
+        @data["CalculateResponse"]["CalculateResult"]
     end
   end
 
@@ -76,7 +102,6 @@ private
   end
 
   module Formula
-
     # Use this if you want to calculate using weight only
     #
     # Usage: Xend::Formulat.calculate(Xend::MetroManila_RATES, 10)
@@ -154,7 +179,5 @@ private
     def self.errors(stderr)
       stderr.scan(/^curl: .*$/).join("\n")
     end
-
   end
-
 end
