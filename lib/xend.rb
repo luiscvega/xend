@@ -1,20 +1,26 @@
 require "mote"
-require 'open3'
-require 'xmlsimple'
-require_relative 'settings'
+require "open3"
+require "xmlsimple"
 
-class Xend
-  include Settings
-  extend Mote::Helpers
+module Xend
+  USER_TOKEN   = ENV["XEND_USER_TOKEN"]
+  DEVELOPER_ID = ENV["XEND_DEVELOPER_ID"]
 
-  MetroManila           = "MetroManilaExpress"
-  Rizal                 = "RizalMetroManilaExpress"
-  Provincial            = "ProvincialExpress"
-  InternationalPostal   = "InternationalPostal"
-  InternationalEMS      = "InternationalEMS"
-  InternationalExpress  = "InternationalExpress"
+  RATE_URL     = "https://www.xend.com.ph/api/RateService.asmx"
+  SHIPMENT_URL = "https://www.xend.com.ph/api/ShipmentService.asmx"
+  BOOKING_URL  = "https://www.xend.com.ph/api/BookingService.asmx"
+  TRACKING_URL = "https://www.xend.com.ph/api/TrackingService.asmx"
 
-  MetroManila_RATES = {
+  TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
+
+  METRO_MANILA          = "MetroManilaExpress"
+  RIZAL                 = "RizalMetroManilaExpress"
+  PROVINCIAL            = "ProvincialExpress"
+  INTERNATIONAL_POSTAL  = "InternationalPostal"
+  INTERNATIONAL_EMS     = "InternationalEMS"
+  INTERNATIONAL_EXPRESS = "InternationalExpress"
+
+  METRO_MANILA_RATES = {
     (0.01..0.50) => 44.00,
     (0.51..1.00) => 58.00,
     (1.01..1.50) => 75.00,
@@ -23,32 +29,54 @@ class Xend
     (2.51..3.00) => 103.00,
   }
 
+  TAX = 1.12
+  VOLUME_DIVISOR = 3500.0
+
   Error = Class.new(StandardError)
-  TEMPLATES = File.expand_path("../templates", File.dirname(__FILE__))
 
-private
+  module Client
+    extend Mote::Helpers
 
-  def self.payload(soap, file, params)
-    Curl.post(soap, 
-              mote(File.join(TEMPLATES, "#{file}.xml"), params),
-              "-H 'Content-Type: text/xml; charset=utf-8'")
+    def self.post(url, payload)
+      Curl.post(url, payload, "-H 'Content-Type: text/xml; charset=utf-8'")
+    end
+
+    def self.payload(file, params)
+      mote(path(file), params)
+    end
+
+    def self.path(file)
+      File.join(TEMPLATES, "%s.xml" % file)
+    end
+
+    def self.rate_calculate(params)
+      post(RATE_URL, payload("rate-calculate", params))
+    end
+
+    def self.shipment_get(params)
+      post(SHIPMENT_URL, payload("shipment-get", params))
+    end
+
+    def self.shipment_create(params)
+      post(SHIPMENT_URL, payload("shipment-create", params))
+    end
   end
 
-  class Rate < Xend
+  class Rate
     def self.calculate(params)
-      response = RateResponse.new(payload(Settings::SOAP::RATE, "rate-calculate", params))
+      response = RateResponse.new(Client.rate_calculate(params))
       response.rate
     end
   end
 
-  class Shipment < Xend
+  class Shipment
     def self.get(params)
-      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-get", params))
+      response = ShipmentResponse.new(Client.shipment_get(params))
       response.shipment
     end
 
     def self.create(params)
-      response = ShipmentResponse.new(payload(Settings::SOAP::SHIPMENT, "shipment-create", params))
+      response = ShipmentResponse.new(Client.shipment_create(params))
       response.result
     end
   end
@@ -61,7 +89,8 @@ private
 
   class RateResponse < Response
     def rate
-      @data["CalculateResponse"] && @data["CalculateResponse"]["CalculateResult"]
+      @data["CalculateResponse"] &&
+        @data["CalculateResponse"]["CalculateResult"]
     end
   end
 
@@ -76,10 +105,9 @@ private
   end
 
   module Formula
-
     # Use this if you want to calculate using weight only
     #
-    # Usage: Xend::Formulat.calculate(Xend::MetroManila_RATES, 10)
+    # Usage: Xend::Formulat.calculate(Xend::METRO_MANILA_RATES, 10)
     #
     def self.calculate(rates, weight)
       # Check first if it's heavy. If so, don't check Rates anymore.
@@ -98,34 +126,34 @@ private
 
     # Use this if you want to calculate final price given all details
     #
-    # Usage: Xend::Formulat.calculate_complete(Xend::MetroManila_RATES, weight: 10, length: 10, width: 10, height: 10)
+    # Usage: Xend::Formulat.calculate_complete(Xend::METRO_MANILA_RATES,
+    # weight: 10, length: 10, width: 10, height: 10)
     #
     def self.calculate_complete(rates, params)
       weight_rate = calculate(rates, params[:weight])
-      volume_rate = calculate(rates, get_volume_weight(params[:length], params[:width], params[:height]))
+      volume_rate = calculate(rates, volume_weight(params[:length], params[:width], params[:height]))
 
       return [weight_rate, volume_rate].max
     end
 
-    # Use this if you want to calculate volumetric weight from dimensions only
+    # Use this if you want to calculate volumetric weight from
+    # dimensions only
     #
-    # Usage: Xend::Formulat.get_volume_weight(10, 10, 10)
+    # Usage: Xend::Formulat.volume_weight(10, 10, 10)
     #
-    def self.get_volume_weight(l,w,h)
-      volume_weight = round_up([l,w,h].inject(&:*)/3500.0)
+    def self.volume_weight(l,w,h)
+      roundup((l * w * h) / VOLUME_DIVISOR)
     end
 
   private
-
     # Round up to the nearest tenths
-    def self.round_up(number)
-      (number * 100).ceil/100.0
+    def self.roundup(number)
+      (number * 100).ceil / 100.0
     end
 
     def self.add_tax(price_before_tax)
-      (price_before_tax * 1.12).round(2)
+      (price_before_tax * TAX).round(2)
     end
-
   end
 
   module Curl
@@ -154,7 +182,5 @@ private
     def self.errors(stderr)
       stderr.scan(/^curl: .*$/).join("\n")
     end
-
   end
-
 end
