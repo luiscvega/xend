@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Envelope
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
   <soap:Header>
     <AuthHeader xmlns="https://www.xend.com.ph/api/">
-      <UserToken>A80FF2CB-9523-4184-9C0C-F38707353241</UserToken>
+      <UserToken>{{ Xend::USER_TOKEN }}</UserToken>
     </AuthHeader>
   </soap:Header>
   <soap:Body>
