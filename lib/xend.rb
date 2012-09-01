@@ -29,6 +29,9 @@ module Xend
     (2.51..3.00) => 103.00,
   }
 
+  TAX = 1.12
+  VOLUME_DIVISOR = 3500.0
+
   Error = Class.new(StandardError)
 
   module Client
@@ -139,18 +142,17 @@ module Xend
     # Usage: Xend::Formulat.volume_weight(10, 10, 10)
     #
     def self.volume_weight(l,w,h)
-      volume_weight = roundup([l,w,h].inject(&:*)/3500.0)
+      roundup((l * w * h) / VOLUME_DIVISOR)
     end
 
   private
-
     # Round up to the nearest tenths
     def self.roundup(number)
-      (number * 100).ceil/100.0
+      (number * 100).ceil / 100.0
     end
 
     def self.add_tax(price_before_tax)
-      (price_before_tax * 1.12).round(2)
+      (price_before_tax * TAX).round(2)
     end
 
   end
