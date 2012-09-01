@@ -154,7 +154,6 @@ module Xend
     def self.add_tax(price_before_tax)
       (price_before_tax * TAX).round(2)
     end
-
   end
 
   module Curl
