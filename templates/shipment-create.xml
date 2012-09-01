@@ -11,23 +11,82 @@
   <soap:Body>
     <Create xmlns="https://www.xend.com.ph/api/">
       <shipment>
+
+        % if params.has_key?(:waybillno)
+          <WayBillNo>{{ params[:waybillno] }}</WayBillNo>
+        % end
+
         <ServiceTypeValue>{{ type }}</ServiceTypeValue>
-        <ShipmentTypeValue>Parcel</ShipmentTypeValue>
-        <PurposeOfExportValue>Other</PurposeOfExportValue>
-        <CountryManufactured>Philippines</CountryManufactured>
+        <ShipmentTypeValue>{{ params[:shipment_type] || "Parcel" }}</ShipmentTypeValue>
+        <PurposeOfExportValue>{{ params[:purpose] || "Other" }}</PurposeOfExportValue>
+
+        % if params.has_key?(:description)
+          <Description>{{ params[:description] }}</Description>
+        % end
+
+        % if params.has_key?(:client)
+          <ClientReference>{{ params[:client] }}</ClientReference>
+        % end
+
+        % if params.has_key?(:client)
+          <SpecialInstructions>string</SpecialInstructions>
+        % end
+
+        <CountryManufactured>{{ params[:country_manufactured] || "Philippines" }}</CountryManufactured>
         <Weight>{{ weight }}</Weight>
         <DimensionL>{{ length }}</DimensionL>
         <DimensionW>{{ width }}</DimensionW>
         <DimensionH>{{ height }}</DimensionH>
         <DeclaredValue>{{ params[:value] || 0 }}</DeclaredValue>
+
+        % if params.has_key?(:status)
+          <Status>{{ params[:status ]}}</Status>
+        % end
+
+        % if params.has_key?(:date_created)
+          <DateCreated>{{ params[:date_created] }}</DateCreated>
+        % end
+
+        % if params.has_key?(:date_printed)
+          <DatePrinted>{{ params[:date_printed]}}</DatePrinted>
+        % end
+
         <RecipientName>{{ name }}</RecipientName>
-        <RecipientCompanyName>None</RecipientCompanyName>
+
+        % if params.has_key?(:company)
+          <RecipientCompanyName>{{ params[:company] }}</RecipientCompanyName>
+        % end
+
         <RecipientAddress1>{{ address1 }}</RecipientAddress1>
-        <RecipientAddress2>{{ params[:address2] }}</RecipientAddress2>
+
+        % if params.has_key?(:address2)
+          <RecipientAddress2>{{ params[:address2] }}</RecipientAddress2>
+        % end
+
         <RecipientCity>{{ city }}</RecipientCity>
         <RecipientProvince>{{ province }}</RecipientProvince>
         <RecipientPostalCode>{{ zip }}</RecipientPostalCode>
-        <RecipientCountry>Philippines</RecipientCountry>
+
+        % if params.has_key?(:country)
+          <RecipientCountry>{{ params[:country]}}</RecipientCountry>
+        % end
+
+        % if params.has_key?(:phone)
+          <RecipientPhoneNo>{{ params[:phone] }}</RecipientPhoneNo>
+        % end
+
+        % if params.has_key?(:email)
+          <RecipientEmailAddress>{{ params[:email] }}</RecipientEmailAddress>
+        % end
+
+        % if params.has_key?(:shipping_fee)
+          <ShippingFee>{{ params[:shipping_fee] }}</ShippingFee>
+        % end
+
+        % if params.has_key?(:insurance_fee)
+          <InsuranceFee>{{ params[:insurance_fee]}}</InsuranceFee>
+        % end
+
         <IsInsured>{{ params[:value] ? true : false }}</IsInsured>
       </shipment>
     </Create>
