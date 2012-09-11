@@ -60,6 +60,10 @@ module Xend
     def self.shipment_create(params)
       post(SHIPMENT_URL, payload("shipment-create", params))
     end
+
+    def self.booking_schedule(params)
+      post(BOOKING_URL, payload("booking-scheduledev", params))
+    end
   end
 
   class Rate
@@ -78,6 +82,13 @@ module Xend
     def self.create(params)
       response = ShipmentResponse.new(Client.shipment_create(params))
       response.result
+    end
+  end
+
+  class Booking
+    def self.schedule(params)
+      response = BookingResponse.new(Client.booking_schedule(params))
+      response.refno
     end
   end
 
@@ -101,6 +112,12 @@ module Xend
 
     def result
       @data["CreateResponse"] && @data["CreateResponse"]["CreateResult"]
+    end
+  end
+
+  class BookingResponse < Response
+    def refno
+      @data["ScheduleDevResponse"] && @data["ScheduleDevResponse"]["ScheduleDevResult"]
     end
   end
 

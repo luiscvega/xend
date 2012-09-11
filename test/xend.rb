@@ -78,3 +78,18 @@ test "create" do
   assert_equal waybillno, shipment["WayBillNo"]
   assert_equal "Miguel Cacnio", shipment["RecipientName"]
 end
+
+# BookingService
+test "scheduledev" do
+  info = { date: Date.parse("September 14, 2012").strftime,
+           first_name: "Testing",
+           last_name: "Teste",
+           address1: "123 Testing Street",
+           city: "Quezon City",
+           province: "Metro Manila",
+           zip: "1103"}
+
+  refno = Xend::Booking.schedule(info)
+
+  assert refno
+end

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <AuthHeader xmlns="https://www.xend.com.ph/api/">
+      <UserToken>{{ Xend::DEVELOPER_ID }}</UserToken>
+    </AuthHeader>
+  </soap:Header>
+  <soap:Body>
+    <ScheduleDev xmlns="https://www.xend.com.ph/api/">
+      <BookingDate>{{ date }}</BookingDate>
+      <Remarks>TEST ONLY!!! DO NOT PICK UP!!!</Remarks>
+      <FirstName>{{ first_name }}</FirstName>
+      <LastName>{{ last_name }}</LastName>
+      <Street1>{{ address1 }}</Street1>
+      <Street2>{{ params[:address2] }}</Street2>
+      <City>{{ city }}</City>
+      <Province>{{ province }}</Province>
+      <PostalCode>{{ zip }}</PostalCode>
+      <Landmark>{{ params[:landmark] }}</Landmark>
+    </ScheduleDev>
+  </soap:Body>
+</soap:Envelope>
